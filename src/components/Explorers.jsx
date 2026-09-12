@@ -13,7 +13,7 @@ function HistoricalAtlas() {
   return (
     <div className="explorer-container">
       <div className="explorer-header">
-        <a href="#explore-deeper" className="back-link">← Hub</a>
+        <a href="/#explore-deeper" className="back-link">← Hub</a>
         <h2>Historical Atlas</h2>
         <div className="era-tabs">
           {atlasData.eras.map(e => (
@@ -48,7 +48,7 @@ function Connections() {
   return (
     <div className="explorer-container">
       <div className="explorer-header">
-        <a href="#explore-deeper" className="back-link">← Hub</a>
+        <a href="/#explore-deeper" className="back-link">← Hub</a>
         <h2>Connections: Why Here?</h2>
       </div>
       <div className="explorer-content">
@@ -92,7 +92,7 @@ function StoryDiscovery() {
   return (
     <div className="explorer-container">
       <div className="explorer-header">
-        <a href="#explore-deeper" className="back-link">← Hub</a>
+        <a href="/#explore-deeper" className="back-link">← Hub</a>
         <h2>Story Discovery</h2>
       </div>
       <div className="objects-grid">
@@ -134,7 +134,7 @@ function DocumentaryPeople() {
   return (
     <div className="explorer-container">
       <div className="explorer-header">
-        <a href="#explore-deeper" className="back-link">← Hub</a>
+        <a href="/#explore-deeper" className="back-link">← Hub</a>
         <h2>Documentary Profiles</h2>
       </div>
       <div className="people-grid">
@@ -152,17 +152,18 @@ function DocumentaryPeople() {
 }
 
 function Environment() {
-  const [season, setSeason] = useState(envData.seasons[0]);
-  const observations = envData.observations.filter(o => o.season_id.toLowerCase() === season.toLowerCase());
+  const [seasonId, setSeasonId] = useState(envData.seasons[0].id);
+  const observations = envData.observations.filter(o => o.season_id === seasonId);
+  const getRegionName = (id) => envData.regions.find(r => r.id === id)?.name || id;
 
   return (
     <div className="explorer-container">
       <div className="explorer-header">
-        <a href="#explore-deeper" className="back-link">← Hub</a>
+        <a href="/#explore-deeper" className="back-link">← Hub</a>
         <h2>Seasonal Gujarat</h2>
         <div className="era-tabs">
           {envData.seasons.map(s => (
-            <button key={s} onClick={() => setSeason(s)} className={`tab-btn ${season === s ? 'active' : ''}`}>{s}</button>
+            <button key={s.id} onClick={() => setSeasonId(s.id)} className={`tab-btn ${seasonId === s.id ? 'active' : ''}`}>{s.name}</button>
           ))}
         </div>
       </div>
@@ -170,7 +171,7 @@ function Environment() {
         <div className="env-grid">
           {observations.map(o => (
             <div key={o.id} className="env-card">
-              <h3>{o.region_id}</h3>
+              <h3>{getRegionName(o.region_id)}</h3>
               <p><strong>Rainfall/Temp:</strong> {o.rainfall_temp}</p>
               <p><strong>Water:</strong> {o.water_wetlands}</p>
               <p><strong>Agriculture:</strong> {o.agriculture_livelihoods}</p>
@@ -186,11 +187,11 @@ function Environment() {
 export default memo(function Explorers({ route }) {
   return (
     <section className="section-wrap" style={{ paddingTop: '100px', paddingBottom: '60px' }}>
-      {route === '#atlas-explorer' && <HistoricalAtlas />}
-      {route === '#connections-explorer' && <Connections />}
-      {route === '#objects-explorer' && <StoryDiscovery />}
-      {route === '#people-explorer' && <DocumentaryPeople />}
-      {route === '#environment-explorer' && <Environment />}
+      {route === '/explore/history' && <HistoricalAtlas />}
+      {route === '/explore/connections' && <Connections />}
+      {route === '/explore/objects' && <StoryDiscovery />}
+      {route === '/explore/people' && <DocumentaryPeople />}
+      {route === '/explore/environment' && <Environment />}
     </section>
   );
 });

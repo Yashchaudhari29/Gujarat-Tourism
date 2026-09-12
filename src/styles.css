@@ -410,7 +410,7 @@
 .sites-grid, .connections-grid, .objects-grid, .people-grid, .env-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
 .site-card, .conn-card, .object-card, .person-card, .env-card { background: var(--surface); border: 1px solid var(--border); padding: 24px; border-radius: 12px; }
 .badge { font-size: 0.7em; background: rgba(255,255,255,0.1); padding: 4px 8px; border-radius: 4px; float: right; }
-.gujarati-text { font-size: 1.2em; line-height: 1.8; margin: 16px 0; color: #eee; font-family: 'Gujarati Sangam MN', sans-serif; }
+.gujarati-text { font-size: 1.2em; line-height: 1.8; margin: 16px 0; font-family: 'Gujarati Sangam MN', sans-serif; }
 .pronunciation { color: var(--secondary); display: block; margin-bottom: 24px; font-style: italic; }
 
 
@@ -636,3 +636,6 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}.route-page *,.gaurav-section *{animation:none!important;transition:none!important}.personality-card:hover{transform:none}}
 .reduce-motion .route-page *,.reduce-motion .gaurav-section *{animation:none!important;transition:none!important}.reduce-motion .personality-card:hover{transform:none}
 @media print{.header,footer,.skip,.chapter-nav,.directory-controls,.tag-list,button,.related-section{display:none!important}.route-page{background:white!important;padding:0;color:black}.reading-layout{display:block}.profile-hero{display:block}.profile-portrait{width:140px;height:160px;float:left;margin-right:20px}.reading-body section{break-inside:avoid}.route-page a{text-decoration:underline}}
+
+.personality-card.featured-person { grid-column: 1 / -1; display: grid; grid-template-columns: 300px 1fr; gap: 2rem; align-items: center; }
+@media (max-width: 768px) { .personality-card.featured-person { grid-template-columns: 1fr; gap: 1rem; } }

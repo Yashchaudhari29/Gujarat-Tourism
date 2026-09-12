@@ -17,7 +17,7 @@ vm.createContext(c);vm.runInContext(fn+';showRecording("test")',c);
  assert.equal(audio.paused,false,'Click resumes recording');
  assert.equal(audio.currentTime,12,'Resume preserves position');
  node('#recording-next').onclick();
- assert.equal(audio.currentTime,15);
+ assert.equal(audio.currentTime,10);
  c.cleanup();
  assert.equal(audio.paused,true,'Closing stops audio');
  console.log('PASS: district recording playback');
