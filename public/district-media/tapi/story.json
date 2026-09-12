@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://tapi.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "તાપી નદીની ખીણ",
+      "text": "દક્ષિણ ગુજરાતનું આદિવાસી બહુમતી ધરાવતું ક્ષેત્ર.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઉકાઈ ડેમ",
+      "text": "ગુજરાતનો સૌથી મોટો ડેમ. ઉકાઈ જળાશય.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ગામિત-ચૌધરી સંસ્કૃતિ",
+      "text": "આદિવાસી નૃત્ય, હોળી ઉત્સવ, વાંસ કળા.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "સાગ અને વાંસના જંગલો",
+      "text": "દક્ષિણ ગુજરાતનું હરિયાળું ટેકરી ક્ષેત્ર.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "tapi",
+  "title": "tapi Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "tapi",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://navsari.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "પારસી સંસ્કૃતિનું ધામ",
+      "text": "ભારતમાં પારસીઓનું પ્રથમ આગમન. આતશ બહેરામ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "દાંડી—મીઠાનો સત્યાગ્રહ",
+      "text": "૧૯૩૦ની દાંડી કૂચનું અંતિમ સ્થાન.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "કેરી અને ખેતી",
+      "text": "હાફૂસ કેરી, ચીકુ, શેરડી. દક્ષિણ ગુજરાતનું ફળ બાગાયત.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ઉનાઈ ગરમ પાણીના ઝરા",
+      "text": "કુદરતી ગરમ પાણીના ઝરા. પ્રવાસન સ્થળ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "navsari",
+  "title": "navsari Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "navsari",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

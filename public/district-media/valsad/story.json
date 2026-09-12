@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://valsad.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગુજરાતનો દક્ષિણ છેડો",
+      "text": "મહારાષ્ટ્ર-ગુજરાત સીમા. દરિયાકિનારો અને ટેકરીઓ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "વિલ્સન હિલ્સ",
+      "text": "ગુજરાતનું ગિરિમથક. અંગ્રેજ કાળનો ઉનાળુ અડ્ડો.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ચીકુ અને કેરી",
+      "text": "ભારતનું સૌથી મોટું ચીકુ ઉત્પાદક ક્ષેત્ર.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "પારડી અને ધરમપુર",
+      "text": "આદિવાસી વિસ્તાર, જંગલો, વોટરફોલ્સ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "valsad",
+  "title": "valsad Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "valsad",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

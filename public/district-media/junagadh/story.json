@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://junagadh.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગિરનારના પવિત્ર શિખરો",
+      "text": "૧૦,૦૦૦ પગથિયાંની યાત્રા. અશોકનો શિલાલેખ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઉપરકોટ કિલ્લો",
+      "text": "૨,૩૦૦ વર્ષ જૂનો કિલ્લો. બૌદ્ધ ગુફાઓ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "નવાબી વારસો",
+      "text": "જૂનાગઢ રાજ્ય, મહાબત મકબરો, દરબાર હોલ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "કેસર કેરી અને કૃષિ",
+      "text": "ગિર કેસર કેરી (GI Tag). ફળ બાગાયત.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "junagadh",
+  "title": "junagadh Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "junagadh",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

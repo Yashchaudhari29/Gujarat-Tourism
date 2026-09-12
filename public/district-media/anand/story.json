@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://anand.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://amul.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "શ્વેત ક્રાંતિની ભૂમિ",
+      "text": "અમૂલ—ભારતની શ્વેત ક્રાંતિનું જન્મસ્થાન.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "વર્ગીસ કુરિયનનું વિઝન",
+      "text": "ઓપરેશન ફ્લડ અને ડેરી સહકારી ચળવળ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ચરોતર પ્રદેશ",
+      "text": "વલ્લભ વિદ્યાનગર, કેળવણી ટ્રસ્ટો, NRI ડાયસ્પોરા.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ખંભાતનો ઐતિહાસિક વારસો",
+      "text": "પ્રાચીન બંદર, અકીક ઉદ્યોગ, મરીન ટ્રેડ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "anand",
+  "title": "anand Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "anand",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

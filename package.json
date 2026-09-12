@@ -1,0 +1,22 @@
+{
+    "name":  "gujarat-unveiled",
+    "private":  true,
+    "version":  "1.0.0",
+    "type":  "module",
+    "scripts":  {
+                    "dev":  "vite --host 0.0.0.0",
+                    "build":  "vite build \u0026\u0026 node scripts/prerender.mjs",
+                    "preview":  "vite preview --host 0.0.0.0",
+                    "test":  "node scripts/check-player.cjs \u0026\u0026 node scripts/check-district-player.cjs \u0026\u0026 node scripts/check-migration.mjs",
+                    "prebuild":  "node scripts/district-media.mjs",
+                    "predev":  "node scripts/district-media.mjs"
+                },
+    "dependencies":  {
+                         "react":  "19.3.0",
+                         "react-dom":  "19.3.0"
+                     },
+    "devDependencies":  {
+                            "vite":  "7.3.1",
+                            "esbuild":  "0.27.7"
+                        }
+}

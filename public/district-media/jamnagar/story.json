@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://jamnagar.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "રાજા રણજીતસિંહજીનું નગર",
+      "text": "ક્રિકેટ લિજેન્ડ જામ રણજીતસિંહજીની નગરી.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "રિલાયન્સ ઓઈલ રિફાઈનરી",
+      "text": "વિશ્વની સૌથી મોટી ઓઈલ રિફાઈનરી કોમ્પ્લેક્સ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "મરીન નેશનલ પાર્ક",
+      "text": "ભારતનું પ્રથમ મરીન નેશનલ પાર્ક. કોરલ રીફ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "બાંધણી અને પિત્તળ ઉદ્યોગ",
+      "text": "જામનગરી બાંધણી (GI Tag), પિત્તળ ભાંડા.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "jamnagar",
+  "title": "jamnagar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "jamnagar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

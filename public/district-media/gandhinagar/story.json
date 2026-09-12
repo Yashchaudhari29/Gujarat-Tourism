@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://gandhinagar.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ભારતનું ગ્રીનેસ્ટ કેપિટલ",
+      "text": "ભારતના સૌથી લીલાંછમ રાજધાની શહેરોમાંનું એક.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "અક્ષરધામ મંદિર",
+      "text": "સ્વામિનારાયણ સંપ્રદાયનું ભવ્ય મંદિર. સ્થાપત્ય ચમત્કાર.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "GIFT City",
+      "text": "ગુજરાત ઇન્ટરનેશનલ ફાઇનાન્સ ટેક-સિટી. આંતરરાષ્ટ્રીય નાણાકીય કેન્દ્ર.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "મહાત્મા મંદિર",
+      "text": "કન્વેન્શન સેન્ટર, વાઇબ્રન્ટ ગુજરાત સમિટ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "gandhinagar",
+  "title": "gandhinagar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "gandhinagar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

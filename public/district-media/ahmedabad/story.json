@@ -1,0 +1,81 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://whc.unesco.org/en/list/1551/"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://ahmedabad.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com/destination/ahmedabad"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "સમયના વહેણમાં અડીખમ ધબકતું હૃદય",
+      "text": "ભારતનું સૌથી પહેલું વર્લ્ડ હેરિટેજ સિટી, સાબરમતી નદીના કાંઠે.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "લોથલનું બંદર",
+      "text": "સિંધુ ખીણની સભ્યતાનું પ્રથમ ટાઈડલ ડોકયાર્ડ. નેશનલ મેરીટાઇમ હેરિટેજ કોમ્પ્લેક્સ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "પોળ સંસ્કૃતિ - યુનેસ્કો વર્લ્ડ હેરિટેજ",
+      "text": "સીદી સૈયદની જાળી, ઝરૂખા, ભૂલભૂલામણી ગલીઓ. ૬૦૦ વર્ષ જૂનું સામાજિક માળખું.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ભારતીય સ્વાતંત્ર્ય સંગ્રામનું એપીસેન્ટર",
+      "text": "સાબરમતી આશ્રમ, દાંડી કૂચ, મજૂર મહાજન સંઘ. ગાંધીજીનું કાર્યક્ષેત્ર.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "title": "માન્ચેસ્ટર ઓફ ઇન્ડિયા થી ઓટો હબ",
+      "text": "રણછોડલાલ છોટાલાલની મિલથી સાણંદ ઓટોમોબાઈલ હબ સુધીની સફર.",
+      "image": "images/scene4.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 50,
+      "end": 60,
+      "title": "વિક્રમ સારાભાઈનું વિઝન",
+      "text": "IIM, NID, PRL, CEPT, ISRO SAC—અમદાવાદ બૌદ્ધિક મૂડીનું કેન્દ્ર.",
+      "image": "images/scene5.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 60,
+      "end": 70,
+      "title": "ભવિષ્યની મેટ્રોપોલિસ",
+      "text": "સાબરમતી રિવરફ્રન્ટ, નરેન્દ્ર મોદી ક્રિકેટ સ્ટેડિયમ, બુલેટ ટ્રેન, GIFT City.",
+      "image": "images/scene6.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "ahmedabad",
+  "title": "ahmedabad Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "ahmedabad",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

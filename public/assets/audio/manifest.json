@@ -1,0 +1,178 @@
+{
+  "rann-1.mp3": {
+    "seconds": 19.32,
+    "transcript_sha256": "5be2f77480a5903cb64b0cf8f87fe7408f60dbacfcdf691f032cc116fae47c1a"
+  },
+  "rann-2.mp3": {
+    "seconds": 20.34,
+    "transcript_sha256": "2e4f42d398d028c2f2adfdf709d8d390f7954ff681c9cdc5bfbaa8e59fd6e5e0"
+  },
+  "rann-3.mp3": {
+    "seconds": 17.25,
+    "transcript_sha256": "c5f8adedabc0a9d7e68210d85992b2998d88b9462223c278d4ac80ca86827848"
+  },
+  "rann-4.mp3": {
+    "seconds": 29.46,
+    "transcript_sha256": "b958e365382c62fcc231f29d3bdfdc4b72b74e65dd1129b71c9e5489cfe3d941"
+  },
+  "dholavira-1.mp3": {
+    "seconds": 16.88,
+    "transcript_sha256": "df5e13975f1e899b87fc8fb2e2cb9d16f7d8bf030acc9d99334354929f168ce7"
+  },
+  "dholavira-2.mp3": {
+    "seconds": 17.03,
+    "transcript_sha256": "bfbdfb27d4282d13474109b2b7f89a858b3a1d6adf98ffa2880d1ae162fcd336"
+  },
+  "dholavira-3.mp3": {
+    "seconds": 19.31,
+    "transcript_sha256": "b1030bc6e2eb74632bef05cfc72c4739e2ab2a8065cbe6ad77521fad68124d25"
+  },
+  "dholavira-4.mp3": {
+    "seconds": 32.95,
+    "transcript_sha256": "ae2307f0686484070b7dbc47a0fdf6488f8888117921e07af9e797cf9bfdbcd8"
+  },
+  "stepwell-1.mp3": {
+    "seconds": 17.77,
+    "transcript_sha256": "8ca261ac035f0b0346307ab13f57372d52f349ba854f068e967eae39b7e50637"
+  },
+  "stepwell-2.mp3": {
+    "seconds": 16.9,
+    "transcript_sha256": "58eeec04c691d1131b7e30444f678e29e8a310cbbaa51c4bf8075d9adf974d7d"
+  },
+  "stepwell-3.mp3": {
+    "seconds": 16.35,
+    "transcript_sha256": "cae8efdde49090e4b4a84966ee926f4b4e40a43f6ccfc7079b6eb6037a44ebb9"
+  },
+  "stepwell-4.mp3": {
+    "seconds": 33.22,
+    "transcript_sha256": "97f4424fc15098d568e81d2f42a2dbde27151e10853f75c16adcc0a103b82428"
+  },
+  "patola-1.mp3": {
+    "seconds": 18.61,
+    "transcript_sha256": "9ab5ba8bd45e41b4555223d6f6e0dea66f51f998c2ae8b6da77aabf978ec5a00"
+  },
+  "patola-2.mp3": {
+    "seconds": 16.82,
+    "transcript_sha256": "aee1a027623a5925fc982ed974e9e064c0b539ee6f438c8c0153f7a17613bfa1"
+  },
+  "patola-3.mp3": {
+    "seconds": 16.43,
+    "transcript_sha256": "80fee541df8a9e63a8d331d96e400bd4aa0de18934b6d76911c5cfd96ef9deb4"
+  },
+  "patola-4.mp3": {
+    "seconds": 31.48,
+    "transcript_sha256": "8da0e33d36c85ae2584d2b97f6fcc687eed41832d6793169b689d43b2820562a"
+  },
+  "modhera-1.mp3": {
+    "seconds": 18.1,
+    "transcript_sha256": "8010e7701a02a367caf75c2cc12383042ca6194bcc0650a99a95f7eab25ff8ba"
+  },
+  "modhera-2.mp3": {
+    "seconds": 15.03,
+    "transcript_sha256": "c93d16aee868e2e4aa963117c7183d43433c4801fddeeb7ee77bbd1d3a307088"
+  },
+  "modhera-3.mp3": {
+    "seconds": 16.9,
+    "transcript_sha256": "c96afe56af907855627c8ecdeea5f60569cbb8f8fd1f7b281e3798a5e0b0640b"
+  },
+  "modhera-4.mp3": {
+    "seconds": 29.23,
+    "transcript_sha256": "3ca4151ad29c5efaf9764757f9e17164e08661c8e2a16be382b816fc50b86e2f"
+  },
+  "ahmedabad-1.mp3": {
+    "seconds": 16.32,
+    "transcript_sha256": "543135358608e1e9a0ea37edc20903c490d7359fde5fecbd73b08e6fddeb505c"
+  },
+  "ahmedabad-2.mp3": {
+    "seconds": 20.1,
+    "transcript_sha256": "3e31ab22b3e8ef8ca13597814203f7214c9fe136b430e01f5fb50cdd8d176705"
+  },
+  "ahmedabad-3.mp3": {
+    "seconds": 17.55,
+    "transcript_sha256": "dd06e9a54d4b2cf0cc8b6d68d27630829766fdbbd33d155650cd4f699a7ad0bb"
+  },
+  "ahmedabad-4.mp3": {
+    "seconds": 31.0,
+    "transcript_sha256": "8ac40926f931e03ced3a560ee0e43e462aa399db0ce3a86bf3397f55e026583e"
+  },
+  "gir-1.mp3": {
+    "seconds": 16.93,
+    "transcript_sha256": "5d5815b3b64797193f3380b60b56d65ebe3d7474073da9cf5e0dd058da07e37c"
+  },
+  "gir-2.mp3": {
+    "seconds": 16.74,
+    "transcript_sha256": "ac1a3fb9e24055103285ce7928ead3478a42ee799fc124cb027908530a2acf1a"
+  },
+  "gir-3.mp3": {
+    "seconds": 17.31,
+    "transcript_sha256": "bc76c2d2a361551f3d59bbcc7ab3a6940b4daf4b6d0679d488d96b465f2a4771"
+  },
+  "gir-4.mp3": {
+    "seconds": 32.01,
+    "transcript_sha256": "782ae49bf1ecef992316868878a439926b240568e14640cbe691906da1404bb4"
+  },
+  "marine-1.mp3": {
+    "seconds": 16.35,
+    "transcript_sha256": "0e09616fe89ce35c99ddef4480ffcb391e71fcf626b4733b1bf75f2990977741"
+  },
+  "marine-2.mp3": {
+    "seconds": 14.64,
+    "transcript_sha256": "73a662545b30125c41e4414cdcbcbb66c62463a1cf3c6434da69277755ecd39e"
+  },
+  "marine-3.mp3": {
+    "seconds": 17.65,
+    "transcript_sha256": "f93fe2b8374e8cd6d3773870321d048f141357d0ac52851314be30f40bfdf279"
+  },
+  "marine-4.mp3": {
+    "seconds": 34.12,
+    "transcript_sha256": "0121fd2ec378d5219196118dd289b3862b525777abee1e59bf888ac8abd27177"
+  },
+  "somnath-1.mp3": {
+    "seconds": 19.03,
+    "transcript_sha256": "72cbd26007bb5ffc1ea09095f736561a5de8700ccb1526d475dda840077c6311"
+  },
+  "somnath-2.mp3": {
+    "seconds": 17.33,
+    "transcript_sha256": "7dcde0a34ac5df47a8e17d0894e1b8a079a0ba4408aabe7152adde3921f2df31"
+  },
+  "somnath-3.mp3": {
+    "seconds": 15.64,
+    "transcript_sha256": "7720b06c44546513172c2a89bc101d6dd1dcc0dbcd527eda073500e70f2b4989"
+  },
+  "somnath-4.mp3": {
+    "seconds": 34.73,
+    "transcript_sha256": "1b73efd48b50c94ee4c58ca5563bc27c47094594859f54725accdc311d07410f"
+  },
+  "lothal-1.mp3": {
+    "seconds": 19.12,
+    "transcript_sha256": "75e53f5cd054f0df2e143d41dae2bd9740ac1fc4304dcf289177649ee6ee1512"
+  },
+  "lothal-2.mp3": {
+    "seconds": 19.28,
+    "transcript_sha256": "154eaa7488e15f0360e9ba5b5b8cf4383dece983715450f08a4333c14716dd11"
+  },
+  "lothal-3.mp3": {
+    "seconds": 19.22,
+    "transcript_sha256": "ed63888937ddbda4fd5758fac554314b9bf8df1ee4aeeb1fc73fc8d93a5d1aef"
+  },
+  "lothal-4.mp3": {
+    "seconds": 30.3,
+    "transcript_sha256": "1e3e85977629a92ae6233b46a6da3b2fca434ca84564bcf4b9885354a66aa380"
+  },
+  "sabarmati-1.mp3": {
+    "seconds": 18.8,
+    "transcript_sha256": "7d0a54b85b81c85463b2574607a0872b820a98658fd9a02f630d7552050f459e"
+  },
+  "sabarmati-2.mp3": {
+    "seconds": 17.64,
+    "transcript_sha256": "2c5b13edead9256ac0532a187fad4a99632c8a2ae9fdc698fac4129157fa317e"
+  },
+  "sabarmati-3.mp3": {
+    "seconds": 18.82,
+    "transcript_sha256": "7e6fc5881744d939d9bf67d88c7be367dc7c49ad2cdb5ff3508a5636ea67bb4e"
+  },
+  "sabarmati-4.mp3": {
+    "seconds": 34.66,
+    "transcript_sha256": "f9f01bae2886d3d24b3e6b5fba67043a85196e6c8bbfe86a2068a060a536ef65"
+  }
+}

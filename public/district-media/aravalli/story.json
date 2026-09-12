@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://arvalli.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "અરવલ્લી ડુંગરોની ગોદમાં",
+      "text": "ઉત્તર-પૂર્વ ગુજરાતનો ટેકરીઓ અને જંગલોથી ઘેરાયેલો પ્રદેશ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઔષધીય વનસ્પતિ",
+      "text": "જૈવવિવિધતા અને ઔષધીય છોડોનો ખજાનો.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ભીલ-આદિવાસી સંસ્કૃતિ",
+      "text": "ભીલ ચિત્રકળા, હોળીના ટીમલી નૃત્ય, ગરબા.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "શામળાજી તીર્થ",
+      "text": "મેશ્વો નદી કિનારે આવેલું પ્રાચીન મંદિર અને ઐતિહાસિક સ્થળ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "aravalli",
+  "title": "aravalli Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "aravalli",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

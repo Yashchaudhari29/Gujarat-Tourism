@@ -1,0 +1,61 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://rajkot.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com/destination/rajkot"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "સૌરાષ્ટ્રની ધબકતી નાડી",
+      "text": "આજી અને ન્યારી નદીના કાંઠે વસેલું સૌરાષ્ટ્રનું હૃદય.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "રજવાડાથી લઈને રાષ્ટ્રપિતા સુધી",
+      "text": "કબા ગાંધીનો ડહેલો, રાજકુમાર કોલેજ, કાઠિયાવાડ એજન્સી.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ભારતનું મશીનરી પાવરહાઉસ",
+      "text": "ઓટોમોબાઇલ પાર્ટ્સ, ફોર્જિંગ, સબમર્સિબલ પંપ, CNC મશીનો.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "રંગીલું લોકજીવન",
+      "text": "જન્માષ્ટમી લોકમેળો, ફાફડા-જલેબી, કાઠિયાવાડી થાળી.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "title": "વિઝન ૨૦૪૭",
+      "text": "AIIMS, હીરાસર ઇન્ટરનેશનલ એરપોર્ટ, સ્માર્ટ સિટી.",
+      "image": "images/scene4.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "rajkot",
+  "title": "rajkot Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "rajkot",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

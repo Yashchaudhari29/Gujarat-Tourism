@@ -1,0 +1,6 @@
+import { memo } from 'react';
+import { regions, episodes, crafts } from '../data/content.js';
+const Photo=({file,alt})=><img className="" src={`assets/${file}`} alt={alt} loading="lazy" />;
+export const RegionCards=memo(function RegionCards(){return Object.entries(regions).map(([id,r],i)=><button className="region-card" data-region={id} key={id}><Photo file={r.image} alt={r.name}/><span className="card-number">0{i+1}</span><span className="card-text"><small>{r.tag}</small><strong>{r.name}</strong><span>{r.teaser}<b>↗</b></span></span></button>)});
+export const CraftCards=memo(function CraftCards(){return crafts.map(c=><button className="craft-card" data-craft={c.id} key={c.id}><span className="craft-image"><Photo file={c.image} alt={c.name}/></span><span>{c.name}<span>⌕</span></span></button>)});
+export const StoryCards=memo(function StoryCards(){return Object.entries(episodes).map(([id,e])=><button className="episode-card" data-episode={id} key={id}><div><Photo file={e.image} alt={e.title}/><span className="play-circle">▷</span><span className="episode-count">{e.chapters.length} CHAPTERS · ગુજરાતી</span></div><span className="eyebrow">{e.kind}</span><h3 lang="gu">{e.gu}</h3><span className="episode-en">{e.title} <b>↗</b></span></button>)});

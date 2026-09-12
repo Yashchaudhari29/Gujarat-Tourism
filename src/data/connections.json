@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lothal-maritime-trade",
+    "title": "Lothal Maritime Trade",
+    "category": "trade",
+    "development": "A major port city of the Indus Valley Civilization featuring a highly engineered dockyard and warehouse.",
+    "local_conditions": "Strategic location near the Gulf of Khambhat with access to the Sabarmati river, connecting the hinterland's raw materials to the Arabian Sea.",
+    "contributors": "Harappan merchants, artisans specializing in micro-beads, and early hydraulic engineers.",
+    "evolution": "Thrived around 2400-1900 BCE; later declined due to devastating floods.",
+    "connections": "Linked to Mesopotamia (Sumer), Dilmun (Bahrain), and Magan (Oman).",
+    "modern_relevance": "Demonstrates early mastery of tidal engineering.",
+    "evidence_status": "Documented"
+  },
+  {
+    "id": "surat-diamond-polishing",
+    "title": "Surat Diamond Polishing",
+    "category": "craft",
+    "development": "The global hub for cutting and polishing over 90% of the world's diamonds.",
+    "local_conditions": "Entrepreneurial Patidar and Jain communities, coastal trading access, and a dense network of highly skilled, low-cost artisans.",
+    "contributors": "Local entrepreneurs, migrant artisans from Saurashtra, global mining companies.",
+    "evolution": "Started in the early 20th century, booming in the 1970s with the export of small diamonds.",
+    "connections": "Linked to Antwerp, Mumbai, and African diamond mines.",
+    "modern_relevance": "Drives a massive portion of India's gem and jewelry export economy.",
+    "evidence_status": "Documented"
+  },
+  {
+    "id": "kutch-embroidery",
+    "title": "Kutch Embroidery",
+    "category": "craft",
+    "development": "Distinctive, highly intricate needlework and mirror work styles (like Rabari, Ahir).",
+    "local_conditions": "Arid landscape necessitated indoor crafts; vibrant threads counteract the barren desert visuals.",
+    "contributors": "Pastoral and nomadic communities, primarily women artisans.",
+    "evolution": "Evolved over centuries through migration from Sindh, adapting to commercial markets today.",
+    "connections": "Linked to Sindh, Rajasthan, and modern global fashion markets.",
+    "modern_relevance": "Preserves nomadic heritage and provides critical livelihood to rural women.",
+    "evidence_status": "Documented"
+  },
+  {
+    "id": "alang-shipbreaking",
+    "title": "Alang Shipbreaking Yard",
+    "category": "industry",
+    "development": "The world's largest shipbreaking and recycling yard.",
+    "local_conditions": "High tidal range of 10 meters and a gentle sloping beach allow massive ships to be beached easily at high tide.",
+    "contributors": "Migrant laborers, scrap steel merchants, global shipping corporations.",
+    "evolution": "Began in 1983 and rapidly expanded to recycle nearly half of all salvaged ships globally.",
+    "connections": "Linked to global shipping routes, Punjab/Haryana steel mills.",
+    "modern_relevance": "Provides massive amounts of recycled steel and parts, though with environmental debates.",
+    "evidence_status": "Documented"
+  },
+  {
+    "id": "amul-cooperative",
+    "title": "Anand Dairy Cooperative (Amul)",
+    "category": "agriculture",
+    "development": "A massive dairy cooperative model (Operation Flood) that made India the world's largest milk producer.",
+    "local_conditions": "Exploitation of local farmers by middlemen led to a rural mobilization in the fertile Charotar region.",
+    "contributors": "Tribhuvandas Patel, Verghese Kurien, local milk-producing farmers (mostly women).",
+    "evolution": "Started in 1946 with two village societies, growing into a multi-billion dollar federation.",
+    "connections": "Linked to rural villages across Gujarat and consumers nationwide.",
+    "modern_relevance": "The gold standard for agricultural cooperatives and rural empowerment.",
+    "evidence_status": "Documented"
+  }
+]

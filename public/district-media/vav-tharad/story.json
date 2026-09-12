@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://igod.gov.in/sg/GJ/E042/organizations"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગુજરાતનો નવો જિલ્લો",
+      "text": "બનાસકાંઠામાંથી નવરચિત જિલ્લો. રાજસ્થાન સીમા.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "રણ વિસ્તાર",
+      "text": "ગ્રેટ રણ ઓફ કચ્છની પૂર્વ સીમા. ખેતી અને પશુપાલન.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "થરાદ તાલુકો",
+      "text": "ઐતિહાસિક બજાર. સરહદી વેપાર.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "પાણી સંરક્ષણ",
+      "text": "સુજલામ સુફલામ યોજના. જળ સંચય.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "vav-tharad",
+  "title": "vav-tharad Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "vav-tharad",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

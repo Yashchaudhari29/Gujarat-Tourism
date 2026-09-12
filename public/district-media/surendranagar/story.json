@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://surendranagar.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "નાના રણની ધાર",
+      "text": "ભારતીય ઘુડખર અભયારણ્ય. લિટલ રણ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "તરણેતર મેળો",
+      "text": "ગુજરાતનો સૌથી પ્રખ્યાત લોકમેળો. છત્રીઓનો ઉત્સવ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "વઢવાણ કિલ્લો",
+      "text": "ઐતિહાસિક ગઢ. ઝાલા વંશનો વારસો.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "કપાસ અને મીઠું",
+      "text": "સૌરાષ્ટ્રનું કૃષિ-ઔદ્યોગિક કેન્દ્ર.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "surendranagar",
+  "title": "surendranagar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "surendranagar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

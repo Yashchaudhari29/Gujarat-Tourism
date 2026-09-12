@@ -1,0 +1,7 @@
+import { CraftCards } from "./ContentCards.jsx";
+import { memo } from "react";
+
+// Preserve the existing element structure and styling during migration.
+export default memo(function Heritage() {
+  return (<section className="heritage-section section-wrap" id="heritage"><div className="section-heading"><div><span className="eyebrow">{"TRACES OF TIME"}</span><h2>{"Centuries, carved in stone."}<br /><em>{"Traditions, woven by hand."}</em></h2></div><p>{"Walk through ancient cities."}<br />{"Meet the crafts that never stood still."}</p></div><div className="timeline" aria-label="Historical eras"><button className="era active" data-era="0"><span>{"c. 3000 BCE"}</span><strong>{"Indus Valley"}</strong></button><button className="era" data-era="1"><span>{"11TH–13TH CENTURY"}</span><strong>{"Solanki splendour"}</strong></button><button className="era" data-era="2"><span>{"16TH–18TH CENTURY"}</span><strong>{"Mughal Gujarat"}</strong></button><button className="era" data-era="3"><span>{"19TH–20TH CENTURY"}</span><strong>{"Paths to freedom"}</strong></button><button className="era" data-era="4"><span>{"TODAY & BEYOND"}</span><strong>{"Living heritage"}</strong></button></div><article className="era-feature" id="era-feature"></article><div className="craft-header"><h3>{"The art of belonging"}</h3><span>{"Look closer. Every detail tells a story."}</span></div><div className="craft-grid" id="craft-grid"><CraftCards /></div></section>);
+});

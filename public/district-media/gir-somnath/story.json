@@ -1,0 +1,57 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://girsomnath.gujarat.gov.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://somnath.org/"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "સોમનાથ—અમર તીર્થ",
+      "text": "જ્યોતિર્લિંગ અને સમુદ્ર કિનારે આવેલું પવિત્ર મંદિર.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ગીર રાષ્ટ્રીય ઉદ્યાન",
+      "text": "એશિયાઈ સિંહનો છેલ્લો કુદરતી નિવાસ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "જૂનાગઢથી વેરાવળ",
+      "text": "દીવ ટાપુ, ઐતિહાસિક બંદર, માછીમારી.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "તુલસીશ્યામ અને સાસણ",
+      "text": "ગરમ પાણીના ઝરા, ઇકો-ટૂરિઝમ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "gir-somnath",
+  "title": "gir-somnath Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "gir-somnath",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

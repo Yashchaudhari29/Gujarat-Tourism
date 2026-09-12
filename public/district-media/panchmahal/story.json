@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://panchmahals.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://whc.unesco.org/en/list/1101/"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ચાંપાનેર-પાવાગઢ",
+      "text": "યુનેસ્કો વર્લ્ડ હેરિટેજ સાઇટ. ગુજરાત સલ્તનતનું પાટનગર.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "કાલિકા માતા મંદિર",
+      "text": "પાવાગઢ ટેકરી પર આવેલું શક્તિપીઠ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "જાંબુઘોડા અભયારણ્ય",
+      "text": "દીપડા, રીંછ. મધ્ય ગુજરાતનું વન્યજીવન.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "હાલોલ ઔદ્યોગિક વિસ્તાર",
+      "text": "ઓટોમોબાઈલ અને ફૂડ પ્રોસેસિંગ ઉદ્યોગ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "panchmahal",
+  "title": "panchmahal Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "panchmahal",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

@@ -1,0 +1,73 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://whc.unesco.org/en/list/1645/"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://kachchh.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com/destination/kutch"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "વિરાટતા અને વિસ્મયની ભૂમિ",
+      "text": "ગુજરાતના નકશા પર નજર નાખતાં જ જે પ્રદેશ પોતાની ભૌગોલિક વિશાળતા અને અનોખા આકારથી ધ્યાન ખેંચે છે, તે છે કચ્છ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પૃથ્વીના ગર્ભનો રહસ્યમય નકશો",
+      "text": "કચ્છ સિસ્મિક ઝોન-૫ માં આવે છે. ધરતીકંપની દ્રષ્ટિએ અત્યંત સંવેદનશીલ ભૂમિ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ધોળાવીરાથી કચ્છી રજવાડા સુધી",
+      "text": "કચ્છનો ઐતિહાસિક વારસો પાંચ હજાર વર્ષ જૂનો છે. ધોળાવીરા યુનેસ્કો વર્લ્ડ હેરિટેજ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "સોલ્ટથી લઈને સુપરપોર્ટ સુધી",
+      "text": "ભારતના સમુદ્રી વેપારમાં કચ્છનું યોગદાન અપ્રતિમ છે. કંડલા અને મુન્દ્રા પોર્ટ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "title": "સોયના ટાંકાથી વૈશ્વિક ઓળખ",
+      "text": "રોગન આર્ટ, અજરખ પ્રિન્ટ, ભરતકામ અને લિપ્પન કામ—કચ્છની ખરી આત્મા.",
+      "image": "images/scene4.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 50,
+      "end": 60,
+      "title": "રાષ્ટ્રનો અભેદ્ય કિલ્લો",
+      "text": "ખાવડા હાઇબ્રિડ રિન્યુએબલ એનર્જી પાર્ક અને વ્યૂહાત્મક સંરક્ષણ મહત્વ.",
+      "image": "images/scene5.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "kutch",
+  "title": "kutch Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "kutch",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://bharuch.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "નર્મદા કિનારે પ્રાચીન નગર",
+      "text": "ભૃગુકચ્છ—ભારતના સૌથી જૂના બંદરોમાંનું એક.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ગ્રીક-રોમન વેપારનું કેન્દ્ર",
+      "text": "પેરિપ્લસ ઓફ ધ એરિથ્રિયન સી માં ઉલ્લેખિત બાર્યગાઝા.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "પેટ્રોકેમિકલ પાટનગર",
+      "text": "GPCL, GNFC, ભરૂચ GIDC—ગુજરાતનું ઔદ્યોગિક હૃદય.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "નર્મદાનો કુદરતી વારસો",
+      "text": "શૂલપાણેશ્વર અભયારણ્ય, ગોલ્ડન બ્રિજ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "bharuch",
+  "title": "bharuch Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "bharuch",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

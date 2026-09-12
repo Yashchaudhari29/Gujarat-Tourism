@@ -1,0 +1,6 @@
+import { memo } from "react";
+
+// Preserve the existing element structure and styling during migration.
+export default memo(function Wildlife() {
+  return (<section className="wildlife-section" id="wildlife"><div className="wildlife-photo"></div><div className="wildlife-content"><span className="eyebrow">{"WILD AT HEART"}</span><h2>{"Some stories"}<br />{"leave "}<em>{"footprints."}</em></h2><p>{"From the last wild home of the Asiatic lion to flamingo-filled wetlands and tidal reefs. Explore the connections that keep Gujarat wild."}</p><button className="primary" data-region="gir">{"Step into Gir "}<span>{"↗"}</span></button><div className="habitat-tabs"><button className="active" data-habitat="gir">{"01 / Dry forest"}</button><button data-habitat="kutch">{"02 / Salt wetlands"}</button><button data-habitat="coast">{"03 / Marine world"}</button></div><div className="ecosystem"><span>{"EXPLORE THE FOOD WEB"}</span><div><button data-eco="plants">{"Plants & algae"}</button><span>{"→"}</span><button data-eco="grazers">{"Grazers"}</button><span>{"→"}</span><button data-eco="predators">{"Predators"}</button></div><p id="eco-detail" aria-live="polite">{"Select a link to see how life in this habitat connects."}</p></div></div></section>);
+});

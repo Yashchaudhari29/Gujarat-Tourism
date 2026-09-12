@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://devbhumidwarka.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "દ્વારકાધીશનું ધામ",
+      "text": "ભારતના ચાર ધામમાંનું એક. દ્વારકાધીશ મંદિર.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "દરિયાઈ પુરાતત્ત્વ",
+      "text": "સમુદ્ર હેઠળ મળેલા પ્રાચીન અવશેષો અને સંશોધન.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "બેટ દ્વારકા",
+      "text": "ટાપુ પર આવેલું તીર્થ, માછીમારી ઉદ્યોગ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ઓખા બંદર",
+      "text": "સુદર્શન સેતુ, વેપાર અને પર્યટન.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "devbhumi-dwarka",
+  "title": "devbhumi-dwarka Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "devbhumi-dwarka",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

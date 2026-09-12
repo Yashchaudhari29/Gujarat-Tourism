@@ -1,0 +1,205 @@
+Treat the current project supplied by the user as the source of truth. Implement ONLY the additive section described below. Do not restart the project, reapply the older checkpoint, repeat the framework migration, or replace existing district content.
+Objective
+Add a premium, interactive section titled:
+ગુજરાત ગૌરવ: વારસો, નેતૃત્વ અને વિકાસ
+Gujarat: Heritage, Leadership & Development
+The owner intends to demonstrate the website to government representatives. Make this section dignified, appreciative, educational and supported by evidence. Showcase Gujarat's district heritage and contributions alongside Narendra Modi's public journey, documented achievements, and the work of relevant ministers and institutions.
+Implement actual code and researched content. A design proposal or unpopulated component is not completion.
+1. Preserve the completed website
+Inspect the current code and its instructions before editing. Reuse existing components, district records, source registries, media, audio players and design tokens wherever possible.
+Preserve the existing layout, sections, typography, colors, photographs, 3D atlas, animations, district stories, audio behavior and accessibility. Preserve “LISTEN TO THE LAND” and “A place is only half the story.” Add one discoverable navigation entry and the new section without restructuring the homepage.
+Do not regenerate existing scripts or overwrite user recordings. If a requested detail already exists, link to it or reuse it instead of creating a conflicting copy. Make a backup before changes and deliver a concise change log.
+2. Three connected ways to explore
+Provide three clearly labeled entry points within the new section:
+જિલ્લાનું ગૌરવ / District contributions — all 34 existing districts.
+નેતૃત્વ અને જનસેવા / Leadership and public service — Narendra Modi and relevant government ministers.
+વિકાસ અને સક્ષમતા / Development and resilience — projects, public services, schemes and documented results.
+Visitors should be able to move from a district to a relevant project, from that project to the responsible institution or minister, and back without losing their place. Create only evidence-supported relationships.
+3. District contributions — complete coverage
+Use all 34 districts already in the application. Verify the current official administrative list and boundaries before adding new facts, especially the Vav-Tharad / Banaskantha split. Retain current stable district IDs and slugs.
+For each district, add a concise overview and expandable information covering:
+Its distinctive identity and why it matters to Gujarat and India.
+Important heritage, archaeology, architecture and historically significant places.
+Famous destinations, crafts, literature, festivals, food and living traditions.
+Historical relationships with other districts, regions, trade routes and movements.
+Agriculture, dairying, fisheries, industry, trade, services and local livelihoods where relevant.
+Contributions to the state and nation: cultural, economic, scientific, educational, ecological or civic.
+Important people and institutions with a verified district connection.
+Geography, rivers, water systems, habitats and environmental challenges.
+Relevant public services and development projects.
+Disaster preparedness, recovery and resilience where documented.
+Future priorities and visions, clearly distinguished from completed achievements.
+Provide serious educational depth while keeping navigation simple. Do not display examination names, coaching labels or syllabus language. Explain why and how things matter rather than supplying lists of names.
+Link to the site's existing detailed district narratives. Add genuinely missing subject information in reusable records. Do not force irrelevant categories into a district or duplicate the same generic paragraph across all districts.
+Build a systematic heritage inventory from official protected-monument lists, district records and documented living heritage. State its coverage and gaps; do not claim to include literally every heritage object without an auditable inventory.
+4. Narendra Modi — interactive journey and contributions
+Create a prominent profile using an authentic photograph with verified reuse permission or license and attribution. Add subtle layered depth/parallax in the existing liquid-glass style. Do not generate a fake documentary image, impersonate his voice or make a photorealistic avatar speak invented statements.
+Present a source-backed timeline covering:
+His Gujarat and Vadnagar connection and documented public/political journey.
+Gujarat Chief Minister period, with verified dates and relevant initiatives.
+Prime Minister periods, national initiatives and documented Gujarat connections.
+Major milestones in public services, infrastructure, livelihoods, energy, digital systems, international cooperation and resilience where evidence supports inclusion.
+Research achievements carefully and explain them appreciatively through concrete evidence. For each contribution, show:
+The original public need.
+The policy or action taken.
+His documented role.
+The responsible ministries, agencies and collaborators.
+Implementation milestones.
+Dated reported results and measured outcomes where available.
+Gujarat/district connections.
+Sources and material limitations.
+Maintain accurate chronology. The January 2001 Gujarat earthquake preceded his appointment as Chief Minister; distinguish immediate response from reconstruction during his later administration. Do not attribute all phases of a long-running project to the leader who inaugurated it. Recognize relevant earlier governments, state/local institutions, civil servants, scientists, workers and communities.
+Investigate relevant initiatives such as financial inclusion, sanitation, housing, health, drinking water, energy access, agriculture, manufacturing, digital infrastructure, transport and disaster resilience. Verify scheme origins, responsibilities and outcomes; do not assume every initiative began under the same administration.
+Separate documented achievements, government-reported outputs, independently evaluated findings and future commitments. Use a respectful civic-documentary tone. Do not invent praise, quotations, results or success percentages, and do not hide material evidence limitations.
+5. Other ministers, institutions and schemes
+Provide a searchable directory using current official Gujarat and Union ministerial records. Show the roster's verification date. Offer Gujarat/Union and portfolio filters.
+For each person, show verified name, role, jurisdiction, tenure, portrait if rights permit, responsibilities and sources. Provide deeper contribution profiles where there is a documented connection to the featured district or project. Do not use generic achievement text to fill every card.
+Link initiatives to the correct officeholder at the relevant time. Distinguish a birthplace, constituency, portfolio responsibility and project association. Do not automatically assign every district achievement to its current representative.
+For each featured scheme/project, store and display as appropriate:
+Gujarati and English name and stable ID.
+Objective and intended beneficiaries.
+Administering department and implementing agency.
+Launch, amendment and relevant milestone dates.
+Applicable geography and verified district links.
+Funding structure, with sanctioned/released/spent amounts distinguished.
+Proposed, approved, under-construction, partly operational or completed status.
+Dated outputs, measured outcomes and evidence limitations.
+Leadership/institutional roles supported by sources.
+Official guidelines, reports and current status links.
+Do not combine national statistics with district figures. Do not equate enrollment with service use, construction with improved welfare, or an announcement with delivery. Treat visions as commitments rather than completed work.
+6. Research and recent data
+Research at implementation time. Prefer district administrations, Gujarat departments, ASI, UNESCO, museums, archives, scholarly publications, official statistics, ministry reports, budgets and project authorities. For outcomes, consult credible evaluations and audit findings where available.
+Store direct source links, publisher, publication date, access date, data reference period, geography and relevant page/table for reports. A recently updated webpage can still contain old statistics. Read the supporting source rather than relying on a search snippet.
+Use a claim-level source registry. Identify conflicting accounts and uncertainty. A government press release supports what was announced or officially reported; it does not independently establish every claimed impact.
+Useful starting points, to recheck before use:
+Gujarat district directory: [https://igod.gov.in/sg/GJ/E042/organizations](https://igod.gov.in/sg/GJ/E042/organizations)
+Vav-Tharad administration: [https://vavtharad.nic.in/about-district/](https://vavtharad.nic.in/about-district/)
+PMO biography: [https://www.pmindia.gov.in/en/pms-profile/](https://www.pmindia.gov.in/en/pms-profile/)
+PMO portfolio directory: [https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/](https://www.pmindia.gov.in/en/news_updates/portfolios-of-the-union-council-of-ministers-2/)
+Find the current Gujarat Council of Ministers directory and the exact records supporting each new claim. Do not publish unsourced numbers or invent current officeholders when a page is inaccessible.
+7. Interaction and presentation design
+Use clickable district cards, a readable leadership timeline and thematic project exploration. On selection, open an existing-style glass panel with a short explanation, deeper reading, authentic imagery and sources.
+Provide a keyboard-operable equivalent for every 3D interaction. Support touch, visible focus, reduced motion and readable Gujarati text. Do not require hover to access information.
+Add optional presentation mode with larger text, fullscreen support, manual next/back controls and an obvious exit. Include a suggested five-to-seven-minute demonstration route through a district, heritage example, leadership milestone, development project and supporting evidence. This route must use completed content and must not substitute for all-district coverage.
+Keep sound user-initiated. Reuse the existing supplied-audio workflow; do not change working playback. When no recording exists for the new content, provide text and visuals without a broken Play control or generated substitute voice.
+Offer a printer-friendly summary of the selected district or project using the same underlying records. Do not claim a PDF export exists unless actually implemented.
+8. Credibility and ownership
+The website is an independently created project intended for presentation. Do not imply government endorsement, approval, partnership or official status. Do not add seals or restricted logos without authorization. Government-hosted photographs are not automatically unrestricted; verify rights and preserve attribution.
+No sending, publishing to a government portal or contacting officials is authorized by this prompt. Prepare a reviewable result for the owner.
+9. Engineering and verification
+Use reusable data-driven components. Lazy-load heavy media so the new section does not slow initial atlas loading. Avoid duplicate Three.js render loops, leaked event listeners and unnecessary audio loading. Escape imported text and validate references, URLs and media paths.
+Test the new section and its integration:
+All 34 district cards resolve correctly.
+Ministers, projects and districts link to valid records.
+Search, filters, topic panels, close/back controls and presentation mode work.
+Keyboard, touch, reduced motion, mobile layout and Gujarati text wrapping work.
+Existing atlas, narration, stories and navigation still work.
+New assets load and source links are checked.
+Missing data does not produce fake statistics or misleading fallbacks.
+Build and existing meaningful tests pass without removing checks to hide failures.
+Where browser testing is permitted, test the production build and record actual environments and results. Report blocked tests honestly. Human Gujarati review remains necessary for pronunciation and editorial quality.
+10. Deliverables
+Deliver:
+Implement the changes directly in the current project and report the result. Do not generate or repeatedly offer ZIP files; create an archive only if the user explicitly requests one again.
+A short list of added/modified files and instructions to run/build it.
+The populated new section, covering all districts and the specified leadership/project scope.
+Source and media-attribution records for the additions.
+A test report showing pass, fail or blocked checks.
+Exact remaining gaps that require recordings, rights clearance or human review.
+Preserve the completed previous work. Do not rebuild unrelated sections. Implement and verify this add-on before claiming it is complete.
+11. Immersive styling and animation direction — mandatory
+Extend the CURRENT site's visual system. First inspect its actual typography, color variables, glass surfaces, spacing, borders, radii, shadows, animation utilities and breakpoints. Reuse these values and existing libraries wherever possible. Do not invent a replacement theme or add another animation library when the current stack can achieve the behavior.
+The new section must feel like a natural continuation of the existing premium Gujarat atlas: tactile frosted glass, depth, restrained light, clear Gujarati typography and purposeful motion. Preserve the established terracotta/ochre, indigo, green and gold relationships where they actually exist in the current implementation. Exact existing design tokens take precedence over suggested color descriptions.
+Visual composition
+Create an immersive section introduction with a real Gujarat image, layered glass title panel, readable description and immediately visible exploration controls.
+Use clear visual hierarchy: section title, short explanation, feature image, selected topic and expandable detail. Avoid showing every paragraph and statistic at once.
+Give district cards restrained depth through layered backgrounds, soft edges, subtle shadows and modest pointer tilt on capable devices. Maintain stable card dimensions to prevent layout movement.
+Present Narendra Modi's authentic portrait in a layered editorial composition beside the journey timeline. Animate the image container and surrounding interface subtly; do not distort or animate facial features.
+Use consistent portrait framing for minister cards, generous spacing and readable role labels. Avoid unrelated decorative icons, excessive gold decoration and campaign-poster styling.
+Keep glass backgrounds sufficiently opaque behind text. Imagery must not reduce Gujarati text contrast or compete with captions.
+Preserve every existing image and section. Add rights-cleared assets only where needed for the new showcase.
+Immersive scroll sequence
+Design the section as a coherent sequence: introduction → district contributions → leadership journey → projects and resilience → sources and further exploration. This is a content sequence inside the new section, not permission to reorder the existing homepage.
+Use native document scrolling. Do not hijack wheel input, trap visitors inside a sequence, force horizontal scrolling or replace the browser's scroll behavior with a heavy global smooth-scroll system.
+Use restrained viewport reveals, gentle image parallax and timeline progress to connect the stages. Scroll progress should reinforce context without becoming the only route to content. All content must also be accessible directly through navigation and controls.
+On sufficiently wide screens, an image or timeline may remain sticky while adjacent explanations scroll. The sticky element must release reliably, remain shorter than the usable viewport and not cover navigation or controls. On mobile and at high text zoom, convert it to a normal stacked layout.
+Do not make visitors scroll through large empty spacer regions to trigger small text changes. Avoid long entrance delays, repeating animations on every small scroll reversal and deeply nested pinned sections.
+Motion behavior
+Reuse the existing easing and duration conventions. If none exist, introduce a small documented motion scale: brief control feedback, moderate panel transitions and slightly slower section reveals. Tune for responsiveness rather than adding motion everywhere.
+Prefer transform and opacity animation; limit large-area blur and expensive backdrop effects, especially over moving video or canvas.
+Use a subtle glass highlight on hover/focus where appropriate. Pointer-follow highlights must be scoped to visible cards, throttled through animation frames, and disabled on touch or reduced-motion settings.
+Make selection transitions clear: selected district → detail panel; selected milestone → explanation; selected scheme → related district/project information.
+Where a shared-element transition is practical, keep it short and preserve the user's orientation. Never delay access to the selected content while a cinematic animation plays.
+Do not hide essential content permanently behind an entrance animation. It must remain readable if animation initialization fails.
+Avoid continuously animated counters. Show verified values immediately; never fabricate intermediate figures or animate a future target as an achieved result.
+Pause offscreen decorative animation and release observers/listeners during cleanup. Do not start another always-running Three.js scene merely for ornament.
+Respect the site's Reduce Motion toggle and the system preference across every new effect. Reduced motion must remove parallax, continuous drift, tilt and scroll-linked movement while retaining immediate content access and visible state changes.
+Support touch without cursor-dependent features, and provide equivalent focus states for keyboard users.
+12. Navbar and section discoverability — mandatory
+Add a visible main-navbar entry for the new showcase using a short label consistent with the current interface language, such as “Gujarat Gaurav” or “ગુજરાત ગૌરવ”. Preserve existing navbar entries and styling. Do not hide the new section only in the footer or behind a hover-only menu.
+On arrival, show persistent or easily reachable section navigation for Districts, Leadership and Development, with clear Gujarati equivalents where the current language system supports them. If the main navbar has enough space, expose these as accessible sublinks; otherwise use the existing responsive navigation pattern plus the visible section navigation. Do not crowd the desktop navbar or overflow on mobile.
+Implement stable anchors or routes for the showcase and its three entry points. Direct links and browser back/forward must work. The active section indicator must be understandable and accurate. Offset anchor scrolling for the actual header height so headings remain visible.
+Use smooth anchor scrolling only when reduced motion is off. Do not automatically move keyboard focus during passive scrolling. For explicit navigation, manage focus appropriately and preserve an understandable reading order.
+On mobile, add the showcase entry to the existing menu, make subnavigation touch-friendly, and close the menu after a destination is selected. Verify that Escape, focus restoration and any existing focus containment still work. Links must work through clicks, keyboard activation and touch, not only pointer hover.
+13. Requirement completeness and release gate — mandatory
+Treat every instruction in this standalone prompt as a tracked requirement. Before implementation, create REQUIREMENTS.md with a stable ID for each independently testable requirement, its source section, planned implementation, verification method and status. Grouping is allowed for readability but must not hide individual obligations.
+Use statuses: not started, in progress, implemented, verified, or blocked. Implemented is not the same as verified. A checkbox or agent assertion alone is not verification evidence.
+Preserve all requirements from Sections 1–10 while adding Sections 11–13. If the existing project already fulfills a requirement, record the actual file/behavior and verification evidence rather than reimplementing it. If instructions appear to conflict, first reconcile them using the current user's constraints: preserve the completed site, implement only this add-on, and do not repeatedly generate ZIP files.
+Work in small reviewable increments. After each meaningful change, run the relevant checks and fix regressions before expanding the change. Do not introduce unrelated refactors, speculative dependency upgrades or new APIs just to make the project seem more sophisticated.
+Before finishing, perform a two-way audit:
+For every prompt requirement, identify the implemented code/content and test or inspection evidence.
+For every changed file, explain which requirement justified the change and confirm it did not damage unrelated behavior.
+Specifically verify navbar visibility, anchors/direct links, active-section indication, mobile menu behavior, sticky-section release, animation cleanup, reduced motion, text zoom, content readability, audio preservation, all-district coverage and source/attribution links.
+Run the build and meaningful existing tests. Perform browser interaction and visual regression checks where the environment permits, recording actual environments and results. If tools or assets are unavailable, mark the affected check blocked and explain the exact limitation. Do not claim browser tests, native Gujarati review or real-device testing that did not occur.
+Never omit an inconvenient requirement silently or replace real content with generic placeholders while marking the task complete. Complete all independently achievable work and identify remaining items specifically. Missing user audio must not prevent completion of the text, research, styling, navigation and silent presentation experience.
+Deliver a concise final report with implemented features, relevant file paths, checks/results, any blocked requirements and remaining user inputs. Keep the requirements matrix in the project. Do not generate or offer another ZIP unless the user explicitly asks.
+No prompt can guarantee zero errors. Your completion claim must match the evidence: disclose known defects, fix reproducible problems and state the practical scope of verification rather than promising perfection.
+14. Government initiatives, visions and public value — expanded depth
+Make the initiative content a substantial knowledge resource, not a gallery of scheme logos or praise captions. This section extends the earlier scheme requirements; use the same records and components rather than building a second competing scheme directory.
+Explain each initiative from problem to public value
+For every featured initiative, provide a short plain-Gujarati explanation followed by an expandable evidence-backed profile:
+The need: What problem existed, whom it affected, where, and what reliable baseline is available?
+The vision: What the government intended to change, by when, and through which stated objectives. Identify a vision document, policy, funded scheme and individual project as different things.
+The policy mechanism: Explain how the intervention is supposed to work. For example, show the steps connecting infrastructure, access, reliable service and a potential improvement in daily life; do not assume the final benefit automatically follows the first step.
+The work undertaken: Identify actual administrative decisions, funding, construction, service delivery, training, maintenance and institutional reforms supported by records.
+Responsibility: Identify the relevant level of government, ministry, implementing agency, local body and documented leadership roles. A centrally funded scheme may have state/local delivery responsibilities.
+Who may benefit: Explain the intended groups and geographic reach. Distinguish intended beneficiaries, registered participants, recipients and demonstrated users.
+Evidence of progress: Show dated outputs and measured outcomes separately, with units, definitions and data periods.
+Everyday significance: Explain what the documented changes mean for travel, livelihood, health, schooling, water access or another relevant aspect of life. Label an inferred or potential benefit explicitly.
+District application: Describe the local project or service connection using verified records. A national scheme's existence does not prove a particular district's implementation or success.
+Challenges and next steps: Explain documented delivery gaps, maintenance needs, environmental/social considerations and remaining milestones constructively.
+How to learn more: Link to current official guidelines, reports and public service information. If eligibility details are included, date them and direct readers to the responsible authority; do not invent individual eligibility decisions.
+Source trail: Let readers inspect the exact evidence behind important assertions and numbers.
+Write with the depth required to understand policy design, institutions, economics, society and environment while avoiding examination labels. Use original explanations and accurate Gujarati terminology. Do not lengthen entries through repetitive filler or replace evidence with elaborate prose.
+Thematic initiative explorer
+Organize relevant initiatives by water and sanitation; agriculture and rural livelihoods; cooperatives; energy and climate; health and nutrition; education and skills; women and child development; tribal development; housing and urban services; transport and logistics; industry and employment; digital public services; heritage and tourism; and disaster resilience.
+Populate themes from verified research. Do not show an empty theme as complete or imply that every scheme applies everywhere. Use a coverage matrix to track research status. Include both Gujarat and Union initiatives, documenting predecessor phases, revisions and shared responsibilities.
+For each theme, explain its relationship to district characteristics: geography, livelihoods, settlement patterns, environmental exposure and existing institutions. Provide a small set of well-documented flagship examples with deeper reading plus a searchable catalog of additional supported initiatives. State the catalog scope and do not claim to document every government scheme without a maintained authoritative inventory.
+Visions and milestones
+Provide a dated “Vision to implementation” view. Separate policy intention, formal approval, financing, procurement where documented, execution, commissioning, operation and evaluation. Do not force every initiative into a single linear sequence or imply that all stages have been completed.
+Show planned targets beside their reporting date and scope. When comparable actual data exists, show the actual value and measurement date alongside it. Do not calculate a completion percentage from incompatible measures, years or geographic boundaries. Keep abandoned, revised or delayed targets accurately labeled where evidence establishes that status.
+Explain resilience across preparation, mitigation, response, recovery and long-term adaptation. Link infrastructure to maintenance, governance and community capacity where documented, rather than equating resilience with construction spending alone.
+15. Additional interactive features that improve understanding
+Implement these through the existing visual system, with equivalent static reading, keyboard access and reduced-motion behavior. Use shared content records so the narrative, cards and summaries remain consistent.
+A. Follow an initiative
+Offer a guided explainer connecting the public need, policy mechanism, implementation, district application and evidence of benefit. Let visitors select any stage directly. Animated connectors illustrate a documented relationship, not proof of causation. Missing evidence must remain visible as a limitation.
+B. What changed here?
+For verified district projects, show a before-and-after explanation using compatible measurements. Use a photo comparison only when both photographs depict the same location, dates are known and rights are cleared. Otherwise use a sourced timeline. Never invent a “before” image or imply two unrelated images establish transformation.
+C. Understand the number
+Add an accessible information control beside important metrics explaining the unit, period, denominator, geographic scope and meaning. For example, explain whether a figure counts sanctioned houses, completed houses or occupied homes. Keep national, Gujarat and district values visually distinct. Do not animate misleading counters or present estimates as exact counts.
+D. District contribution pathways
+Show how a district connects to Gujarat and India through selected documented examples such as a craft supply chain, agricultural cooperative, research institution, port connection or cultural tradition. Explain each link. Do not use line thickness, size or rankings that imply quantitative importance without data.
+E. People and public services
+Where credible published case studies exist and reuse is appropriate, show concise attributed stories of artisans, farmers, students, health workers, engineers or communities. Do not invent named beneficiaries, endorsements, testimonials or quotations. Clearly identify a hypothetical example as illustrative and never use it as evidence of results. Prefer aggregate or consented public information over unnecessary personal details.
+F. Heritage and development together
+Explain documented conservation, restoration, museum, craft-support and tourism initiatives alongside their heritage subjects. Identify custodians, conservation expertise, community participation and maintenance where available. Keep visitor numbers, revenue, conservation quality and community benefit as distinct measures.
+G. Sources and knowledge trail
+Add a “How we know” drawer with direct references, report sections, relevant data dates and clearly labeled interpretation. Provide related topics and a glossary instead of an ungrounded chatbot. A conversational assistant is not required; if proposed later, it must answer from the verified corpus, cite evidence and abstain when unsupported.
+H. Presentation route choices
+Let a presenter choose a district-led, heritage-led or development-led route through the same completed content. Preserve manual navigation and source access. Do not create separate promotional claims for presentation mode or hide essential caveats from that mode.
+16. Scope, quality and completion for these additions
+Add every requirement from Sections 14–16 to the existing REQUIREMENTS.md matrix. Do not silently replace earlier sections or forget styling, navbar access, all-district coverage, audio preservation, accessibility or source verification.
+Prioritize accurate records and working navigation before decorative complexity. Complete core initiative profiles and relationships before polishing optional visual treatments. Do not add speculative features that compromise performance or create a new backend without necessity.
+Verify that every initiative card can open its full explanation, that relevant links return to the correct district, that all references resolve internally, and that the public interface distinguishes plans from documented work and potential benefit from measured outcome. Validate filters and empty states across district, theme, government level and project status.
+Maintain a clear register of evidence gaps. Do not promise that every policy produces a benefit, imply that all progress belongs to one person, or claim “perfect accuracy”. Present documented contributions positively and precisely, acknowledge material limitations, and report actual test evidence.
+Implement in the user's current project. Deliver the completed changes and a concise verification report; do not generate or repeatedly offer ZIP files unless explicitly requested again. plan everything using subagents with better quality and intelligence to achieve higher effective results

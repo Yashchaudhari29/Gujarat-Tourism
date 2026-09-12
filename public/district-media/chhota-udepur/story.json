@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://chhotaudepur.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "આદિવાસી સંસ્કૃતિનું ધામ",
+      "text": "રાઠવા, ભીલ અને નાયકા જનજાતિઓનું નિવાસસ્થાન.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પિથોરા ચિત્રકળા",
+      "text": "GI Tag ધરાવતી રાઠવા આદિવાસી ચિત્રકળા.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "કુદરતી સૌંદર્ય",
+      "text": "હાથની ધાર, જાંબુઘોડા અભયારણ્ય, ઓરસંગ નદી.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ખનિજ સંપત્તિ",
+      "text": "ફ્લોરાઈટ, મેંગેનીઝ ખાણો. પૂર્વ ગુજરાતનું ભૂસ્તર.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "chhota-udepur",
+  "title": "chhota-udepur Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "chhota-udepur",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

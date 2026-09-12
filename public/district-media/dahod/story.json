@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://dahod.gujarat.gov.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "પંચમહાલની ગોદમાં",
+      "text": "મહી નદી કિનારે વસેલો આદિવાસી બહુમતી ધરાવતો જિલ્લો.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઔરંગઝેબનું જન્મસ્થાન",
+      "text": "મુઘલ ઈતિહાસ સાથે જોડાયેલી ઐતિહાસિક ભૂમિ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ભીલ અને પટેલિયા સંસ્કૃતિ",
+      "text": "ટીમલી નૃત્ય, હોળી ઉત્સવ, પારંપરિક આભૂષણો.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "જલવિદ્યુત અને કૃષિ",
+      "text": "કડાણા ડેમ, મહી બજાજ સાગર. સિંચાઈ ક્રાંતિ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "dahod",
+  "title": "dahod Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "dahod",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

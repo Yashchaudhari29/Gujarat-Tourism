@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://banaskantha.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "બનાસ નદીની ભૂમિ",
+      "text": "રાજસ્થાન સીમા પાસે આવેલો ઉત્તર ગુજરાતનો વિશાળ જિલ્લો.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "બાલારામ-અંબાજી વન્યજીવ",
+      "text": "બાલારામ અભયારણ્ય, જેસોર રીંછ અભયારણ્ય.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ડેરી ઉદ્યોગ",
+      "text": "બનાસ ડેરી—ભારતની સૌથી મોટી જિલ્લા-સ્તરીય ડેરી.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "અંબાજી તીર્થ",
+      "text": "શક્તિપીઠ અંબાજી, ગબ્બર ટેકરી, કોટેશ્વર.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "banaskantha",
+  "title": "banaskantha Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "banaskantha",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

@@ -1,0 +1,69 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://vadodara.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com/destination/vadodara"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગુજરાતની સંસ્કારી નગરી",
+      "text": "વડના વૃક્ષો પરથી નામ પામેલું વટપદ્રક—વડોદરા.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "સયાજીરાવ ગાયકવાડનું વિઝન",
+      "text": "લક્ષ્મી વિલાસ પેલેસ, ડો. આંબેડકરને શિષ્યવૃત્તિ, ફરજિયાત શિક્ષણ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "કળા અને શિક્ષણની રાજધાની",
+      "text": "M.S. University, ફેકલ્ટી ઓફ ફાઇન આર્ટસ, સયાજીબાગ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "વિશ્વામિત્રીના મગરો",
+      "text": "શહેરની નદીમાં ૩૦૦ થી વધુ મગર. અનોખી અર્બન ઇકોલોજી.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "title": "ડિફેન્સ મેન્યુફેક્ચરિંગ હબ",
+      "text": "C-295 મિલિટરી ટ્રાન્સપોર્ટ એરક્રાફ્ટ, ટાટા-એરબસ, કોયલી રિફાઇનરી.",
+      "image": "images/scene4.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 50,
+      "end": 60,
+      "title": "વિશ્વવિખ્યાત નવરાત્રી",
+      "text": "યુનાઈટેડ વે ગરબા, ટ્રેડિશનલ ઓર્કેસ્ટ્રા, ભાખરવડી, સેવ-ઉસળ.",
+      "image": "images/scene5.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "vadodara",
+  "title": "vadodara Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "vadodara",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

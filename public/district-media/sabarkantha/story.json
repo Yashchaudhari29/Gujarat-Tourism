@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://sabarkantha.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ઈડરનો ઐતિહાસિક કિલ્લો",
+      "text": "એશિયાના સૌથી જૂના ટેકરી કિલ્લાઓમાંનો એક.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પોળો ફોરેસ્ટ",
+      "text": "ગુજરાતનું સૌથી સમૃદ્ધ વન્ય પ્રદેશ. ગુજરાતનો શિમલા.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ઔષધીય વનસ્પતિ",
+      "text": "અરવલ્લી ટેકરીઓમાં આયુર્વેદિક ઔષધીય છોડ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ડેરી અને કૃષિ",
+      "text": "સાબર ડેરી. બટાકા, ટામેટા ઉત્પાદન.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "sabarkantha",
+  "title": "sabarkantha Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "sabarkantha",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

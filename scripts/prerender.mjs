@@ -1,0 +1,15 @@
+import { build } from 'esbuild';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url';
+import { resolve } from 'node:path';
+import { createElement } from 'react';
+import { renderToString } from 'react-dom/server';
+await mkdir('.sites-runtime',{recursive:true});
+const path=resolve('.sites-runtime/prerender-app.mjs');
+await build({entryPoints:['src/App.jsx'],outfile:path,bundle:true,platform:'node',format:'esm',jsx:'automatic',external:['react','react/*','react-dom/*','/assets/*'],logLevel:'silent'});
+const {default:App}=await import(pathToFileURL(path));
+const markup=renderToString(createElement(App));
+const html=await readFile('dist/index.html','utf8');
+if(!html.includes('<div id="root"></div>'))throw Error('Expected fresh Vite output before prerendering.');
+await writeFile('dist/index.html',html.replace('<div id="root"></div>',`<div id="root">${markup}</div>`));
+console.log('Prerendered the React page for immediate HTML display.');

@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://bhavnagar.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "મહારાજા ક્રિશ્નાકુમારસિંહજીનું વિઝન",
+      "text": "ભાવનગરના છેલ્લા રાજાએ રાજ્ય ભારતમાં ભેળવનાર પ્રથમ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "વેળાવદર રાષ્ટ્રીય ઉદ્યાન",
+      "text": "ભારતીય ઘુડખર અને કાળિયાર. ગ્રાસલેન્ડ ઇકોસિસ્ટમ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "અલંગ શિપબ્રેકિંગ યાર્ડ",
+      "text": "વિશ્વનું સૌથી મોટું જહાજ ભાંગવાનું સ્થળ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "સંસ્કૃતિ અને સાહિત્ય",
+      "text": "ગૌરીશંકર ઓઝા, દક્ષિણામૂર્તિ. ભાવનગરી બાંધણી.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "bhavnagar",
+  "title": "bhavnagar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "bhavnagar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

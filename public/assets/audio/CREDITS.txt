@@ -1,0 +1,13 @@
+Gujarati Unveiled narration
+
+Generated with Meta's facebook/mms-tts-guj model, revision b72e80a7eeca90b72e0af2e2d00b77a336ce242d.
+Model: https://huggingface.co/facebook/mms-tts-guj
+Model authors: Meta / the Massively Multilingual Speech project.
+Model license: Creative Commons Attribution-NonCommercial 4.0
+License: https://creativecommons.org/licenses/by-nc/4.0/
+Paper: https://arxiv.org/abs/2305.13516
+This educational edition uses the model for noncommercial narration.
+
+Gujarati scripts are original educational adaptations of the references linked in the site. The generated voice is synthetic, not a recording of a historian, local resident or professional Gujarati narrator. Native pronunciation and historical editorial review remain pending. No claim of perfect accent or exhaustive historical coverage is made.
+
+Audio preparation: sentence-by-sentence VITS synthesis, short pauses between sentences, loudness normalization targeting -16 LUFS, MP3 64 kbps. The manifest records transcript hashes and approximate source waveform duration for each chapter.

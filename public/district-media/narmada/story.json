@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://narmada.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "સ્ટેચ્યુ ઓફ યુનિટી",
+      "text": "વિશ્વની સૌથી ઊંચી પ્રતિમા—૧૮૨ મીટર. સરદાર પટેલ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "સરદાર સરોવર ડેમ",
+      "text": "નર્મદા નદી પર ભારતનો મહત્વનો ડેમ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "આદિવાસી વિરાસત",
+      "text": "ભીલ, તડવી, વસાવા જનજાતિ. પારંપરિક જીવન.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "શૂલપાણેશ્વર અભયારણ્ય",
+      "text": "સાગ-વાંસના જંગલો, રીંછ, દીપડા.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "narmada",
+  "title": "narmada Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "narmada",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

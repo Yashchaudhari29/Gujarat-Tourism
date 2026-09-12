@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://mahesana.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "મોઢેરા સૂર્યમંદિર",
+      "text": "અગિયારમી સદીનું ભવ્ય સૂર્યમંદિર. સોલાર વિલેજ.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "દૂધસાગર ડેરી",
+      "text": "ભારતની ટોચની ડેરી સહકારી. દૂધ ઉત્પાદન હબ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "તારંગા-કુંભારિયા",
+      "text": "જૈન તીર્થસ્થાન. સોલંકી યુગના મંદિરો.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ઔદ્યોગિક વિકાસ",
+      "text": "ઓટોમોબાઈલ પાર્ટ્સ, કેમિકલ ઉદ્યોગ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "mehsana",
+  "title": "mehsana Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "mehsana",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

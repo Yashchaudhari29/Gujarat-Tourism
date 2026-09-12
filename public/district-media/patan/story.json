@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://whc.unesco.org/en/list/922/"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://patan.nic.in"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "રાણીની વાવ",
+      "text": "યુનેસ્કો વર્લ્ડ હેરિટેજ. ૧૧મી સદીની ભૂગર્ભ સ્થાપત્ય.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પાટણ પાટોળા",
+      "text": "ડબલ ઇકત. વિશ્વની સૌથી મોંઘી સાડીઓમાંની એક.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "સહસ્ત્રલિંગ તળાવ",
+      "text": "સોલંકી યુગનું ઐતિહાસિક તળાવ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "અનિલ્હવાડ પાટણ",
+      "text": "ગુજરાતનું પ્રાચીન પાટનગર. સોલંકી વંશ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "patan",
+  "title": "patan Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "patan",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

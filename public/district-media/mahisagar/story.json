@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://mahisagar.gujarat.gov.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "મહી નદીનો કિનારો",
+      "text": "લુણાવાડા—મહીસાગર જિલ્લાનું મુખ્ય મથક.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઐતિહાસિક રાજ્ય",
+      "text": "ઈદર અને લુણાવાડા રજવાડાંનો ઈતિહાસ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "કદવલ ડેમ",
+      "text": "સિંચાઈ અને મત્સ્યપાલન. ગ્રામીણ વિકાસ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "આદિવાસી ઉત્સવો",
+      "text": "ભીલ-પટેલિયા સંસ્કૃતિ, હોળી-ધુળેટી.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "mahisagar",
+  "title": "mahisagar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "mahisagar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

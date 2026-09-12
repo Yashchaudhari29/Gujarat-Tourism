@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://dangs.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગુજરાતનો ચેરાપૂંજી",
+      "text": "ગુજરાતનો સૌથી વધુ વરસાદ ધરાવતો જિલ્લો, ગાઢ જંગલો.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ડાંગ દરબાર",
+      "text": "આદિવાસી રાજાઓનો ઐતિહાસિક દરબાર અને બ્રિટિશ કાળ.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "વનસ્પતિ અને જીવસૃષ્ટિ",
+      "text": "પૂર્ણા અભયારણ્ય, વાંસદા નેશનલ પાર્ક.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ધોધ અને કુદરત",
+      "text": "ગીરા ધોધ, સાપુતારા હિલ સ્ટેશન. ગુજરાતનું એકમાત્ર ગિરિમથક.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "dang",
+  "title": "dang Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "dang",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

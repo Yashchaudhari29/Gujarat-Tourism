@@ -1,0 +1,239 @@
+{
+  "eras": [
+    {
+      "id": "era_harappan",
+      "name": "Harappan (Indus Valley Civilization)",
+      "date_range": "c. 3300 BCE – 1300 BCE",
+      "description": "The earliest known urban culture of the Indian subcontinent. In Gujarat, this era is characterized by maritime trade, advanced town planning, sophisticated drainage systems, and specialized craft production like bead-making and shell-working.",
+      "sources": [
+        "Archaeological Survey of India reports",
+        "S.R. Rao - Lothal and the Indus Civilization",
+        "R.S. Bisht - Excavations at Dholavira"
+      ]
+    },
+    {
+      "id": "era_classical",
+      "name": "Classical & Early Medieval",
+      "date_range": "c. 322 BCE – 1304 CE",
+      "description": "Encompassing the Mauryan period, the rule of the Western Satraps (Kshatrapas), the Gupta Empire, the Maitrakas of Vallabhi, and the Chaulukyas (Solankis) of Patan. Marked by rock edicts, the spread of Buddhism and Jainism, maritime trade with the Roman Empire, and grand temple architecture.",
+      "sources": [
+        "Epigraphia Indica",
+        "A.K. Majumdar - Chaulukyas of Gujarat",
+        "Periplus of the Erythraean Sea"
+      ]
+    },
+    {
+      "id": "era_sultanate",
+      "name": "Sultanate & Mughal",
+      "date_range": "1304 CE – 1758 CE",
+      "description": "Beginning with the conquest by the Delhi Sultanate, followed by the independent and prosperous Gujarat Sultanate, and subsequently incorporation into the Mughal Empire. Characterized by Indo-Islamic architecture, bustling international ports, and textile exports.",
+      "sources": [
+        "Mirat-i-Sikandari",
+        "Mirat-i-Ahmadi",
+        "European traveler accounts (e.g., Jean-Baptiste Tavernier)"
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "id": "site_lothal",
+      "name": "Lothal",
+      "era_id": "era_harappan",
+      "type": "trade",
+      "description": "One of the most prominent cities of the ancient Indus valley civilization, known for its massive dockyard, indicating its role as a vital trade center connecting the region to Mesopotamia.",
+      "evidence": "Baked brick dockyard, warehouse, bead-making factory, distinct seals, and painted pottery.",
+      "location_note": "Located in the Bhal region of modern Ahmedabad district; historically situated near the ancient course of the Sabarmati river, though modern geography has shifted.",
+      "sources": [
+        "S.R. Rao's excavations (1955-1960)",
+        "ASI Excavation Reports"
+      ]
+    },
+    {
+      "id": "site_dholavira",
+      "name": "Dholavira",
+      "era_id": "era_harappan",
+      "type": "settlement",
+      "description": "The fifth largest Harappan site, famous for its unique tripartite city layout, monumental architecture, and highly sophisticated water conservation systems.",
+      "evidence": "Series of reservoirs, step-wells, a monumental 'signboard' with Indus script, sandstone architecture, and hemispheroidal structures.",
+      "location_note": "Situated on Khadir Bet island in the Great Rann of Kutch (modern Kutch district); its island geography protected it and provided access to maritime routes.",
+      "sources": [
+        "R.S. Bisht's excavations",
+        "UNESCO World Heritage dossier"
+      ]
+    },
+    {
+      "id": "site_surkotada",
+      "name": "Surkotada",
+      "era_id": "era_harappan",
+      "type": "settlement",
+      "description": "A fortified Harappan settlement notable for providing some of the earliest reported evidence of horse remains in the subcontinent, though this remains academically debated.",
+      "evidence": "Stone fortification walls (unlike the usual mud-brick), equine bones (Equus caballus), Harappan pottery, and copper objects.",
+      "location_note": "Located in the modern Rapar Taluka of Kutch district, serving as a strategic settlement between the Indus Valley and Saurashtra.",
+      "sources": [
+        "J.P. Joshi's excavations (ASI)",
+        "A.K. Sharma's faunal analysis"
+      ]
+    },
+    {
+      "id": "site_gola_dhoro",
+      "name": "Gola Dhoro (Bagasra)",
+      "era_id": "era_harappan",
+      "type": "trade",
+      "description": "A small but highly specialized craft production center of the Harappan civilization, deeply involved in shell working and faience production.",
+      "evidence": "Massive quantities of shell waste, complete and partially worked shell bangles, sealings indicating administrative control, and a massive mud-brick fortification.",
+      "location_note": "Situated near Bagasra in the modern Rajkot district of Saurashtra, close to the Gulf of Kutch which provided raw shell materials.",
+      "sources": [
+        "M.S. University of Baroda excavations",
+        "Kuldeep Bhan's archaeological reports"
+      ]
+    },
+    {
+      "id": "site_rojdi",
+      "name": "Rojdi",
+      "era_id": "era_harappan",
+      "type": "settlement",
+      "description": "A regional Harappan center belonging to the Sorath Harappan phase. It demonstrates the regional variation and continuity of the civilization in Saurashtra.",
+      "evidence": "Circumvallation wall, distinct Sorath Harappan ceramics (Prabhas and Padri wares), and extensive archaeobotanical remains showing millet cultivation.",
+      "location_note": "Located on the northern bank of the Bhadar River in modern Rajkot district, illustrating riverine settlement patterns in Saurashtra.",
+      "sources": [
+        "Gregory Possehl's excavations",
+        "Gujarat State Department of Archaeology"
+      ]
+    },
+    {
+      "id": "site_junagadh",
+      "name": "Junagadh (Girnar)",
+      "era_id": "era_classical",
+      "type": "cultural",
+      "description": "An ancient capital and a major religious center. The Girnar hill area features remarkable rock edicts spanning centuries, detailing administrative, religious, and public works history.",
+      "evidence": "Ashokan Rock Edicts (3rd c. BCE), Rudradaman's inscription detailing the repair of Sudarshana Lake (150 CE), and Skandagupta's inscription (455 CE), plus Buddhist rock-cut caves.",
+      "location_note": "Modern Junagadh district; historically the capital of the Saurashtra region, situated at the foot of the sacred Girnar hills.",
+      "sources": [
+        "Epigraphia Indica",
+        "ASI Epigraphical Branch",
+        "Burgess's antiquarian remains"
+      ]
+    },
+    {
+      "id": "site_vallabhi",
+      "name": "Vallabhi",
+      "era_id": "era_classical",
+      "type": "cultural",
+      "description": "The glorious capital of the Maitraka dynasty, which blossomed into a major center of learning and trade. The Vallabhi University rivaled Nalanda in its time.",
+      "evidence": "Numerous copper-plate land grants issued by Maitraka kings, accounts of Chinese traveler Xuanzang (Hiuen Tsang), and scattered structural remains.",
+      "location_note": "Located at modern Vala in Bhavnagar district; historically a thriving port town on the Gulf of Khambhat before heavy silting occurred.",
+      "sources": [
+        "Xuanzang's travelogues",
+        "Maitraka copper plate inscriptions",
+        "J.G. Buhler's translations"
+      ]
+    },
+    {
+      "id": "site_modhera",
+      "name": "Modhera",
+      "era_id": "era_classical",
+      "type": "cultural",
+      "description": "Home to the magnificent Sun Temple built by King Bhima I of the Chaulukya dynasty. It is a pinnacle of Maru-Gurjara architecture.",
+      "evidence": "The highly ornate Surya Mandir complex, including the Gudhamandapa (shrine hall), Sabhamandapa (assembly hall), and the deeply stepped Surya Kund (reservoir).",
+      "location_note": "Located on the banks of the Pushpavati river in modern Mehsana district; positioned specifically for solar alignment during equinoxes.",
+      "sources": [
+        "A.K. Majumdar - Chaulukyas of Gujarat",
+        "Percy Brown - Indian Architecture"
+      ]
+    },
+    {
+      "id": "site_patan",
+      "name": "Anhilwad Patan",
+      "era_id": "era_classical",
+      "type": "settlement",
+      "description": "The paramount capital of the Chavda and Chaulukya (Solanki) dynasties, once one of the largest and wealthiest cities in India.",
+      "evidence": "Rani Ki Vav (a massive, intricately sculpted stepwell), Sahastralinga Talav (artificial lake), and Jain texts detailing its urban layout and prosperity.",
+      "location_note": "Modern Patan district; located on the banks of the Saraswati river, though the modern town is slightly adjacent to the ancient archaeological mounds.",
+      "sources": [
+        "Prabandhacintamani of Merutunga",
+        "UNESCO World Heritage dossier for Rani Ki Vav"
+      ]
+    },
+    {
+      "id": "site_somnath",
+      "name": "Somnath",
+      "era_id": "era_classical",
+      "type": "cultural",
+      "description": "One of the most sacred pilgrimage sites (first of the twelve Jyotirlingas). Its wealth attracted numerous invasions, making it a focal point of historical conflict and reconstruction.",
+      "evidence": "Successive layers of temple foundations, accounts of Al-Biruni detailing Mahmud of Ghazni's raid, and inscriptions of Kumarapala's reconstruction.",
+      "location_note": "Located at Prabhas Patan in modern Gir Somnath district on the western coast; historically a major port linking Gujarat to the Middle East.",
+      "sources": [
+        "Al-Biruni's Tarikh al-Hind",
+        "K.M. Munshi - Somanatha, The Shrine Eternal"
+      ]
+    },
+    {
+      "id": "site_bharuch",
+      "name": "Bharuch (Barygaza)",
+      "era_id": "era_classical",
+      "type": "trade",
+      "description": "Known to the Greco-Roman world as Barygaza, it was one of the most prominent seaports of ancient India, heavily involved in the export of textiles, spices, and precious stones.",
+      "evidence": "Mentioned extensively in the Periplus of the Erythraean Sea, Roman coins found in the hinterland, and deep continuous habitation layers in local mounds.",
+      "location_note": "Modern Bharuch district; situated at the mouth of the Narmada river, providing a natural maritime gateway to the prosperous hinterland of Malwa.",
+      "sources": [
+        "The Periplus of the Erythraean Sea",
+        "Ptolemy's Geography",
+        "Archaeological excavations at Bharuch mound"
+      ]
+    },
+    {
+      "id": "site_ahmedabad",
+      "name": "Ahmedabad",
+      "era_id": "era_sultanate",
+      "type": "settlement",
+      "description": "Founded by Sultan Ahmad Shah in 1411 CE, it became the capital of the Gujarat Sultanate. Known for its unique Indo-Islamic architectural synthesis and bustling textile trade.",
+      "evidence": "Jama Masjid, Bhadra Fort, Sidi Saiyyed Mosque, intricately carved stepwells (Adalaj), and numerous pols (traditional housing clusters).",
+      "location_note": "Modern Ahmedabad district, spanning both banks of the Sabarmati river; founded near the older settlements of Ashaval and Karnavati.",
+      "sources": [
+        "Mirat-i-Ahmadi",
+        "Mirat-i-Sikandari",
+        "UNESCO World Heritage City dossier"
+      ]
+    },
+    {
+      "id": "site_champaner",
+      "name": "Champaner",
+      "era_id": "era_sultanate",
+      "type": "settlement",
+      "description": "A short-lived but magnificent capital of the Gujarat Sultanate under Mahmud Begada, built at the foothills of the sacred Pavagadh hill.",
+      "evidence": "Intact Islamic pre-Mughal city layout, monumental Jama Masjid, Kevada Masjid, impressive fortification walls, and water installations.",
+      "location_note": "Modern Panchmahal district; perfectly preserved as an archaeological park because the capital was abandoned soon after its capture by Humayun.",
+      "sources": [
+        "ASI reports on Champaner-Pavagadh",
+        "UNESCO World Heritage dossier"
+      ]
+    },
+    {
+      "id": "site_surat",
+      "name": "Surat",
+      "era_id": "era_sultanate",
+      "type": "trade",
+      "description": "The primary port of the Mughal Empire, known as the 'Gateway to Mecca'. It was the commercial capital of India and the site of the first British, Dutch, and French factories.",
+      "evidence": "Surat Castle (built in 1540), European cemeteries (Dutch and English), factory ruins, and extensive records of the East India Company.",
+      "location_note": "Modern Surat district, on the banks of the Tapi river; overtook Cambay in prominence due to silting in the Gulf of Khambhat.",
+      "sources": [
+        "English East India Company Factory Records",
+        "Travelogues of Francois Bernier and Jean-Baptiste Tavernier"
+      ]
+    },
+    {
+      "id": "site_cambay",
+      "name": "Cambay (Khambhat)",
+      "era_id": "era_sultanate",
+      "type": "trade",
+      "description": "A major seaport of the Gujarat Sultanate, famously visited by Marco Polo and Ibn Battuta. It was the center of the world's agate and carnelian trade.",
+      "evidence": "Jama Masjid of Khambhat (1325 CE), ruins of the old port, traditional agate polishing workshops that continue ancient techniques.",
+      "location_note": "Modern Anand district, at the head of the Gulf of Khambhat; its decline as a major port was primarily due to the severe silting of the gulf.",
+      "sources": [
+        "Ibn Battuta's Rihla",
+        "Marco Polo's Travels",
+        "V.K. Jain - Trade and Traders in Western India"
+      ]
+    }
+  ]
+}

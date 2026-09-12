@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://kheda.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ખેડા સત્યાગ્રહની ભૂમિ",
+      "text": "૧૯૧૮નો ખેડા સત્યાગ્રહ—ગાંધીજીનો પ્રથમ ગુજરાત ખેડૂત આંદોલન.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "તમાકુ ઉદ્યોગ",
+      "text": "ભારતના તમાકુ ઉત્પાદનમાં ખેડાનો સિંહફાળો.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "ડાકોર તીર્થ",
+      "text": "રણછોડરાય મંદિર—ગુજરાતના મહત્વના તીર્થસ્થાનોમાંનું એક.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "ચરોતર વિરાસત",
+      "text": "મહી અને વાત્રક નદીના મેદાનો. સહકારી ચળવળ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "kheda",
+  "title": "kheda Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "kheda",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

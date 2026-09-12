@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://amreli.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગિરના સિંહોની ભૂમિ",
+      "text": "એશિયાઈ સિંહોનો છેલ્લો કુદરતી નિવાસ, ગીર અભયારણ્ય.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પ્રાચીન અમરેલી",
+      "text": "બૌદ્ધ ગુફાઓ અને મૌર્ય-ગુપ્ત કાલીન અવશેષો.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "કૃષિ સમૃદ્ધિ",
+      "text": "ગિર કેસર કેરી (GI Tag), મગફળી, કપાસ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "લોકકળા અને ઉત્સવો",
+      "text": "ભવાઈ નાટ્ય, રાસ-ગરબા, ગામડાંનું લોકજીવન.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "amreli",
+  "title": "amreli Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "amreli",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

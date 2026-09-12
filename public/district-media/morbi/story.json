@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://morbi.gujarat.gov.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "સિરામિક કેપિટલ ઓફ ઈન્ડિયા",
+      "text": "ભારતના ૭૦% સિરામિક ટાઈલ્સ મોરબીમાં બને છે.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "ઘડિયાળ ઉદ્યોગ",
+      "text": "અજંતા, ઓરેવા—ભારતના ક્લોક ઉદ્યોગનું જન્મસ્થાન.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "મણિ મંદિર અને વિલિંગ્ડન ડેમ",
+      "text": "રાજવી વારસો, ન્યુ પેલેસ, ગ્રીન ગાર્ડન.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "મચ્છુ ડેમ દુર્ઘટના",
+      "text": "૧૯૭૯ની ઐતિહાસિક દુર્ઘટના. પુનર્નિર્માણની ગાથા.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "morbi",
+  "title": "morbi Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "morbi",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

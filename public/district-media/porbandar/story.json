@@ -1,0 +1,53 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://porbandar.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "ગાંધીજીનું જન્મસ્થાન",
+      "text": "કીર્તિ મંદિર—મહાત્મા ગાંધીનું પૈતૃક ઘર.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "સુદામા મંદિર",
+      "text": "ભગવાન કૃષ્ણના મિત્ર સુદામાનું એકમાત્ર મંદિર.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "દરિયાઈ વેપાર",
+      "text": "પ્રાચીન બંદર. આફ્રિકા-અરેબિયા વેપાર માર્ગ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "બરડા ડુંગર અભયારણ્ય",
+      "text": "દીપડા, ઝરખ. કિનારા નજીક વન્યજીવન.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "porbandar",
+  "title": "porbandar Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "porbandar",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

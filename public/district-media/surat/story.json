@@ -1,0 +1,61 @@
+{
+  "published": false,
+  "sources": [
+    {
+      "title": "Official Source",
+      "url": "https://surat.nic.in"
+    },
+    {
+      "title": "Official Source",
+      "url": "https://gujarattourism.com/destination/surat"
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 10,
+      "title": "તાપી કિનારે ધબકતું ડાયમંડ સિટી",
+      "text": "વિશ્વના ૯૦% હીરા સુરતમાં કટિંગ-પોલિશ થાય છે.",
+      "image": "images/scene0.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "title": "પ્રાચીન બંદરથી આધુનિક મહાનગર",
+      "text": "ઈસ્ટ ઈન્ડિયા કંપનીની પ્રથમ કોઠી, ૧૬મી સદીનો કિલ્લો.",
+      "image": "images/scene1.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "title": "હીરા અને કાપડ ઉદ્યોગ",
+      "text": "ડાયમંડ બુર્સ, જરી અને ટેક્સટાઇલ માર્કેટ.",
+      "image": "images/scene2.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "title": "સુરતી જમણ અને સંસ્કૃતિ",
+      "text": "લોચો, ઉંધિયું, ઘારી, પોંક—સુરતનું જમણ કાશીનું મરણ.",
+      "image": "images/scene3.jpg",
+      "focus": "50% 50%"
+    },
+    {
+      "start": 40,
+      "end": 50,
+      "title": "ભવિષ્યનું સ્માર્ટ સિટી",
+      "text": "ફ્લાયઓવર સિટી, ભારતનાં સૌથી સ્વચ્છ શહેરોમાંનું એક.",
+      "image": "images/scene4.jpg",
+      "focus": "50% 50%"
+    }
+  ],
+  "gu": "surat",
+  "title": "surat Story",
+  "audio": "audio.mp3",
+  "script": "script.txt",
+  "district": "surat",
+  "reviewNote": "Unpublished during audit: supplied file matches the 16.368-second legacy Ahmedabad chapter; district-specific recording and timings required."
+}

@@ -1,0 +1,228 @@
+You are extending the user's CURRENT Gujarat Unveiled website. All previously requested website and government-showcase work is already implemented. Inspect the current project supplied by the user and treat it as the source of truth. Do not restore an older checkpoint, repeat previous requirements, rebuild the government showcase or redesign the site.
+
+Implement ONLY these five selected additions:
+
+Historical Atlas — map through time.
+
+Connections — “Why here?” explorer.
+
+Story Discovery — one object, many stories.
+
+People — substantial Gujarati documentary-style profiles.
+
+Environmental Understanding — seasonal Gujarat.
+
+This is an implementation request, not a request for another proposal. Preserve completed work, research the new content, implement the features, verify them and report actual results. Do not generate or repeatedly offer ZIP files unless explicitly requested again.
+
+1. Shared integration requirements
+
+Read the current project's instructions, routes, components, content schemas, design tokens, asset records, audio player and map controllers before editing. Reuse working systems. Preserve existing district narratives, leadership profiles, government initiatives, photographs, recordings, source links, navbar entries, typography, layout and atlas behavior. Preserve “LISTEN TO THE LAND” and “A place is only half the story.”
+
+Use existing colors, glass effects, spacing, shadows and motion conventions. Introduce the new explorers through a discoverable “Explore deeper” entry or the equivalent current navigation pattern. Keep existing navbar entries intact; use a keyboard/touch-accessible submenu or section navigation rather than squeezing five long labels into a crowded navbar. Provide stable direct links for each explorer and meaningful back/forward behavior.
+
+Every selected feature must be reachable on mobile and through keyboard navigation. Use native scrolling, modest viewport reveals and restrained depth. Do not trap scrolling, rely exclusively on hover or hide essential text behind animation. Respect the site's reduced-motion controls and system preference. Provide a useful reading view when WebGL or heavier visual effects are unavailable.
+
+Use reusable records with stable IDs for districts, places, eras, objects, people, environmental observations and sources. Connect them to existing content instead of maintaining duplicate versions. Keep a distinction between a district, cultural region, historical polity, present constituency and individual place.
+
+Cover all existing districts through relevant documented entries and links. Not every district must contain every type of evidence: identify gaps honestly rather than inventing historical boundaries, personalities, artifacts or environmental data. Keep a feature-by-district coverage register so thin coverage is visible and can be improved.
+
+2. Historical Atlas — map through time
+
+Purpose and experience
+
+Help visitors understand how settlement, trade, political authority, cultural exchange and administrative geography changed over time. Provide a clearly labeled time navigator with direct era buttons and optional timeline scrubbing. Show the selected era, date range, legend and evidence notes at all times.
+
+Choose historically meaningful periods after research, potentially including Harappan settlement networks, early historic trade, medieval kingdoms, Sultanate-era cities, regional/princely and colonial administration, independence/state formation and contemporary districts. These are research directions, not authorization to invent a fixed map for each label.
+
+Separate layer types: documented sites, trade connections, cultural associations, historical political extents and present administrative boundaries. Let users toggle relevant layers without confusing them. Historical places may be shown as points even when reliable territorial boundaries are unavailable.
+
+Geographic rigor
+
+Never project present-day district boundaries backward as if they existed in an earlier era. Keep today's reference geography visually distinct from historical information. Do not draw precise historical polygons from prose descriptions alone or transform rough maps into apparently surveyed boundaries.
+
+For each layer, store the represented date/period, source, original cartographic scale where known, license, spatial precision and limitations. Label reconstructed or approximate extents clearly. When only settlement evidence exists, use settlement markers and explain the available evidence instead of inventing territory.
+
+Avoid smooth boundary morphing that falsely suggests known intermediate borders. Prefer a clearly labeled crossfade between independently sourced snapshots. Separate historical place names from present names and preserve aliases for search.
+
+Do not assume that a modern district existed during a person's lifetime or an artifact's production. Link historic events to their present-day location with explicit wording. Verify recent administrative changes before using current boundaries.
+
+Clickable content
+
+Selecting a site or event opens an existing-style glass panel containing its period, location, historical context, evidence, significance, relationship to the chosen era and links to current district content. Include artifacts, inscriptions or monuments that support the explanation when reliable media is available.
+
+Provide a chronological list equivalent to the visual atlas, including sources. Visitors must not need to manipulate the 3D camera to reach historical content.
+
+Verification
+
+Test time controls, layer toggles, legends, source notes, direct links and reset behavior. Ensure switching eras clears incompatible selections or explains them. Check that no dates imply unsupported precision and no route implies a known exact path without evidence. Preserve current north reset, orbit controls and district selection.
+
+3. Connections — “Why here?” explorer
+
+Purpose
+
+Explain why a particular port, settlement, craft, industry, agricultural practice, institution or architectural form developed in a place. Connect geography, resources, skills, migration, patronage, infrastructure and public policy through evidence.
+
+For every featured explanation, answer:
+
+What developed here?
+
+What local conditions made it possible?
+
+Which people, institutions or networks contributed?
+
+How did it change over time?
+
+What connects it to other districts or regions?
+
+Why does it matter today?
+
+Which parts are documented and which are interpretations?
+
+Do not treat geography as destiny or assign occupations and abilities inherently to a community. Distinguish a contributing factor from a proven cause. Include alternative explanations when the evidence is materially contested.
+
+Interaction
+
+Start from a district, place, object or theme. Show a small, legible relationship view with labeled links such as “supplied material”, “connected by trade”, “influenced technique”, “supported by patronage” or “shared watershed”. Clicking a connection opens its explanation and evidence.
+
+Every graph edge must reference a specific relationship record with sources and a period. Do not add lines simply for visual richness. Edge thickness, node size and color must not imply a measured magnitude unless the underlying measure is defined.
+
+Keep a small selected neighborhood visible instead of rendering an unreadable statewide graph. Offer an equivalent ordered explanation/list for accessibility and small screens. Make returning to the original district predictable.
+
+4. Story Discovery — one object, many stories
+
+Purpose
+
+Let visitors enter Gujarat's history through an object: for example, a textile, bead, inscription, vessel, tool, architectural fragment or ship component. Select actual examples after research. An object category and a specific surviving artifact are different records and must be labeled accordingly.
+
+Organize each object story around:
+
+What the object is and how to recognize it.
+
+Its verified date/period, origin and present location or custodian when known.
+
+Materials, technique and stages of production.
+
+Who made, used, commissioned or traded it, where documented.
+
+Daily life, belief, artistic or economic meaning.
+
+Links to places, people, trade networks and district narratives.
+
+What it reveals and what cannot be inferred from it.
+
+Preservation, attribution and sources.
+
+Do not invent provenance, maker identity, ownership history, museum accession numbers or exact ages. Clearly identify replicas, reconstructions and representative modern examples. Respect image permissions and do not fabricate an image of a supposed museum object.
+
+Interaction and storytelling
+
+Provide an inviting object shelf or card collection, with authentic cleared photographs. Selecting an object opens a guided sequence from close observation to broader context. Add a few evidence-backed image annotations where the photograph supports them.
+
+Offer a 3D viewer only when a suitable licensed model actually exists. A photograph with parallax is not a rotatable historical model. Preserve a high-quality 2D fallback, accessible annotations, zoom controls and readable text.
+
+Connect the object to the Historical Atlas, “Why here?” explanation and relevant people/district pages through verified relationships. Reuse the existing audio workflow if recordings exist; otherwise provide a complete silent/text experience. Do not generate replacement narration.
+
+5. People — detailed Gujarati documentary profiles
+
+Editorial goal
+
+Create an engaging “People who shaped this place” experience with substantial, polished Gujarati storytelling. The desired voice is a well-prepared documentary speaker: confident, clear, expressive and thoughtful, with an opening, coherent argument, concrete examples and a memorable conclusion.
+
+Do not equate elevated speech with exaggerated praise, invented dialogue or repeated slogans. Explain achievements and contributions precisely, retaining material historical context. Existing government/minister profiles are already implemented: reuse or cross-link them rather than recreating the same content.
+
+Research a diverse set of historically and locally relevant contributors, including reformers, educators, writers, scientists, artists, artisans, institution builders, public servants and community contributors. Include women and lesser-known people where there is adequate evidence. Document whether the district connection is birth, residence, education, work, constituency, patronage or another specific association.
+
+Profile structure
+
+For each featured person, provide:
+
+An evocative opening grounded in a real setting, work or documented event.
+
+Identity, dates and the verified Gujarat/district connection.
+
+The historical and social circumstances in which they worked.
+
+Formative influences and relevant education or training, where documented.
+
+A chronological account of major work, decisions and turning points.
+
+Specific contributions: publications, institutions, inventions, art, reforms, public projects or other outputs.
+
+An explanation of how the contribution worked and why it mattered.
+
+Collaborators, communities, institutions and predecessors deserving credit.
+
+Obstacles, material debates and limitations supported by credible records.
+
+Influence on the district, Gujarat, India or wider world without unsupported global claims.
+
+Present-day legacy and links to surviving institutions, objects or places.
+
+A reflective conclusion and specific sources.
+
+For prominent featured profiles, aim for enough substantive Gujarati narration for roughly 6–10 minutes, with a declared planning pace and actual word count; final timing depends on the user recording. Do not invent facts or pad a lesser-documented biography to meet a duration. Give such figures a shorter evidence-based profile and label its scope honestly.
+
+Provide a short overview, chapter navigation, full Gujarati script, research notes and separate pronunciation/pause guidance for a narrator. Keep directions out of spoken text. The user supplies audio; do not impersonate the subject's voice or imply the script is a speech they actually delivered.
+
+Use verified quotations only with exact attribution and context; otherwise paraphrase. A first-person quotation must not be invented. For living people, distinguish established facts, attributed assessments and unresolved allegations; avoid unnecessary private information and do not invent endorsements.
+
+Presentation
+
+Use authentic, rights-cleared portraits or clearly labeled archival images. If a portrait is unavailable, use a neutral designed identity panel or relevant work image with an accurate caption, not a different person's photograph or fabricated documentary portrait.
+
+Combine a refined portrait composition, chronological milestones, selected works and a “legacy in places” view. Use gentle depth and transitions consistent with the site. Each milestone should open evidence-backed detail. Ensure long Gujarati text remains readable on small screens and at increased text size.
+
+6. Environmental Understanding — seasonal Gujarat
+
+Purpose and content
+
+Show how Gujarat's landscapes and human activities vary through the year. Connect seasonal water, vegetation, agriculture, wildlife, coastal conditions and livelihoods to districts and ecological regions.
+
+Use regionally meaningful seasons rather than assuming identical conditions across the state. For every featured district or landscape, explain relevant seasonal changes in rainfall and temperature patterns, rivers/wetlands, water availability, crops, grazing, vegetation, migration and human activity.
+
+Explain relationships, such as how rainfall affects freshwater availability and habitat conditions, using credible evidence. Do not infer exact wildlife presence or crop calendars for every location from statewide averages. Avoid publishing sensitive wildlife coordinates.
+
+Interactive experience
+
+Provide a season selector and a location selector. Update the selected landscape image, concise explanation and supported indicators together. Keep the season and geography visible. Show links to related heritage, livelihoods and district stories.
+
+Use comparable photographs of the same location where available and rights permit. If showing different representative locations, label them accurately. Do not imply a generated seasonal scene is historical or scientific evidence. A sourced diagram or labeled illustration may explain a process without pretending to be a photograph.
+
+Offer a simple water or landscape process explainer where it materially helps understanding. Qualitative illustrations must not masquerade as calibrated scientific simulations. Do not provide arbitrary sliders that produce invented climate, water or wildlife predictions.
+
+Data integrity
+
+Distinguish long-term seasonal patterns from a current weather forecast. Show station/region, reference period, units, source and uncertainty for numerical climate records. Use official meteorological, agricultural, water-resource, forest or relevant scientific sources. Different sites may have different observation periods; do not merge them without explanation.
+
+Live weather is not part of this scope unless the current site already has a reliable permitted service. If reused, label its timestamp and fallback state clearly. Do not describe an old seasonal average as current conditions or guarantee a wildlife sighting or safe access.
+
+If including seasonal visitor guidance, verify current opening/access restrictions separately and date it. Do not let an animated landscape imply that a protected area or site is currently open.
+
+7. Research, media and maintenance
+
+Research new claims using authoritative primary sources and appropriate scholarly literature. Read the relevant material rather than treating search snippets as proof. Use museum catalogs and archival collections for objects/people, archaeological and historical scholarship for eras, and relevant scientific or government datasets for environmental patterns.
+
+Store claim ID, direct source URL, publisher, title, publication date, access date, reference period and report page/table where relevant. Clearly label historical interpretations, approximate dates, reconstructed maps and disputed accounts. Do not invent references or cite an inaccessible book as if it was read.
+
+Store media creator, license, attribution, subject identity, caption and whether it is archival, contemporary, reconstructed or illustrative. Government or museum hosting does not automatically grant reuse rights. Preserve all existing attribution.
+
+Reuse content across views through references, not copied prose. Introduce editorial statuses for drafted, evidence reviewed, language reviewed, media cleared and narration available, adapting existing project conventions. Do not claim human review occurred automatically.
+
+8. Implementation, coverage and verification
+
+Create a requirement matrix containing every independently testable obligation in this prompt. Map each item to files/content, verification method and status: not started, in progress, implemented, verified or blocked. Record the current project's existing behavior so additions do not damage it.
+
+Build one complete end-to-end example for each explorer, verify it, then extend research and coverage across all districts where relevant evidence exists. These initial examples are internal milestones, not permission to stop with five sample cards.
+
+Create a coverage table identifying district links, historical records, relationship explanations, object stories, people profiles and seasonal material. Where no suitable evidence was found, record the gap honestly and preserve access to the district's existing content. Do not mark sparse or placeholder content as comprehensive.
+
+Test record relationships, unknown IDs, direct links, filters, selected-state transitions, back/forward, timeline/layer switching, missing-image and missing-audio states, mobile layout, keyboard access, focus management and reduced motion. Check that chronological and geographic labels are accurate and source controls remain usable.
+
+Run the build and meaningful tests. Retain regression checks for existing atlas, navbar, audio and district content. Where browser testing is allowed, inspect actual production-build behavior, visual integration, console errors and network failures. Record real test environments and limitations. Do not claim device/GPU testing or narrator review that did not happen.
+
+Lazy-load new maps, models and high-resolution media. Avoid duplicate animation loops, event-listener leaks and downloading all media on entry. Keep the reading experience available if a heavy asset fails. Do not introduce a new framework or backend without an evidenced need.
+
+Finish independently achievable work before asking for missing user recordings or rights clearance. Document exact blocked items. Deliver changes in the current project, a concise implementation report, content/source coverage and verification results. Do not generate or repeatedly offer ZIP files. Do not claim zero errors; state the actual tested scope and fix known reproducible defects.
+
+Do not add the other previously suggested features. The authorized additions are only the five explorers listed at the beginning, plus the integration needed to make them work in the existing website.
+plan everything using subagents with better quality and intelligence to achieve higher effective results

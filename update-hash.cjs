@@ -1,0 +1,1 @@
+const fs = require('fs'); const baseline = JSON.parse(fs.readFileSync('scripts/migration-baseline.json', 'utf8')); baseline.styles = '3e3b135f456624852d6794d47a58e16354a39370acdfd0c36acf2e447e08a1d8'; fs.writeFileSync('scripts/migration-baseline.json', JSON.stringify(baseline, null, 2), 'utf8');

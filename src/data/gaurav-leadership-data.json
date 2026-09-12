@@ -1,0 +1,58 @@
+[
+  {
+    "period": "Early Life",
+    "title": "Roots in Vadnagar",
+    "description": "Born and raised in Vadnagar, Gujarat. Early exposure to service and community through family and local organizations.",
+    "date": "1950 - 1970s",
+    "role": "Youth Volunteer"
+  },
+  {
+    "period": "Early Career",
+    "title": "Dedicated Pracharak",
+    "description": "Served as a full-time campaigner (Pracharak) for the Rashtriya Swayamsevak Sangh (RSS), traveling extensively across Gujarat to understand grassroots issues.",
+    "date": "1970s - 1980s",
+    "role": "RSS Pracharak"
+  },
+  {
+    "period": "Political Entry",
+    "title": "Organizational Architect",
+    "description": "Transitioned to the Bharatiya Janata Party (BJP). Played a key role in organizing campaigns like the Ram Rath Yatra and Ekta Yatra, establishing a strong party cadre in Gujarat.",
+    "date": "1987 - 1995",
+    "role": "BJP General Secretary (Gujarat)"
+  },
+  {
+    "period": "National Politics",
+    "title": "National General Secretary",
+    "description": "Moved to New Delhi to handle key responsibilities in the central BJP organization, overseeing operations and state elections in several Indian states.",
+    "date": "1995 - 2001",
+    "role": "National General Secretary, BJP"
+  },
+  {
+    "period": "CM Period",
+    "title": "Transforming Gujarat",
+    "description": "Appointed Chief Minister of Gujarat. Led the state's recovery from the Bhuj earthquake and initiated rapid industrial and infrastructural growth through policies like Vibrant Gujarat.",
+    "date": "2001 - 2014",
+    "role": "Chief Minister of Gujarat"
+  },
+  {
+    "period": "PM Period",
+    "title": "Sabka Saath, Sabka Vikas",
+    "description": "Sworn in as the Prime Minister of India. Launched major national initiatives such as Swachh Bharat Abhiyan, Jan Dhan Yojana, and Make in India.",
+    "date": "2014 - 2019",
+    "role": "Prime Minister of India"
+  },
+  {
+    "period": "PM Period",
+    "title": "Decisive Mandate & Reforms",
+    "description": "Re-elected with a larger mandate. Focused on self-reliance (Aatmanirbhar Bharat), abrogation of Article 370, and managing the COVID-19 pandemic.",
+    "date": "2019 - 2024",
+    "role": "Prime Minister of India"
+  },
+  {
+    "period": "PM Period",
+    "title": "Vision Viksit Bharat 2047",
+    "description": "Leading India towards the vision of becoming a developed nation by 2047, focusing on technology, infrastructure, and inclusive growth in his historic third term.",
+    "date": "2024 - Present",
+    "role": "Prime Minister of India"
+  }
+]

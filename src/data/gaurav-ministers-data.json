@@ -1,0 +1,84 @@
+{
+  "union": [
+    {
+      "name": "Amit Shah",
+      "role": "Union Minister",
+      "portfolio": "Ministry of Home Affairs, Ministry of Cooperation",
+      "jurisdiction": "Gandhinagar"
+    },
+    {
+      "name": "S. Jaishankar",
+      "role": "Union Minister",
+      "portfolio": "Ministry of External Affairs",
+      "jurisdiction": "Rajya Sabha MP (Gujarat)"
+    },
+    {
+      "name": "Mansukh Mandaviya",
+      "role": "Union Minister",
+      "portfolio": "Ministry of Labour and Employment, Ministry of Youth Affairs and Sports",
+      "jurisdiction": "Porbandar"
+    },
+    {
+      "name": "C.R. Patil",
+      "role": "Union Minister",
+      "portfolio": "Ministry of Jal Shakti",
+      "jurisdiction": "Navsari"
+    },
+    {
+      "name": "J.P. Nadda",
+      "role": "Union Minister",
+      "portfolio": "Ministry of Health and Family Welfare",
+      "jurisdiction": "Rajya Sabha MP (Gujarat)"
+    },
+    {
+      "name": "Nimuben Bambhaniya",
+      "role": "Minister of State",
+      "portfolio": "Consumer Affairs, Food and Public Distribution",
+      "jurisdiction": "Bhavnagar"
+    }
+  ],
+  "gujarat": [
+    {
+      "name": "Bhupendra Patel",
+      "role": "Chief Minister",
+      "portfolio": "General Administration, Urban Development",
+      "jurisdiction": "Ghatlodia"
+    },
+    {
+      "name": "Kanubhai Desai",
+      "role": "Cabinet Minister",
+      "portfolio": "Finance, Energy and Petrochemicals",
+      "jurisdiction": "Pardi"
+    },
+    {
+      "name": "Rushikesh Patel",
+      "role": "Cabinet Minister",
+      "portfolio": "Health and Family Welfare, Medical Education",
+      "jurisdiction": "Visnagar"
+    },
+    {
+      "name": "Raghavji Patel",
+      "role": "Cabinet Minister",
+      "portfolio": "Agriculture, Animal Husbandry",
+      "jurisdiction": "Jamnagar Rural"
+    },
+    {
+      "name": "Balvantsinh Rajput",
+      "role": "Cabinet Minister",
+      "portfolio": "Industries, Civil Aviation",
+      "jurisdiction": "Sidhpur"
+    },
+    {
+      "name": "Kunvarjibhai Bavaliya",
+      "role": "Cabinet Minister",
+      "portfolio": "Water Resources",
+      "jurisdiction": "Jasdan"
+    },
+    {
+      "name": "Harsh Sanghavi",
+      "role": "Minister of State",
+      "portfolio": "Home, Industries",
+      "jurisdiction": "Majura"
+    }
+  ]
+}
