@@ -1,13 +1,13 @@
-import { createRoot, hydrateRoot } from "react-dom/client";
-import App from "./App.jsx";
-import "./styles.css";
+import { createRoot, hydrateRoot } from 'react-dom/client';
+import App from './App.jsx';
+import './styles.css';
+import './readability.css';
 
-// Production hydrates the prerendered page; development mounts into the empty shell.
-const container=document.getElementById("root");
-const initialPath=window.location.pathname.replace(/\/+$/, "") || "/";
-if(container.hasChildNodes() && initialPath === '/') {
-  hydrateRoot(container,<App initialPath="/" />);
+const container = document.getElementById('root');
+// Hydrate exactly the route that generated this HTML, even when a host serves
+// index.html as its SPA fallback for another URL. App then reads the live URL.
+if (container.hasChildNodes()) {
+  hydrateRoot(container, <App initialPath={container.dataset.prerenderPath || '/'}/>);
 } else {
-  if(container.hasChildNodes()) container.innerHTML = '';
-  createRoot(container).render(<App initialPath={initialPath} />);
+  createRoot(container).render(<App initialPath={window.location.pathname} initialSearch={window.location.search}/>);
 }

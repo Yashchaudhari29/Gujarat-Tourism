@@ -6,3 +6,10 @@ node_modules/
 .sites-runtime/
 
 dist/
+.locale-audit.mjs
+.translation-content.mjs
+.explorer-check-*/
+*.zip
+.env
+.env.*
+!.env.example

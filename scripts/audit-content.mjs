@@ -1,0 +1,21 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {existsSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+import {pathToFileURL} from 'node:url';
+import {resolve} from 'node:path';
+import {createElement} from 'react';
+import {renderToStaticMarkup} from 'react-dom/server';
+const data=await import(pathToFileURL(resolve('.translation-content.mjs')));
+const read=async p=>JSON.parse(await readFile(p,'utf8'));
+const photos=await read('src/data/district-photos.json');
+const portraits=await read('public/assets/portraits/manifest.json');
+const routes=await read('scripts/current-routes.json');
+const tags={};for(const p of data.peopleCatalog)for(const tag of p.tags)tags[tag]=(tags[tag]||0)+1;
+const missingPortraits=data.peopleCatalog.filter(p=>!portraits[p.wikiTitle]||!existsSync('public'+portraits[p.wikiTitle].src)).map(p=>p.name);
+const hashes=[];for(const p of Object.values(photos))hashes.push(createHash('sha256').update(await readFile('public'+p.src)).digest('hex'));
+const missingImages=new Set(),notFound=[];
+for(const route of routes){const html=renderToStaticMarkup(createElement(data.App,{initialPath:route}));if(/<h1[^>]*>[^<]*(not found)/i.test(html))notFound.push(route);for(const m of html.matchAll(/<img[^>]*src="([^"]+)"/g))if(m[1].startsWith('/assets/')&&!existsSync('public'+m[1]))missingImages.add(m[1]);}
+const gu=await read('src/locale/gu.json'),en=await read('src/locale/en.json'),strings=await read('scripts/translation-strings.json');
+const report={profiles:data.peopleCatalog.length,tags,portraitCoverage:data.peopleCatalog.length-missingPortraits.length,missingPortraits,districtPhotos:Object.keys(photos).length,uniqueDistrictPhotos:new Set(hashes).size,routeCount:routes.length,notFound,missingImages:[...missingImages],translationEntries:{gu:Object.keys(gu).length,en:Object.keys(en).length},untranslatedStrings:strings.filter(s=>!(/[\u0A80-\u0AFF]/.test(s)?en:gu)[s]).length};
+await writeFile('scripts/content-audit.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
+if(Object.values(tags).some(n=>n<5)||missingPortraits.length||hashes.length!==34||new Set(hashes).size!==34||missingImages.size||notFound.length)process.exitCode=1;

@@ -1,0 +1,269 @@
+{
+  "kutch": {
+    "src": "/assets/districts/kutch.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dholavira",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/DHOLAVIRA_SITE_%2824%29.jpg/3840px-DHOLAVIRA_SITE_%2824%29.jpg",
+    "title": "Dholavira",
+    "caption": "Dholavira",
+    "description": "Indus Valley Civilisation site in Gujarat, India"
+  },
+  "dahod": {
+    "src": "/assets/districts/dahod.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dahod",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jilla_Panchayat_Bhawan_Dahod.jpg/3840px-Jilla_Panchayat_Bhawan_Dahod.jpg",
+    "title": "Dahod",
+    "caption": "Dahod",
+    "description": "City in Gujarat, India"
+  },
+  "navsari": {
+    "src": "/assets/districts/navsari.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dandi%2C_Navsari",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/NATIONAL_SALT_SATYAGRAHA_MEMORIAL_AT_DANDI.jpg",
+    "title": "Dandi, Navsari",
+    "caption": "Dandi, Navsari",
+    "description": "Village in Gujarat, India"
+  },
+  "panchmahal": {
+    "src": "/assets/districts/panchmahal.jpg",
+    "source": "https://en.wikipedia.org/wiki/Champaner-Pavagadh_Archaeological_Park",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jain_Temple%2C_Pavagadh_%28cropped%29.jpg",
+    "title": "Champaner-Pavagadh Archaeological Park",
+    "caption": "Champaner-Pavagadh Archaeological Park",
+    "description": "UNESCO World Heritage Site in Gujarat, India"
+  },
+  "patan": {
+    "src": "/assets/districts/patan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rani_ki_Vav",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/3840px-Rani_ki_vav_02.jpg",
+    "title": "Rani ki Vav",
+    "caption": "Rani ki Vav",
+    "description": "UNESCO World Heritage Site in Patan, India"
+  },
+  "porbandar": {
+    "src": "/assets/districts/porbandar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kirti_Mandir%2C_Porbandar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Birth_place_of_Mahatma_Gandhi.jpg",
+    "title": "Kirti Mandir, Porbandar",
+    "caption": "Kirti Mandir, Porbandar",
+    "description": "Indian museum in Porbandar, Gujarat"
+  },
+  "rajkot": {
+    "src": "/assets/districts/rajkot.jpg",
+    "source": "https://en.wikipedia.org/wiki/Watson_Museum",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Watson_Museum.jpg/3840px-Watson_Museum.jpg",
+    "title": "Watson Museum",
+    "caption": "Watson Museum"
+  },
+  "surat": {
+    "src": "/assets/districts/surat.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gopi_Talav",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gopi_Talav_5.jpg",
+    "title": "Gopi Talav",
+    "caption": "Gopi Talav",
+    "description": "Lake in Surat, Gujarat, India"
+  },
+  "tapi": {
+    "src": "/assets/districts/tapi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ukai_Dam",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ukai_Dam_-_DSC04481.jpg",
+    "title": "Ukai Dam",
+    "caption": "Ukai Dam",
+    "description": "Dam in Tapi district"
+  },
+  "vadodara": {
+    "src": "/assets/districts/vadodara.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lakshmi_Vilas_Palace%2C_Vadodara",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lakshmi_Vilas_Palace%2C_Vadodara.jpg/3840px-Lakshmi_Vilas_Palace%2C_Vadodara.jpg",
+    "title": "Lakshmi Vilas Palace, Vadodara",
+    "caption": "Lakshmi Vilas Palace, Vadodara",
+    "description": "Palace in Gujarat, India"
+  },
+  "valsad": {
+    "src": "/assets/districts/valsad.JPG",
+    "source": "https://en.wikipedia.org/wiki/Tithal_Beach",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tithal_Beach_Sun_Set.JPG",
+    "title": "Tithal Beach",
+    "caption": "Tithal Beach",
+    "description": "Human settlement in India"
+  },
+  "vav-tharad": {
+    "src": "/assets/districts/vav-tharad.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tharad",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/Tharad_city.jpg",
+    "title": "Tharad",
+    "caption": "Tharad",
+    "description": "Urban Town in Gujarat, India"
+  },
+  "ahmedabad": {
+    "src": "/assets/districts/ahmedabad.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sidi_Saiyyed_Mosque%2C_Ahmedabad.jpg/3840px-Sidi_Saiyyed_Mosque%2C_Ahmedabad.jpg",
+    "title": "Sidi Saiyyed Mosque",
+    "caption": "Sidi Saiyyed Mosque",
+    "description": "Mosque in Ahmedabad, Gujarat, India"
+  },
+  "amreli": {
+    "src": "/assets/districts/amreli.jpg",
+    "caption": "Shiyalbet island",
+    "title": "Shiyalbet island",
+    "source": "https://amreli.nic.in/gu/",
+    "original": "https://cdn.s3waas.gov.in/s3b056eb1587586b71e2da9acfe4fbd19e/uploads/2018/07/2018071024.jpg"
+  },
+  "aravalli": {
+    "src": "/assets/districts/aravalli.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shamlaji",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Shamlaji_Temple2_%28cropped%29.jpg",
+    "title": "Shamlaji",
+    "caption": "Shamlaji",
+    "description": "Hindu temple in Gujarat, India"
+  },
+  "botad": {
+    "src": "/assets/districts/botad.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gadhada",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Swaminarayan_Temple%2C_Gadhada_-_panoramio.jpg",
+    "title": "Gadhada",
+    "caption": "Gadhada",
+    "description": "Town in Gujarat, India"
+  },
+  "dang": {
+    "src": "/assets/districts/dang.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saputara",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Lake_Saputara.jpg",
+    "title": "Saputara",
+    "caption": "Saputara",
+    "description": "Hill station in Gujarat, India"
+  },
+  "devbhumi-dwarka": {
+    "src": "/assets/districts/devbhumi-dwarka.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dwarkadhish_Temple",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dwarakadheesh_Temple%2C_2014.jpg",
+    "title": "Dwarkadhish Temple",
+    "caption": "Dwarkadhish Temple",
+    "description": "Temple in Gujarat, India"
+  },
+  "gandhinagar": {
+    "src": "/assets/districts/gandhinagar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Adalaj_Stepwell",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Adalaj_ki_Vav_Gujarat_240A1370_72.jpg",
+    "title": "Adalaj Stepwell",
+    "caption": "Adalaj Stepwell",
+    "description": "Stepwell in Gujarat, India"
+  },
+  "gir-somnath": {
+    "src": "/assets/districts/gir-somnath.jpg",
+    "source": "https://en.wikipedia.org/wiki/Somnath_Temple",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/3840px-Somanath_mandir_%28cropped%29.jpg",
+    "title": "Somnath Temple",
+    "caption": "Somnath temple",
+    "description": "Hindu temple in Gujarat, India"
+  },
+  "banaskantha": {
+    "src": "/assets/districts/banaskantha.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ambaji_Mata_Temple",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/0081323_Arasuri_Ambaji_mandir%2C_Shakti_Peeth%2C_north_Gujarat_037.jpg",
+    "title": "Ambaji Mata Temple",
+    "caption": "Ambaji Mata Temple",
+    "description": "Hindu temple and Shakti piths in Gujarat, India"
+  },
+  "bharuch": {
+    "src": "/assets/districts/bharuch.jpg",
+    "source": "https://en.wikipedia.org/wiki/Golden_Bridge_(India)",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/A_Foggy_moring_over_river_Narmada%2C_Gujarat%2C_India.jpg",
+    "title": "Golden Bridge (India)",
+    "caption": "Golden Bridge (India)",
+    "description": "Bridge in Bharuch and Ankleshwar in India"
+  },
+  "chhota-udepur": {
+    "src": "/assets/districts/chhota-udepur.png",
+    "source": "https://en.wikipedia.org/wiki/Chhota_Udaipur",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kusum_Vihar%2C_Chhota_Udaipur.png",
+    "title": "Chhota Udaipur",
+    "caption": "Chhota Udaipur",
+    "description": "Town in Gujarat, India"
+  },
+  "jamnagar": {
+    "src": "/assets/districts/jamnagar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lakhota_Lake",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Lakhota_lake_Jamnagar%2C_Golden_hours.jpg/3840px-Lakhota_lake_Jamnagar%2C_Golden_hours.jpg",
+    "title": "Lakhota Lake",
+    "caption": "Lakhota Lake",
+    "description": "Artificial lake in Jamnagar, Gujarat"
+  },
+  "junagadh": {
+    "src": "/assets/districts/junagadh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mahabat_Maqbara_complex",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tomb_of_Mahabat_Khan.jpg/3840px-Tomb_of_Mahabat_Khan.jpg",
+    "title": "Mahabat Maqbara complex",
+    "caption": "Mahabat Maqbara complex",
+    "description": "Mausoleums in Junagadh, Gujarat, India"
+  },
+  "kheda": {
+    "src": "/assets/districts/kheda.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dakor",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Dakore_temple_-_By_Ashesh_Shah.jpg/3840px-Dakore_temple_-_By_Ashesh_Shah.jpg",
+    "title": "Dakor",
+    "caption": "Dakor",
+    "description": "City in Gujarat, India"
+  },
+  "mehsana": {
+    "src": "/assets/districts/mehsana.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sun_Temple%2C_Modhera",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Surya_mandhir.jpg/3840px-Surya_mandhir.jpg",
+    "title": "Sun Temple, Modhera",
+    "caption": "Sun Temple, Modhera",
+    "description": "Surya Temple in Gujarat, India"
+  },
+  "narmada": {
+    "src": "/assets/districts/narmada.jpg",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Unity",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_Unity.jpg",
+    "title": "Statue of Unity",
+    "caption": "Statue of Unity",
+    "description": "Colossal statue of Vallabhbhai Patel in Gujarat, India"
+  },
+  "surendranagar": {
+    "src": "/assets/districts/surendranagar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Trinetreshwar_Temple",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trinetreshwar_Temple.jpg/3840px-Trinetreshwar_Temple.jpg",
+    "title": "Trinetreshwar Temple",
+    "caption": "Trinetreshwar Temple",
+    "description": "Hindu temple in Gujarat, India"
+  },
+  "anand": {
+    "src": "/assets/districts/anand.jpg",
+    "caption": "Sardar Patel memorial, Karamsad",
+    "title": "Sardar Patel memorial, Karamsad",
+    "source": "https://anand.nic.in/places-of-interest/",
+    "original": "https://cdn.s3waas.gov.in/s3d86ea612dec96096c5e0fcc8dd42ab6d/uploads/2018/08/2018080980.jpg"
+  },
+  "mahisagar": {
+    "src": "/assets/districts/mahisagar.jpg",
+    "caption": "Kadana Dam",
+    "title": "Kadana Dam",
+    "source": "https://mahisagar.nic.in/home2/",
+    "original": "https://cdn.s3waas.gov.in/s3ce78d1da254c0843eb23951ae077ff5f/uploads/2018/12/2018122686.jpg"
+  },
+  "bhavnagar": {
+    "src": "/assets/districts/bhavnagar.jpg",
+    "caption": "Takhteshwar Temple",
+    "title": "Takhteshwar Temple",
+    "source": "https://gtbooking.gujarattourism.com/saurashtra/bhavnagar/takhteshwar-temple.html",
+    "original": "https://gtbooking.gujarattourism.com/content/dam/gujrattourism/images/religious-sites/takhteshwar-temple/Takhteshwar-Temple-Banner.jpg"
+  },
+  "morbi": {
+    "src": "/assets/districts/morbi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Morbi",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Willingdon_Secretariat2_-_panoramio.jpg",
+    "title": "Morbi",
+    "caption": "Morbi",
+    "description": "City in Gujarat, India"
+  },
+  "sabarkantha": {
+    "src": "/assets/districts/sabarkantha.jpg",
+    "source": "https://en.wikipedia.org/wiki/Idar%2C_Gujarat",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Idar_hills.jpg",
+    "title": "Idar, Gujarat",
+    "caption": "Idar, Gujarat",
+    "description": "Town in Gujarat, India"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "provenance": "Uploaded source commit a497d00; preserves supplied CSS prefix and scene construction. Older migration-baseline.json remains unchanged for legacy content/assets/motion.",
+  "stylesPrefixBytes": 50022,
+  "stylesPrefixSha256": "7fa978a35103ce3f80e6b49e64688d322cc23f27acb0eaee8b3b563b06e36947",
+  "sceneStart": " const scene=",
+  "sceneEnd": " const ringGeo=",
+  "sceneSha256": "0ef925c9768203f8b5526f5c9bbb9832ea920570d9a43bf0b5b6befdb6aa6bc3"
+}

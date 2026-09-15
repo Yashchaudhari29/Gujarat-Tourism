@@ -1,0 +1,15 @@
+import {build} from 'esbuild';
+import {readFile,writeFile} from 'node:fs/promises';
+import {resolve} from 'node:path';
+import {pathToFileURL} from 'node:url';
+import {createElement} from 'react';
+import {renderToStaticMarkup} from 'react-dom/server';
+await build({entryPoints:['scripts/content-entry.jsx'],outfile:'.locale-audit.mjs',bundle:true,platform:'node',format:'esm',jsx:'automatic',jsxImportSource:'@localization',alias:{'@localization':resolve('src/locale')},external:['react','react/*','react-dom/*','/assets/*'],loader:{'.css':'empty'},logLevel:'silent'});
+const {App,setTranslationReporter}=await import(pathToFileURL(resolve('.locale-audit.mjs')));
+const routes=JSON.parse(await readFile('scripts/current-routes.json','utf8'));
+const pending={en:new Set(),gu:new Set()};
+setTranslationReporter((text,lang)=>pending[lang].add(text));
+for(const initialLanguage of ['en','gu'])for(const initialPath of routes)renderToStaticMarkup(createElement(App,{initialPath,initialLanguage}));
+const result=Object.fromEntries(Object.entries(pending).map(([language,text])=>[language,[...text]]));
+await writeFile('scripts/missing-rendered-translations.json',JSON.stringify(result,null,2));
+console.log('Untranslated rendered text:',Object.fromEntries(Object.entries(result).map(([l,t])=>[l,t.length])));

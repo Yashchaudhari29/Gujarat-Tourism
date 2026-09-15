@@ -1,0 +1,42 @@
+{
+  "profiles": 64,
+  "tags": {
+    "Politics": 6,
+    "Governance": 6,
+    "Public leadership": 6,
+    "Independence": 6,
+    "Revolutionary": 6,
+    "Science": 6,
+    "Institution Building": 6,
+    "Business": 6,
+    "Entrepreneurship": 6,
+    "Industry": 6,
+    "Philanthropy": 6,
+    "Agriculture": 6,
+    "Cooperatives": 6,
+    "Social Entrepreneurship": 6,
+    "Feminism": 6,
+    "Social reform": 6,
+    "Education": 6,
+    "Literature": 6,
+    "Arts": 6,
+    "Philosophy": 6,
+    "Religion": 6,
+    "Cinema": 6,
+    "Performing arts": 6,
+    "Music": 6,
+    "Visual art": 6
+  },
+  "portraitCoverage": 64,
+  "missingPortraits": [],
+  "districtPhotos": 34,
+  "uniqueDistrictPhotos": 34,
+  "routeCount": 242,
+  "notFound": [],
+  "missingImages": [],
+  "translationEntries": {
+    "gu": 630,
+    "en": 250
+  },
+  "untranslatedStrings": 2008
+}

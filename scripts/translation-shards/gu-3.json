@@ -1,0 +1,2019 @@
+{
+  "name": "gu-3",
+  "target": "gu",
+  "chars": 57341,
+  "records": [
+    {
+      "id": 3,
+      "source": "Menu"
+    },
+    {
+      "id": 13,
+      "source": "WESTERN INDIA. WORLDS WITHIN."
+    },
+    {
+      "id": 20,
+      "source": "Follow your curiosity."
+    },
+    {
+      "id": 22,
+      "source": "THE LIVING ATLAS"
+    },
+    {
+      "id": 27,
+      "source": "Heritage cities"
+    },
+    {
+      "id": 30,
+      "source": "Temples by the sea"
+    },
+    {
+      "id": 35,
+      "source": "N"
+    },
+    {
+      "id": 36,
+      "source": "Choose a place. Uncover its story."
+    },
+    {
+      "id": 42,
+      "source": "01 — 05 / REGIONS"
+    },
+    {
+      "id": 45,
+      "source": "Centuries of craftsmanship"
+    },
+    {
+      "id": 49,
+      "source": "In the land of the lion"
+    },
+    {
+      "id": 53,
+      "source": "34 districts. Countless beginnings."
+    },
+    {
+      "id": 63,
+      "source": "Ahmedabad"
+    },
+    {
+      "id": 75,
+      "source": "Bhavnagar"
+    },
+    {
+      "id": 85,
+      "source": "Devbhumi Dwarka"
+    },
+    {
+      "id": 97,
+      "source": "Mehsana"
+    },
+    {
+      "id": 105,
+      "source": "Navsari"
+    },
+    {
+      "id": 113,
+      "source": "Rajkot"
+    },
+    {
+      "id": 119,
+      "source": "Tapi"
+    },
+    {
+      "id": 125,
+      "source": "Vav-Tharad"
+    },
+    {
+      "id": 132,
+      "source": "Explore Gujarat’s heritage, the public journey of Narendra Modi, and the institutions and initiatives shaping the state."
+    },
+    {
+      "id": 140,
+      "source": "Explore 34 Districts ↗"
+    },
+    {
+      "id": 142,
+      "source": "Development & resilience"
+    },
+    {
+      "id": 144,
+      "source": "Explore Initiatives ↗"
+    },
+    {
+      "id": 148,
+      "source": "Walk through ancient cities."
+    },
+    {
+      "id": 151,
+      "source": "Indus Valley"
+    },
+    {
+      "id": 153,
+      "source": "Solanki splendour"
+    },
+    {
+      "id": 156,
+      "source": "19TH–20TH CENTURY"
+    },
+    {
+      "id": 160,
+      "source": "The art of belonging"
+    },
+    {
+      "id": 165,
+      "source": "Mirror-work embroidery"
+    },
+    {
+      "id": 171,
+      "source": "Step into Gir"
+    },
+    {
+      "id": 174,
+      "source": "03 / Marine world"
+    },
+    {
+      "id": 177,
+      "source": "Grazers"
+    },
+    {
+      "id": 178,
+      "source": "Predators"
+    },
+    {
+      "id": 181,
+      "source": "A place is only half the story."
+    },
+    {
+      "id": 184,
+      "source": "Landscape story"
+    },
+    {
+      "id": 186,
+      "source": "An ocean of white"
+    },
+    {
+      "id": 191,
+      "source": "A temple beneath the earth"
+    },
+    {
+      "id": 198,
+      "source": "A city that lives its history"
+    },
+    {
+      "id": 206,
+      "source": "Documented archaeology"
+    },
+    {
+      "id": 213,
+      "source": "Made for the endlessly curious."
+    },
+    {
+      "id": 216,
+      "source": "Share a thought ↗"
+    },
+    {
+      "id": 221,
+      "source": "The wide salt flats of the Rann of Kutch"
+    },
+    {
+      "id": 228,
+      "source": "Search districts by English or Gujarati name"
+    },
+    {
+      "id": 268,
+      "source": "Narendra Modi"
+    },
+    {
+      "id": 270,
+      "source": "Narendra Damodardas Modi is an Indian politician who has served as the prime minister of India since 26 May 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi."
+    },
+    {
+      "id": 281,
+      "source": "Jivraj Narayan Mehta"
+    },
+    {
+      "id": 282,
+      "source": "Jivraj Narayan Mehta was an Indian politician and the first Chief Minister of Gujarat. He also served as the first \"Dewan\" of the erstwhile Baroda state, and Indian high commissioner to the United Kingdom from 1963 to 1966."
+    },
+    {
+      "id": 288,
+      "source": "Bhikhaiji Cama"
+    },
+    {
+      "id": 290,
+      "source": "Bhikhaiji Rustom Cama, also known as Madam Cama, was one of the prominent figures in the Indian independence movement. She unfurled one of the earliest versions of the flag of independent India on August 22, 1907, and she was the first person to hoist an Indian flag in a foreign nation, at the International Socialist Conference at Stuttgart."
+    },
+    {
+      "id": 299,
+      "source": "Homi Jehangir Bhabha was an Indian nuclear theoretical physicist who is widely credited as the \"father of the Indian nuclear programme\". He was the founding director and professor of physics at the Tata Institute of Fundamental Research (TIFR), as well as the founding director of the Atomic Energy Establishment, Trombay (AEET) which was renamed the Bhabha Atomic Research Centre in his honour."
+    },
+    {
+      "id": 311,
+      "source": "Dhirubhai Ambani"
+    },
+    {
+      "id": 312,
+      "source": "Born 1932 · Chorwad, Gujarat"
+    },
+    {
+      "id": 314,
+      "source": "Karsanbhai Patel"
+    },
+    {
+      "id": 315,
+      "source": "Born 1945 · Mehsana, Gujarat"
+    },
+    {
+      "id": 316,
+      "source": "Karsanbhai Khodidas Patel is an Indian billionaire businessman, industrialist, and founder of the Nirma Group, a company with major business interests in cement, detergents, soaps and cosmetics, pharmaceuticals, packaging, and chemicals. As of 2024, Hurun has listed his net worth at US$9 billion."
+    },
+    {
+      "id": 326,
+      "source": "Tribhuvandas Patel"
+    },
+    {
+      "id": 327,
+      "source": "Born 1903 · Anand, Gujarat"
+    },
+    {
+      "id": 329,
+      "source": "Motibhai Chaudhary"
+    },
+    {
+      "id": 330,
+      "source": "Motibhai Chaudhary (1923-2005) was an Indian politician and was the member of 6th Lok Sabha from Banaskantha. He started his political career in 1972 when he was elected to Gujarat Legislative Assembly."
+    },
+    {
+      "id": 335,
+      "source": "H. M. Patel"
+    },
+    {
+      "id": 336,
+      "source": "Hirubhai Mulljibhai Patel CIE, also known as H. M."
+    },
+    {
+      "id": 340,
+      "source": "Hansa Mehta"
+    },
+    {
+      "id": 342,
+      "source": "Hansa Jivraj Mehta was an Indian reformist, social activist, educator, independence activist, feminist and writer. She was one of only two women delegates working alongside Eleanor Roosevelt in the UN Human Rights Commission 1946-48 ensuring the wording \"all human beings\" instead of \"all men\" in the Universal Declaration of Human Rights."
+    },
+    {
+      "id": 354,
+      "source": "Dhumketu"
+    },
+    {
+      "id": 355,
+      "source": "Born 1892 · Virpur, Gujarat"
+    },
+    {
+      "id": 356,
+      "source": "Gaurishankar Govardhanram Joshi (1892–1965), better known by his pen name Dhumketu, was an Indian Gujarati-language writer, who is considered one of the pioneers of the Gujarati short story. He published twenty-four collections of short stories, as well as thirty-two novels on social and historical subjects, and plays and travelogues."
+    },
+    {
+      "id": 366,
+      "source": "Narsinh Mehta"
+    },
+    {
+      "id": 367,
+      "source": "Born 1414 · Talaja, Gujarat"
+    },
+    {
+      "id": 369,
+      "source": "Akho"
+    },
+    {
+      "id": 371,
+      "source": "Shrimad Rajchandra"
+    },
+    {
+      "id": 372,
+      "source": "Shrimad Rajchandra, also known as Param Krupalu Dev, was a Jain poet, mystic, philosopher, scholar, and a major reformer from India. Born in Vavaniya, a village near Morbi, he attained recollection of his past lives at the age of seven."
+    },
+    {
+      "id": 377,
+      "source": "Morari Bapu"
+    },
+    {
+      "id": 378,
+      "source": "Morari Bapu is an Indian spiritual leader and narrator of Rama katha from Gujarat. He is an exponent of Ramcharitmanas with more than 900 kathas recited over the last 60 years."
+    },
+    {
+      "id": 385,
+      "source": "Sanjeev Kumar"
+    },
+    {
+      "id": 386,
+      "source": "Sanjeev Kumar was an Indian actor who worked in Hindi and Gujarati cinema. Regarded as one of the greatest and finest actors in the history of Indian cinema, Kumar was known for his acting versatility."
+    },
+    {
+      "id": 391,
+      "source": "Ratna Pathak Shah"
+    },
+    {
+      "id": 392,
+      "source": "Ratna Pathak Shah is an Indian actress and director known for her work in Hindi theatre, television, and films. Her extensive work in theatre includes a series of plays in both English and Hindi."
+    },
+    {
+      "id": 401,
+      "source": "Hemant Chauhan"
+    },
+    {
+      "id": 402,
+      "source": "Hemant Chauhan is an Indian singer and writer associated with Gujarati music and Gujarati literature. He was awarded the Padma Shri by the Government of India in 2023 for his contributions to the arts."
+    },
+    {
+      "id": 406,
+      "source": "Aditya Gadhvi is a playback singer and lyricist from Gujarat, India. He has rendered numerous chart-topping songs in various Indian languages."
+    },
+    {
+      "id": 412,
+      "source": "Atul Dodiya"
+    },
+    {
+      "id": 414,
+      "source": "Nilima Sheikh"
+    },
+    {
+      "id": 415,
+      "source": "Nilima Sheikh is a visual artist based in Baroda, India."
+    },
+    {
+      "id": 422,
+      "source": "Read about Narendra Modi"
+    },
+    {
+      "id": 424,
+      "source": "Filter by Governance"
+    },
+    {
+      "id": 426,
+      "source": "Read about Sardar Vallabhbhai Patel"
+    },
+    {
+      "id": 428,
+      "source": "Filter by Independence"
+    },
+    {
+      "id": 429,
+      "source": "Filter by Revolutionary"
+    },
+    {
+      "id": 431,
+      "source": "Portrait of Morarji Desai"
+    },
+    {
+      "id": 435,
+      "source": "Portrait of Jivraj Narayan Mehta"
+    },
+    {
+      "id": 440,
+      "source": "Read about Bhikhaiji Cama"
+    },
+    {
+      "id": 444,
+      "source": "Read about Sardarsinh Rana"
+    },
+    {
+      "id": 447,
+      "source": "Portrait of Vikram Sarabhai"
+    },
+    {
+      "id": 452,
+      "source": "Read about Sudhir K. Jain"
+    },
+    {
+      "id": 456,
+      "source": "Read about Yash Pal"
+    },
+    {
+      "id": 460,
+      "source": "Read about Jamsetji Tata"
+    },
+    {
+      "id": 463,
+      "source": "Filter by Entrepreneurship"
+    },
+    {
+      "id": 468,
+      "source": "Read about Karsanbhai Patel"
+    },
+    {
+      "id": 472,
+      "source": "Read about Ambalal Sarabhai"
+    },
+    {
+      "id": 476,
+      "source": "Read about Verghese Kurien"
+    },
+    {
+      "id": 480,
+      "source": "Filter by Social Entrepreneurship"
+    },
+    {
+      "id": 484,
+      "source": "Portrait of Motibhai Chaudhary"
+    },
+    {
+      "id": 488,
+      "source": "Portrait of Manibhai Desai"
+    },
+    {
+      "id": 493,
+      "source": "Filter by Feminism"
+    },
+    {
+      "id": 496,
+      "source": "Read about Hansa Mehta"
+    },
+    {
+      "id": 500,
+      "source": "Read about Vidyagauri Nilkanth"
+    },
+    {
+      "id": 504,
+      "source": "Read about Pushpaben Mehta"
+    },
+    {
+      "id": 508,
+      "source": "Filter by Literature"
+    },
+    {
+      "id": 513,
+      "source": "Portrait of Umashankar Joshi"
+    },
+    {
+      "id": 518,
+      "source": "Read about Pannalal Patel"
+    },
+    {
+      "id": 520,
+      "source": "Read about Narsinh Mehta"
+    },
+    {
+      "id": 526,
+      "source": "Read about Shrimad Rajchandra"
+    },
+    {
+      "id": 530,
+      "source": "Read about Dayananda Saraswati"
+    },
+    {
+      "id": 534,
+      "source": "Read about Asha Parekh"
+    },
+    {
+      "id": 539,
+      "source": "Portrait of Paresh Rawal"
+    },
+    {
+      "id": 543,
+      "source": "Portrait of Boman Irani"
+    },
+    {
+      "id": 547,
+      "source": "Portrait of Ratna Pathak Shah"
+    },
+    {
+      "id": 552,
+      "source": "Portrait of Falguni Pathak"
+    },
+    {
+      "id": 556,
+      "source": "Portrait of Hemant Chauhan"
+    },
+    {
+      "id": 560,
+      "source": "Portrait of Aditya Gadhvi"
+    },
+    {
+      "id": 564,
+      "source": "Read about K. G. Subramanyan"
+    },
+    {
+      "id": 568,
+      "source": "Read about Nilima Sheikh"
+    },
+    {
+      "id": 572,
+      "source": "Read about Bhupen Khakhar"
+    },
+    {
+      "id": 580,
+      "source": "central Gujarat"
+    },
+    {
+      "id": 583,
+      "source": "Explore the Saurashtra landscape"
+    },
+    {
+      "id": 588,
+      "source": "south Gujarat"
+    },
+    {
+      "id": 590,
+      "source": "Explore eastern Saurashtra"
+    },
+    {
+      "id": 594,
+      "source": "Discover the south Gujarat hills"
+    },
+    {
+      "id": 599,
+      "source": "Explore the Gir landscape"
+    },
+    {
+      "id": 604,
+      "source": "Explore the southern coastal region"
+    },
+    {
+      "id": 608,
+      "source": "An inland Saurashtra starting point"
+    },
+    {
+      "id": 612,
+      "source": "Explore Gujarat’s southern coast"
+    },
+    {
+      "id": 619,
+      "source": "Shamlaji"
+    },
+    {
+      "id": 622,
+      "source": "Takhteshwar Temple"
+    },
+    {
+      "id": 625,
+      "source": "Saputara"
+    },
+    {
+      "id": 628,
+      "source": "Somnath temple"
+    },
+    {
+      "id": 632,
+      "source": "Sun Temple, Modhera"
+    },
+    {
+      "id": 637,
+      "source": "Rani ki Vav"
+    },
+    {
+      "id": 640,
+      "source": "Gopi Talav"
+    },
+    {
+      "id": 642,
+      "source": "Ukai Dam"
+    },
+    {
+      "id": 644,
+      "source": "Tithal Beach"
+    },
+    {
+      "id": 649,
+      "source": "Explore how initiatives are intended to work, the institutions involved and the distinction between a policy objective and a measured result."
+    },
+    {
+      "id": 670,
+      "source": "Pradhan Mantri Jan Dhan Yojana (PMJDY)"
+    },
+    {
+      "id": 673,
+      "source": "High prevalence of open defecation and poor solid waste management leading to widespread health issues."
+    },
+    {
+      "id": 680,
+      "source": "Vibrant Gujarat Global Summit"
+    },
+    {
+      "id": 682,
+      "source": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)"
+    },
+    {
+      "id": 684,
+      "source": "Ayushman Bharat - PM-JAY"
+    },
+    {
+      "id": 685,
+      "source": "High out-of-pocket expenditure on healthcare pushing millions of Indian families into poverty."
+    },
+    {
+      "id": 691,
+      "source": "Lack of basic amenities and economic opportunities in rural areas leading to distress migration."
+    },
+    {
+      "id": 700,
+      "source": "Begin with a place and ask what survives. Buildings, inscriptions, objects and written accounts answer different questions. Separate archaeological observations from interpretation, and distinguish the date of a structure from later rebuilding or commemoration."
+    },
+    {
+      "id": 708,
+      "source": "People and their work"
+    },
+    {
+      "id": 709,
+      "source": "Explore lives connected with Gujarat across public service, science, enterprise, education, literature and the arts. Move from a short introduction into chapters and related profiles."
+    },
+    {
+      "id": 713,
+      "source": "Connect water, vegetation, livelihoods and conservation. A landscape changes through time and extends beyond an administrative boundary. Read the seasonal observations alongside the longer ecological stories to understand why a single photograph or wildlife sighting cannot describe the whole system."
+    },
+    {
+      "id": 728,
+      "source": "Modi’s earlier career included organisational work in the Rashtriya Swayamsevak Sangh and the Bharatiya Janata Party. His responsibilities subsequently moved from Gujarat’s state executive to the Union government. He began a third term as Prime Minister on 9 June 2024. These offices involve setting priorities and coordinating government, while legislation, budgets and implementation also depend on Parliament, ministries, state governments and public institutions. Recognising those different responsibilities makes the relationship between leadership and delivery easier to understand."
+    },
+    {
+      "id": 735,
+      "source": "Ministry of New and Renewable Energy: International Solar Alliance ↗"
+    },
+    {
+      "id": 739,
+      "source": "Related by Politics, Governance, Public leadership. Shared themes do not imply a personal association."
+    },
+    {
+      "id": 740,
+      "source": "Politics · Governance · Public leadership"
+    },
+    {
+      "id": 741,
+      "source": "Breadcrumb"
+    },
+    {
+      "id": 742,
+      "source": "Profile language"
+    },
+    {
+      "id": 743,
+      "source": "Sardar Vallabhbhai Patel, affectionately known as the 'Iron Man of India,' began his extraordinary political journey in Gujarat, where he organized massive peasant movements. He successfully led the Bardoli Satyagraha in 1928, mobilizing farmers against oppressive British tax policies. This triumph not only earned him the title of 'Sardar' (Leader) but also established him as a paramount political force in Gujarat. He played a pivotal role in the civic administration of Ahmedabad, significantly improving its infrastructure and public health systems, and continuously mentored the political leadership in the state during its formative years."
+    },
+    {
+      "id": 748,
+      "source": "Modern leaders can draw profound lessons from Sardar Patel's unparalleled administrative acumen, decisiveness, and pragmatism. His life demonstrates the immense value of prioritizing national interests over personal or ideological ambitions. In times of crisis, his ability to act swiftly and decisively offers a model for effective crisis management and conflict resolution. Furthermore, his emphasis on building strong, impartial institutional frameworks—the 'steel frame' of administration—remains a critical reminder of what is required to sustain democratic governance and ensure equitable service delivery in large, complex, and diverse societies."
+    },
+    {
+      "id": 765,
+      "source": "Born in Porbandar and deeply connected to his Gujarati roots, Mahatma Gandhi profoundly influenced the social and political fabric of Gujarat. He established the Kochrab Ashram and later the Sabarmati Ashram in Ahmedabad, which became the epicenters of India's freedom struggle and his experiments with truth and non-violence. He championed the cause of local farmers during the Kheda Satyagraha, marking one of the earliest successes of civil disobedience in Gujarat. Gandhi also founded the Gujarat Vidyapith to promote educational self-reliance and deeply inspired local literature, journalism, and social reform movements across the state."
+    },
+    {
+      "id": 769,
+      "source": "Gandhi's vision was anchored in the concepts of 'Swaraj' (self-rule) and 'Sarvodaya' (the welfare of all). He envisioned a decentralized, village-centric Indian economy where self-sufficient local communities thrived through cottage industries like Khadi. His philosophy deeply intertwined politics with morality, emphasizing that the means employed to achieve an end must be as pure as the end itself. He envisioned a society completely free from exploitation, deeply rooted in truth (Satya), non-violence (Ahimsa), and communal harmony, prioritizing the spiritual and economic upliftment of the poorest of the poor."
+    },
+    {
+      "id": 775,
+      "source": "Internationally, Madam Cama was a pioneering diplomat and global ambassador for Indian freedom. Her most iconic moment occurred at the International Socialist Conference in Stuttgart, Germany, in 1907, where she became the first person to unfurl an early version of the Indian national flag on foreign soil. She effectively utilized global platforms across Europe and America to expose the severe economic exploitation and brutal suppression of Indians by the British Empire. By building alliances with international socialists and anti-imperialist leaders, she successfully internationalized the Indian independence struggle, drawing crucial global attention and sympathy."
+    },
+    {
+      "id": 781,
+      "source": "The independence movement contained different political methods: constitutional argument, journalism, mass mobilisation, overseas advocacy and revolutionary organising. These methods should be distinguished, even when participants shared the goal of ending colonial rule. Gujarat connected local struggles with wider Indian and international debates."
+    },
+    {
+      "id": 786,
+      "source": "PRL’s early work examined cosmic rays and the upper atmosphere; theoretical physics and radio physics subsequently broadened its programme. The institution’s history records support from the Atomic Energy Commission. Its first management council included Sarabhai and K. R. Ramanathan, alongside other scientists. C. V. Raman laid the campus foundation in 1952, and Jawaharlal Nehru inaugurated the main campus in 1954. These milestones show how a research initiative developed through scientific collaboration, educational support and public institutions."
+    },
+    {
+      "id": 789,
+      "source": "The vision preserved in PRL’s founder account brings two responsibilities together: supporting advanced research within available resources and organising projects around practical national problems. Read together, these priorities suggest that scientific excellence and public usefulness can reinforce each other. A laboratory needs room for inquiry as well as the ability to translate knowledge into sustained work. This interpretation helps explain why institution building matters alongside the achievements of individual researchers."
+    },
+    {
+      "id": 800,
+      "source": "Sudhir Kumar Jain is an Indian academic who served as the 28th Vice-Chancellor of Banaras Hindu University. He is a civil engineer by education and has formerly served three terms as the founding director of the Indian Institute of Technology Gandhinagar. He has carried out intensive research and development in the fields of seismic design codes, dynamic of buildings, and post-earthquake studies. Beside these, Jain has actively participated in teaching, research activities and development in earthquake engineering focused on developing countries. He is an elected fellow of Indian National Academy of Engineering. He was also elected a member of U.S. National Academy of Engineering (2021) for leadership in earthquake engineering in developing countries."
+    },
+    {
+      "id": 810,
+      "source": "On the global stage, Jamsetji Tata demonstrated that Indian enterprises could compete with the best in the world. By importing cutting-edge technology and international expertise for his textile mills and steel plants, he challenged the prevailing colonial narrative of Indian industrial inferiority. His establishment of the Taj Mahal Palace Hotel created a world-class hospitality landmark that placed India on the global tourism map. Furthermore, his pioneering implementation of progressive labor welfare policies—such as pensions and regulated working hours—often predated similar labor reforms in fully industrialized Western nations."
+    },
+    {
+      "id": 814,
+      "source": "Biography: Jamsetji Tata ↗"
+    },
+    {
+      "id": 815,
+      "source": "Related by Business, Entrepreneurship, Industry, Philanthropy. Shared themes do not imply a personal association."
+    },
+    {
+      "id": 817,
+      "source": "Born in the small village of Chorwad in Junagadh, Gujarat, Dhirubhai Ambani is the ultimate embodiment of the famed Gujarati entrepreneurial genius. He fundamentally disrupted and revolutionized the Indian corporate landscape by establishing Reliance Industries, starting from a modest textile trading business in Ahmedabad and Mumbai. He catalyzed massive industrial development within Gujarat, notably establishing the monumental Jamnagar refinery, which remains the largest grassroots petroleum refinery in the world. His massive investments in the state created unprecedented direct and indirect employment, cementing Gujarat's reputation as the industrial and manufacturing powerhouse of modern India."
+    },
+    {
+      "id": 821,
+      "source": "Ambani's vision was defined by scale, speed, and audacity. He famously believed in 'thinking big, thinking fast, and thinking ahead.' His core philosophy was that world-class quality and massive economies of scale could be achieved in India despite severe regulatory constraints. He envisioned a democratized corporate wealth model where ordinary shareholders directly benefited from the company's exponential growth. His relentless pursuit of backward integration—from textiles to petrochemicals to refining—was driven by a vision of complete self-reliance, ensuring that his enterprise controlled the entire value chain to maximize efficiency and profitability."
+    },
+    {
+      "id": 826,
+      "source": "Biography: Karsanbhai Patel ↗"
+    },
+    {
+      "id": 828,
+      "source": "Biography: Kasturbhai Lalbhai ↗"
+    },
+    {
+      "id": 829,
+      "source": "Ambalal Sarabhai was an Indian industrialist, philanthropist, institution builder, and a supporter of Mahatma Gandhi. He was born in a Śvetāmbara Jain and Shrimali family. He served as the chairman and promoter of Calico Mills and founded the Sarabhai Group of Companies. He also was a participant in the Indian independence movement."
+    },
+    {
+      "id": 834,
+      "source": "Revered as the 'Milkman of India,' Dr. Kurien orchestrated 'Operation Flood,' the world's largest agricultural dairy development program. This monumental initiative transformed India from a milk-deficient nation into the world's largest milk producer. By replicating the 'Anand pattern' of cooperatives across the country, he organized millions of small and marginal farmers, ensuring they received a fair share of the profits. His efforts stabilized milk prices, dramatically improved rural incomes, and significantly enhanced the nutritional security of the Indian population, making the cooperative movement a cornerstone of India's rural economy."
+    },
+    {
+      "id": 839,
+      "source": "Biography: Verghese Kurien ↗"
+    },
+    {
+      "id": 840,
+      "source": "Related by Agriculture, Cooperatives, Social Entrepreneurship. Shared themes do not imply a personal association."
+    },
+    {
+      "id": 842,
+      "source": "Rural development is not only a question of increasing production. Producer ownership, dependable procurement, veterinary services, credit, technical education and market access determine who benefits. Gujarat’s cooperative experience shows how local organisation can connect small producers with processing and distribution while raising questions about representation and accountability."
+    },
+    {
+      "id": 849,
+      "source": "Hirubhai Mulljibhai Patel CIE, also known as H. M. Patel, was an Indian civil servant who played a major role in the issues regarding internal and national security in the first years after the independence of India. From 1977 to 1979, he served as the Finance Minister and later Home Minister of India. He was also the chairman of the Charutar Vidya Mandal, which founded Vallabh Vidyapith that was later on named as Sardar Patel University, Vallabh Vidyanagar."
+    },
+    {
+      "id": 860,
+      "source": "Sharda Mehta was an Indian social worker, proponent of women's education, and a Gujarati writer. She was among the first two women to graduate in what is now the modern state of Gujarat, India. She established institutes for women's education and women's welfare. She wrote several essays and an autobiography as well as translated some works."
+    },
+    {
+      "id": 866,
+      "source": "While predominantly a regional and national figure, Meghani's contribution to ethnomusicology, folkloristics, and cultural anthropology holds significant international academic value. His rigorous methodologies for field research, recording oral histories, and preserving the indigenous narratives of marginalized rural communities align with global efforts to protect intangible cultural heritage. Furthermore, his adaptations and translations of international literature into Gujarati demonstrated a cosmopolitan literary vision, fostering cross-cultural dialogue and proving that deeply rooted regional literature can successfully engage with and reflect universal human themes of courage, love, and resistance."
+    },
+    {
+      "id": 872,
+      "source": "Literature · Arts"
+    },
+    {
+      "id": 874,
+      "source": "Gujarati literature includes oral memory, poetry, the short story and the novel. Pay attention to language, social setting and the relationship between an author’s time and the world represented in the text. A literary work is a shaped interpretation of life, rather than a transparent record of every historical fact."
+    },
+    {
+      "id": 875,
+      "source": "Biography: Dhumketu ↗"
+    },
+    {
+      "id": 876,
+      "source": "Biography: Umashankar Joshi ↗"
+    },
+    {
+      "id": 877,
+      "source": "Narmadashankar Lalshankar Dave, popularly known as Narmad, was an Indian Gujarati-language poet, playwright, essayist, orator, lexicographer and reformer under the British Raj. He is considered to be the founder of modern Gujarati literature. After studying in Bombay, he stopped serving as a teacher to live by writing. During his prolific career, he introduced many literary forms in Gujarati. He faced economic struggles but proved himself as a dedicated reformer, speaking loudly against religious and social orthodoxy. His essays, poems, plays and prose were published in several collections. His Mari Hakikat, the first autobiography in Gujarati, was published posthumously. His poem Jai Jai Garavi Gujarat is now the state anthem of Gujarat state of India."
+    },
+    {
+      "id": 887,
+      "source": "Narsinh Mehta was primarily a mystic poet, a passionate saint, and a wandering singer. Rejecting material wealth and societal norms, he embraced the life of an ascetic devoted entirely to spiritual pursuit and literary creation. In a highly orthodox society, he inadvertently took on the role of a radical social reformer, challenging the entrenched caste system and challenging religious dogma through the powerful medium of vernacular art and music."
+    },
+    {
+      "id": 891,
+      "source": "Related by Philosophy, Religion. Shared themes do not imply a personal association."
+    },
+    {
+      "id": 894,
+      "source": "Biography: Akho ↗"
+    },
+    {
+      "id": 895,
+      "source": "Shrimad Rajchandra, also known as Param Krupalu Dev, was a Jain poet, mystic, philosopher, scholar, and a major reformer from India. Born in Vavaniya, a village near Morbi, he attained recollection of his past lives at the age of seven. He performed Avadhāna, a memory retention and recollection test that gained him popularity, but he later discouraged it in favour of his spiritual pursuits. He wrote much philosophical poetry including Ātma-Siddhi-Śāśtra. He also wrote many letters and commentaries and translated some religious texts. He is known for his teachings on Jainism and his spiritual guidance to Mahatma Gandhi."
+    },
+    {
+      "id": 906,
+      "source": "Biography: Paresh Rawal ↗"
+    },
+    {
+      "id": 907,
+      "source": "Sanjeev Kumar was an Indian actor who worked in Hindi and Gujarati cinema. Regarded as one of the greatest and finest actors in the history of Indian cinema, Kumar was known for his acting versatility. He acted in a wide variety of genres ranging from romantic drama to thriller. He was voted seventh among the \"Greatest Actors of Indian cinema of All Time\" in a poll conducted by Rediff.com. His double role in Angoor was listed among the \"25 Iconic Performances of Indian cinema\" by Forbes India on the occasion of celebrating 100 years of Indian Cinema."
+    },
+    {
+      "id": 916,
+      "source": "Biography: Pankaj Udhas ↗"
+    },
+    {
+      "id": 918,
+      "source": "Falguni Pathak is an Indian singer, performing artist and composer based in Mumbai. Her music is based on traditional musical forms from the Indian state of Gujarat. Since her professional debut in 1987, she has developed into an artist with a large fan base across India. Once asked how she decided to take up singing as a career, she replied that it happened by default."
+    },
+    {
+      "id": 925,
+      "source": "Biography: Aditya Gadhvi ↗"
+    },
+    {
+      "id": 926,
+      "source": "Modern visual art in Gujarat developed through art education, exhibitions, print culture and exchanges with folk and international traditions. Look at materials, composition and the social experience represented in an artwork. Artistic innovation often involves reinterpreting inherited forms, rather than simply rejecting or copying them."
+    },
+    {
+      "id": 933,
+      "source": "Biography: Bhupen Khakhar ↗"
+    },
+    {
+      "id": 954,
+      "source": "heritage"
+    },
+    {
+      "id": 957,
+      "source": "economy"
+    },
+    {
+      "id": 959,
+      "source": "people"
+    },
+    {
+      "id": 961,
+      "source": "development"
+    },
+    {
+      "id": 995,
+      "source": "India's largest district, a geographically isolated and culturally vibrant expanse of deserts, salt marshes, and coastlines, renowned for its resilient people and extraordinary artisanal traditions."
+    },
+    {
+      "id": 1001,
+      "source": "Ram Singh Malam, a master craftsman and navigator; Shyamji Krishna Varma, a pioneering freedom fighter in London; the resilient artisans who rebuilt their lives after the 2001 earthquake."
+    },
+    {
+      "id": 1005,
+      "source": "Becoming the global epicenter for renewable energy and green hydrogen production, managing the ecological impact of rapid industrialization on the fragile salt marsh ecosystems."
+    },
+    {
+      "id": 1032,
+      "source": "A premier center for exquisite textiles, including Ashavali brocades and block prints. The city celebrates Navratri with unparalleled fervor, transforming into a vibrant landscape of Garba, and hosts the internationally renowned International Kite Festival (Uttarayan)."
+    },
+    {
+      "id": 1037,
+      "source": "Situated on the banks of the Sabarmati River in north-central Gujarat. The region features a hot, semi-arid climate, with the Sabarmati historically providing the lifeblood for its extensive textile dyeing industries."
+    },
+    {
+      "id": 1041,
+      "source": "saurashtra GUJARAT"
+    },
+    {
+      "id": 1042,
+      "source": "Shiyalbet island ·"
+    },
+    {
+      "id": 1051,
+      "source": "A politically and historically significant district in the Saurashtra region, Amreli is known for its deep agrarian roots, robust cooperative movements, and as a crucible of Gujarati literature and folk arts."
+    },
+    {
+      "id": 1055,
+      "source": "Predominantly agrarian, famous for groundnut, cotton, and sesame cultivation. The district also possesses a significant diamond cutting and polishing industry in towns like Savarkundla, which is also nationally famous for producing precision weighing scales."
+    },
+    {
+      "id": 1059,
+      "source": "Focuses heavily on irrigation projects to support its agrarian economy, rural road connectivity, and expanding its cooperative dairy infrastructure to empower local farmers."
+    },
+    {
+      "id": 1071,
+      "source": "The district's primary heritage is industrial and institutional, symbolized by the iconic Amul dairy plant. The historic Swaminarayan temple at Vadtal is a major spiritual center boasting beautiful 19th-century architecture."
+    },
+    {
+      "id": 1075,
+      "source": "The epicenter of Operation Flood, the world's largest agricultural dairy development program. It provided India with a reproducible model of cooperative rural development that empowered millions of marginalized farmers nationwide."
+    },
+    {
+      "id": 1079,
+      "source": "Exhibits immense socio-economic resilience owing to the robust cooperative structure that protects farmers from market volatility, exploitative middlemen, and climatic shocks."
+    },
+    {
+      "id": 1091,
+      "source": "Shamlaji, an ancient and highly revered Vaishnavite pilgrimage center dating back to at least the 11th century, features exquisite Chaulukyan architecture and intricate carvings of deities and episodes from the epics."
+    },
+    {
+      "id": 1095,
+      "source": "Preserves vital ecological corridors and ancient cultural traditions of the Aravalli hills. Shamlaji's archaeological wealth contributes significantly to the understanding of Gujarat's early medieval history."
+    },
+    {
+      "id": 1100,
+      "source": "Balancing the ecological conservation of the ancient Aravalli range with the economic development of its tribal population, potentially through the promotion of sustainable eco-tourism and heritage tourism."
+    },
+    {
+      "id": 1112,
+      "source": "Historically a crucial buffer state (Palanpur Agency) and transit route between the rich maritime ports of Gujarat and the landlocked empires of North India, leading to a confluence of Gujarati and Rajasthani cultural elements."
+    },
+    {
+      "id": 1116,
+      "source": "Ranges from the Aravalli hills in the east to the semi-desert tracts bordering the Rann of Kutch in the west. Drained by the seasonal Banas river. Faces severe, critical groundwater depletion challenges."
+    },
+    {
+      "id": 1120,
+      "source": "south GUJARAT"
+    },
+    {
+      "id": 1121,
+      "source": "Golden Bridge (India) ·"
+    },
+    {
+      "id": 1129,
+      "source": "One of India's oldest continuously inhabited port cities, Bharuch (ancient Barygaza) is the historical maritime gateway of Gujarat, now transformed into a formidable chemical and industrial powerhouse along the Narmada river."
+    },
+    {
+      "id": 1133,
+      "source": "A massive industrial hub, particularly the Ankleshwar and Dahej industrial estates, dominating in chemicals, petrochemicals, fertilizers, and textiles. Agriculture (cotton) remains significant in the rural hinterland."
+    },
+    {
+      "id": 1137,
+      "source": "Development of the massive Dahej Petroleum, Chemicals and Petrochemicals Investment Region (PCPIR). Infrastructure like the new extradosed bridge on the Narmada significantly enhances connectivity."
+    },
+    {
+      "id": 1162,
+      "source": "The Takhteshwar Temple offering panoramic views, the exquisite Nilambag Palace, and the Barton Library reflect its princely grandeur. The ancient Buddhist caves at Sana indicate its historical depth."
+    },
+    {
+      "id": 1166,
+      "source": "Pioneered people's representation by being the first princely state in India to voluntarily merge with the Indian Union in 1948. It is a major global center for ship recycling, contributing to steel recovery."
+    },
+    {
+      "id": 1170,
+      "source": "Facing severe coastal erosion and salinity ingress. Developing resilience through coastal protection works and transitioning the highly polluting ship-breaking industry toward greener, safer practices."
+    },
+    {
+      "id": 1196,
+      "source": "Strategically located at the crossroads of major railway and highway networks, it has historically served as a gateway for goods and people moving between the fertile Charotar and the arid Saurashtra interior."
+    },
+    {
+      "id": 1200,
+      "source": "Characterized by an undulating, semi-arid landscape. It acts as a geographical transition zone between the Bhal region (known for unique wheat varieties) and the core Saurashtra plateau."
+    },
+    {
+      "id": 1204,
+      "source": "Chhota Udaipur ·"
+    },
+    {
+      "id": 1225,
+      "source": "A predominantly tribal district in eastern Gujarat, Chhota Udepur is a sanctuary of indigenous culture, famed for its vibrant Rathwa art, rich forest resources, and its history as an erstwhile princely state."
+    },
+    {
+      "id": 1229,
+      "source": "Heavily dependent on rain-fed agriculture, forestry, and mining (particularly dolomite). The tribal population relies extensively on minor forest produce and seasonal migration for labor."
+    },
+    {
+      "id": 1233,
+      "source": "Focused heavily on integrating tribal populations into the mainstream economy through improved healthcare, residential schools, and providing forest rights and sustainable livelihoods."
+    },
+    {
+      "id": 1257,
+      "source": "Gujarat's easternmost gateway, Dahod is a historic frontier town with a significant tribal demographic, historically guarding the trade routes to Malwa and known as the birthplace of the Mughal Emperor Aurangzeb."
+    },
+    {
+      "id": 1262,
+      "source": "Historically secured the eastern flank of Gujarat's empires. Today, its hardworking labor force is instrumental in building the urban infrastructure and driving the agriculture of mainland Gujarat."
+    },
+    {
+      "id": 1265,
+      "source": "Inclusion in the Smart Cities Mission aims to transform its urban infrastructure. Massive state efforts are underway to provide piped water and irrigation to curb seasonal migration."
+    },
+    {
+      "id": 1290,
+      "source": "Lacks monumental architecture, but its profound heritage lies in the living traditions of its indigenous tribes and the historical legacy of the Dangi Darbar, where local chiefs were uniquely recognized by the British."
+    },
+    {
+      "id": 1294,
+      "source": "The ecological lungs of South Gujarat, preserving critical biodiversity and dense forest cover. Its tribal communities are vital custodians of highly effective ethno-botanical knowledge."
+    },
+    {
+      "id": 1298,
+      "source": "Building economic resilience against poverty by developing sustainable, community-owned eco-tourism models and providing better, fairer market linkages for forest produce and bamboo crafts."
+    },
+    {
+      "id": 1325,
+      "source": "Beyt Dwarka pilgrimage, vibrant Okhamandal culture, traditional Vaghari and Rabari pastoralist communities, and Janmashtami celebrations of national significance."
+    },
+    {
+      "id": 1328,
+      "source": "Sustains one of the Char Dham pilgrimage sites, marine archaeological discoveries reshaping understanding of India's ancient maritime history, and acts as a vital coastal security outpost."
+    },
+    {
+      "id": 1333,
+      "source": "Balancing mass spiritual tourism with marine conservation, integrating sustainable coastal zone management, and upgrading maritime infrastructure for regional trade."
+    },
+    {
+      "id": 1359,
+      "source": "Situated along the Sabarmati river corridor connecting to Ahmedabad, forming a twin-city mega-region; nodal center for the Delhi-Mumbai Industrial Corridor (DMIC)."
+    },
+    {
+      "id": 1363,
+      "source": "Located on the banks of the Sabarmati River, characterized by fertile central Gujarat plains, extensive urban green cover, facing challenges of urban heat island mitigation and water management."
+    },
+    {
+      "id": 1367,
+      "source": "Somnath temple ·"
+    },
+    {
+      "id": 1389,
+      "source": "A district defined by its juxtaposition of India's profound spiritual heritage at Somnath and the extraordinary ecological sanctuary of the Asiatic Lion in the Gir forest."
+    },
+    {
+      "id": 1394,
+      "source": "Holds the exclusive global distinction of conserving the last wild population of the Asiatic Lion; anchoring India's cultural memory through the reconstructed Somnath temple."
+    },
+    {
+      "id": 1398,
+      "source": "Coastal communities highly adapted to marine vulnerabilities, robust community-led cyclone preparedness, and strict wildlife protection protocols in the sanctuary."
+    },
+    {
+      "id": 1424,
+      "source": "Famous for Bandhani (tie-and-dye) textiles, Surma (kohl), traditional brass artisanship, and the continuous chanting of the Ramdhun at Bala Hanuman Temple which holds a Guinness World Record."
+    },
+    {
+      "id": 1429,
+      "source": "Arid coastline along the Gulf of Kutch, encompassing the Marine National Park with coral reefs and mangroves, estuarine ecosystems facing acute industrial ecological pressures."
+    },
+    {
+      "id": 1433,
+      "source": "Mahabat Maqbara complex ·"
+    },
+    {
+      "id": 1455,
+      "source": "The historical soul of the Saurashtra peninsula, a city where Mauryan, Kshatrapa, Rajput, and Islamic histories are deeply layered within the shadow of the sacred Mount Girnar."
+    },
+    {
+      "id": 1459,
+      "source": "Primarily agrarian, renowned for the Kesar mango, groundnut cultivation, tourism centered around Girnar and historical monuments, and educational institutions focused on agriculture."
+    },
+    {
+      "id": 1463,
+      "source": "Girnar ropeway project significantly boosting pilgrimage access, restoration of heritage monuments, and agricultural research through the Junagadh Agricultural University."
+    },
+    {
+      "id": 1474,
+      "source": "The ancient Shiva temple of Dakor (Ranchhodraiji), colonial-era railway architecture, and historical sites related to the Satyagraha movement in rural talukas."
+    },
+    {
+      "id": 1477,
+      "source": "Intensive agriculture including tobacco, dairy farming anchored by the cooperative model (historically part of the Amul ecosystem), and light manufacturing."
+    },
+    {
+      "id": 1481,
+      "source": "Robust rural road networks, advanced irrigation canals from the Mahi project, and widespread rural electrification supporting agro-industries."
+    },
+    {
+      "id": 1491,
+      "source": "The magnificent 11th-century Sun Temple at Modhera with its precise astronomical alignment; the intricately carved Taranga Jain temples; and the historic stepwell at Vadnagar."
+    },
+    {
+      "id": 1494,
+      "source": "Advanced agriculture (mustard, castor, cumin), Asia's largest dairy cooperative (Dudhsagar Dairy), light engineering, ONGC oil and gas extraction, and brass/copper utensil manufacturing."
+    },
+    {
+      "id": 1499,
+      "source": "Community-led water conservation initiatives and a shift towards micro-irrigation to combat extreme groundwater scarcity."
+    },
+    {
+      "id": 1509,
+      "source": "The globally significant dinosaur fossil park at Raiyoli (Balasinor), one of the largest dinosaur egg hatcheries in the world; the Kaleshwari historical complex with its ancient stepwells and temples."
+    },
+    {
+      "id": 1513,
+      "source": "Put India on the global paleontological map with the discovery of the Rajasaurus narmadensis; preserves vital tribal ecological knowledge and traditions."
+    },
+    {
+      "id": 1517,
+      "source": "Tribal communities relying on traditional drought-resistant crops and forest produce during climatic stress; increasing government focus on rural livelihood diversification."
+    },
+    {
+      "id": 1527,
+      "source": "An industrious, business-oriented culture driven by the Patidar community; famous for its historic clock manufacturing transitioning into global ceramic dominance."
+    },
+    {
+      "id": 1531,
+      "source": "Sir Waghji Thakor, the visionary ruler who modernized Morbi's infrastructure; the resilient local entrepreneurs who built the ceramic cluster from scratch."
+    },
+    {
+      "id": 1535,
+      "source": "Upgrading the ceramic industry to green manufacturing standards, addressing critical civic infrastructure deficits caused by rapid industrialization, and improving industrial safety protocols."
+    },
+    {
+      "id": 1560,
+      "source": "Historically, Rajpipla was connected to the broader Maratha and British political networks; today, it connects the entire state of Gujarat through the distribution of the Narmada river's waters."
+    },
+    {
+      "id": 1564,
+      "source": "Rugged, densely forested terrain of the Satpura and Vindhya ranges, dominated by the majestic Narmada river; rich biodiversity but facing ecological pressures from mass tourism."
+    },
+    {
+      "id": 1568,
+      "source": "Dandi, Navsari ·"
+    },
+    {
+      "id": 1575,
+      "source": "The historical stronghold of the Parsi community in India and the pivotal site of India's independence struggle through the Dandi March, Navsari is a lush agricultural and historical center in South Gujarat."
+    },
+    {
+      "id": 1579,
+      "source": "The district's economy thrives on floriculture, horticulture (especially chikoo and mangoes), and diamond polishing. Agriculture is supported by fertile soils, while Navsari is increasingly integrating into the South Gujarat industrial corridor."
+    },
+    {
+      "id": 1583,
+      "source": "Development focuses on agricultural modernization, coastal infrastructure, and eco-tourism around Dandi. Public services emphasize rural healthcare and the expansion of the floriculture export supply chain."
+    },
+    {
+      "id": 1593,
+      "source": "A district characterized by its deep-rooted tribal heritage and the monumental medieval architecture of the Champaner-Pavagadh UNESCO World Heritage site, representing a unique blend of Hindu and Islamic urban planning."
+    },
+    {
+      "id": 1597,
+      "source": "The economy is predominantly agrarian, focusing on maize, pulses, and dairy farming. The Halol-Kalol belt has emerged as a significant manufacturing and industrial zone, hosting automobile and engineering industries."
+    },
+    {
+      "id": 1601,
+      "source": "Current development initiatives prioritize tribal education, upgrading industrial infrastructure in Halol, and enhancing tourist facilities and connectivity around the Pavagadh pilgrimage circuit."
+    },
+    {
+      "id": 1611,
+      "source": "Home to the Rani ki Vav (Queen's Stepwell), a UNESCO World Heritage site renowned for its structural brilliance and ornate sculptural panels. The ruins of the Sahastralinga Talav demonstrate advanced medieval water management and hydraulic engineering."
+    },
+    {
+      "id": 1615,
+      "source": "Patan's contributions span from monumental medieval architecture that defines Gujarat's heritage to modern advancements in renewable energy production, alongside preserving one of the world's most intricate weaving traditions."
+    },
+    {
+      "id": 1619,
+      "source": "Patan has developed profound resilience against acute water scarcity through historical stepwell architecture and, more recently, through micro-irrigation adoption and community-driven rainwater harvesting."
+    },
+    {
+      "id": 1643,
+      "source": "The culture is deeply tied to the sea (the Kharva fishing community) and its mythological status as Sudamapuri. The Porbandar Bird Sanctuary, uniquely located within city limits, is a testament to its ecological culture."
+    },
+    {
+      "id": 1647,
+      "source": "Mahatma Gandhi is its most illustrious son. Historically, it is associated with the legendary figure Sudama. Institutions like the Ramakrishna Mission have a strong socio-educational presence here."
+    },
+    {
+      "id": 1652,
+      "source": "Watson Museum ·"
+    },
+    {
+      "id": 1670,
+      "source": "The bustling commercial and industrial heart of the Saurashtra region, Rajkot seamlessly blends its legacy as a princely state with its modern status as a powerhouse of engineering and entrepreneurship."
+    },
+    {
+      "id": 1674,
+      "source": "A major hub for small and medium enterprises (SMEs), specializing in automotive parts, CNC machines, foundry products, and jewelry manufacturing. It acts as the central market for Saurashtra's agricultural produce."
+    },
+    {
+      "id": 1678,
+      "source": "Major development projects include the SAUNI Yojana (to fill local dams with Narmada water), a new international airport (Hirasar), and AIIMS Rajkot, significantly upgrading regional infrastructure and healthcare."
+    },
+    {
+      "id": 1702,
+      "source": "Surat's rich mercantile history is visible in the 16th-century Surat Castle and the elaborate European (Dutch, English, and Armenian) cemeteries, reflecting its past as the premier port of the Mughal Empire."
+    },
+    {
+      "id": 1706,
+      "source": "Surat is one of the highest tax-paying cities in India, a critical driver of national exports, and a pioneer in urban civic management and public health infrastructure following historical crises."
+    },
+    {
+      "id": 1710,
+      "source": "Surat is a global case study in urban resilience; following a devastating plague in 1994 and massive floods in 2006, it transformed its public health, sanitation, and early warning systems to become one of India's cleanest cities."
+    },
+    {
+      "id": 1728,
+      "source": "The Tarnetar Fair is a world-renowned cultural phenomenon, showcasing the vibrant matchmaking traditions, folk dances (Hudo), and embroidered umbrellas of the Bharwad and Rabari pastoral communities."
+    },
+    {
+      "id": 1732,
+      "source": "The cultural fabric is woven by the pastoral Bharwad and Rabari tribes, and the skilled Bandhani weavers of Wadhwan. The Agariya community represents the extreme hard work of salt panning in the Rann."
+    },
+    {
+      "id": 1736,
+      "source": "Future goals include improving the socio-economic conditions of the Agariya salt workers, balancing tourism with the fragile ecology of the Wild Ass Sanctuary, and advancing agro-processing industries."
+    },
+    {
+      "id": 1754,
+      "source": "Tapi historically served as a critical forested corridor and buffer zone between the prosperous coastal plains of Surat and the interior Khandesh region of Maharashtra."
+    },
+    {
+      "id": 1757,
+      "source": "The district's identity is shaped by its tribal leaders and forest-dwelling communities. The cooperative sugar factories in Vyara are vital institutions driving the local agrarian economy."
+    },
+    {
+      "id": 1761,
+      "source": "The vision for Tapi integrates the preservation of its tribal identity and forest cover with modern educational upliftment, alongside developing sustainable eco-tourism around the Ukai reservoir and Songadh."
+    },
+    {
+      "id": 1780,
+      "source": "Vadodara is famous for hosting Gujarat's most traditional and grandiose Navratri Garba celebrations. It boasts a thriving fine arts scene, classical music traditions, and a highly cosmopolitan, student-friendly atmosphere."
+    },
+    {
+      "id": 1785,
+      "source": "Situated on the fertile plains of central Gujarat, intersected by the Vishwamitri river, uniquely known for its high population of urban mugger crocodiles. Urban flooding and river pollution are critical challenges."
+    },
+    {
+      "id": 1789,
+      "source": "Tithal Beach ·"
+    },
+    {
+      "id": 1804,
+      "source": "Udvada, located in Valsad, houses the Iranshah Atash Behram, the oldest and most sacred continuously burning Zoroastrian fire in the world. The district also features coastal forts and colonial-era retreats like Tithal."
+    },
+    {
+      "id": 1808,
+      "source": "Valsad contributes globally famous Alphonso mangoes to the agricultural export market and plays a critical role in India's chemical, dye, and pharmaceutical manufacturing output."
+    },
+    {
+      "id": 1812,
+      "source": "The district exhibits resilience in its agricultural practices, adapting to extreme monsoon downpours. Extensive efforts are ongoing to build environmental resilience against industrial effluent pollution in Vapi."
+    },
+    {
+      "id": 1828,
+      "source": "Formed in October 2025 as Gujarat's 34th district, Vav-Tharad is a crucial border district blending harsh arid landscapes with strategic national security importance and newly transforming agricultural frontiers."
+    },
+    {
+      "id": 1833,
+      "source": "Vav-Tharad plays a vital role in national border security. Economically, it is rapidly emerging as a high-yield zone for cash crops like cumin and pomegranate, contributing significantly to the state's agrarian output."
+    },
+    {
+      "id": 1837,
+      "source": "The populace exhibits incredible historical resilience against severe droughts and harsh desert conditions. Modern resilience is being built through the adoption of drip irrigation and solar-powered agricultural pumps."
+    },
+    {
+      "id": 1861,
+      "source": "The district is famous for the traditional wooden toys of Idar. Its cultural landscape is a blend of mainstream Gujarati traditions and the vibrant festivals of the tribal communities residing in the eastern forested tracts."
+    },
+    {
+      "id": 1866,
+      "source": "Characterized by fertile plains drained by the Sabarmati and Hathmati rivers, transitioning into the rugged, forested Aravalli hills in the northeast. Deforestation and human-wildlife conflict are local environmental challenges."
+    },
+    {
+      "id": 1879,
+      "source": "To channel excess floodwater from the Narmada River to the parched dams of Saurashtra."
+    },
+    {
+      "id": 1880,
+      "source": "Link 115 dams in Saurashtra with the Narmada canal network through a pipeline grid."
+    },
+    {
+      "id": 1883,
+      "source": "Farmers and residents of the Saurashtra region."
+    },
+    {
+      "id": 1886,
+      "source": "High capital cost, difficult terrain for pipeline laying, and power requirements for pumping."
+    },
+    {
+      "id": 1891,
+      "source": "Re-wiring of rural grids, installation of separate transformers and feeders across the state."
+    },
+    {
+      "id": 1895,
+      "source": "Statewide implementation across all rural districts."
+    },
+    {
+      "id": 1898,
+      "source": "An annual month-long agricultural festival before the monsoon to provide extension services at the village level."
+    },
+    {
+      "id": 1904,
+      "source": "Ensuring the quality of extension services and changing traditional, entrenched farming mindsets."
+    },
+    {
+      "id": 1908,
+      "source": "Ministry of Finance, Department of Financial Services."
+    },
+    {
+      "id": 1912,
+      "source": "Keeping the accounts active, ensuring digital literacy, and reaching the last mile in remote areas."
+    },
+    {
+      "id": 1916,
+      "source": "Ministry of Jal Shakti and Ministry of Housing and Urban Affairs."
+    },
+    {
+      "id": 1919,
+      "source": "Nationwide, monitored through district-level Swachh Survekshan rankings."
+    },
+    {
+      "id": 1922,
+      "source": "Public-Private Partnership (PPP) model where the government pays private obstetricians for performing deliveries of BPL women."
+    },
+    {
+      "id": 1929,
+      "source": "Achieve 100% enrollment in primary schools and promote female literacy."
+    },
+    {
+      "id": 1932,
+      "source": "Education Department, Government of Gujarat."
+    },
+    {
+      "id": 1934,
+      "source": "Sharp decline in dropout rates and a significant rise in the Gross Enrolment Ratio (GER) for girls."
+    },
+    {
+      "id": 1938,
+      "source": "Equip every village panchayat with a computer, broadband connection, and a trained village computer entrepreneur (VCE)."
+    },
+    {
+      "id": 1944,
+      "source": "Maintaining hardware in rural areas, ensuring consistent internet bandwidth, and continuous training."
+    },
+    {
+      "id": 1947,
+      "source": "Organizing mega-events, B2B meetings, signing MoUs, and policy overhauls for ease of doing business."
+    },
+    {
+      "id": 1953,
+      "source": "Ensure that no vulnerable household goes hungry during national crises."
+    },
+    {
+      "id": 1956,
+      "source": "Ministry of Consumer Affairs, Food and Public Distribution."
+    },
+    {
+      "id": 1958,
+      "source": "Averted widespread starvation during the pandemic, praised globally for scale and execution."
+    },
+    {
+      "id": 1963,
+      "source": "Empaneling public and private hospitals, issuing Ayushman cards, and establishing a robust IT platform."
+    },
+    {
+      "id": 1967,
+      "source": "Nationwide, integrated with state-level schemes like MA Yojana in Gujarat."
+    },
+    {
+      "id": 1970,
+      "source": "Financial assistance for house construction in rural areas and interest subvention for urban poor."
+    },
+    {
+      "id": 1974,
+      "source": "Construction of over 40 million houses, providing secure shelter, water, and electricity connections."
+    },
+    {
+      "id": 1979,
+      "source": "Laying of village water supply infrastructure and training of Village Water and Sanitation Committees."
+    },
+    {
+      "id": 1984,
+      "source": "Depleting groundwater sources, ensuring water quality, and community ownership for maintenance."
+    },
+    {
+      "id": 1988,
+      "source": "Ministry of Rural Development."
+    },
+    {
+      "id": 1989,
+      "source": "Populations in the selected rural clusters experiencing rapid growth."
+    },
+    {
+      "id": 1996,
+      "source": "Harappan (Indus Valley Civilization)"
+    },
+    {
+      "id": 1998,
+      "source": "Sultanate & Mughal"
+    },
+    {
+      "id": 2002,
+      "source": "trade"
+    },
+    {
+      "id": 2005,
+      "source": "settlement"
+    },
+    {
+      "id": 2006,
+      "source": "The fifth largest Harappan site, famous for its unique tripartite city layout, monumental architecture, and highly sophisticated water conservation systems."
+    },
+    {
+      "id": 2011,
+      "source": "Rojdi"
+    },
+    {
+      "id": 2012,
+      "source": "A regional Harappan center belonging to the Sorath Harappan phase. It demonstrates the regional variation and continuity of the civilization in Saurashtra."
+    },
+    {
+      "id": 2020,
+      "source": "Anhilwad Patan"
+    },
+    {
+      "id": 2021,
+      "source": "The paramount capital of the Chavda and Chaulukya (Solanki) dynasties, once one of the largest and wealthiest cities in India."
+    },
+    {
+      "id": 2027,
+      "source": "Champaner"
+    },
+    {
+      "id": 2028,
+      "source": "A short-lived but magnificent capital of the Gujarat Sultanate under Mahmud Begada, built at the foothills of the sacred Pavagadh hill."
+    },
+    {
+      "id": 2034,
+      "source": "An inhabited town across time"
+    },
+    {
+      "id": 2035,
+      "source": "Vadnagar"
+    },
+    {
+      "id": 2036,
+      "source": "Vadnagar offers a way to study continuity through changing settlement layers, buildings, routes and community practices. Archaeological evidence, toranas, water bodies and religious sites illuminate different periods rather than one unchanging urban identity."
+    },
+    {
+      "id": 2044,
+      "source": "Vadodara’s Lakshmi Vilas Palace belongs to the history of the Gaekwads and late nineteenth-century princely architecture. Its scale and combination of architectural references expressed courtly authority in an era of colonial power and technological change."
+    },
+    {
+      "id": 2060,
+      "source": "Series of reservoirs, step-wells, a monumental 'signboard' with Indus script, sandstone architecture, and hemispheroidal structures."
+    },
+    {
+      "id": 2067,
+      "source": "J.P. Joshi's excavations (ASI)"
+    },
+    {
+      "id": 2068,
+      "source": "A.K. Sharma's faunal analysis"
+    },
+    {
+      "id": 2070,
+      "source": "Massive quantities of shell waste, complete and partially worked shell bangles, sealings indicating administrative control, and a massive mud-brick fortification."
+    },
+    {
+      "id": 2077,
+      "source": "Gujarat State Department of Archaeology"
+    },
+    {
+      "id": 2079,
+      "source": "Modern Junagadh district; historically the capital of the Saurashtra region, situated at the foot of the sacred Girnar hills."
+    },
+    {
+      "id": 2087,
+      "source": "Xuanzang's travelogues"
+    },
+    {
+      "id": 2088,
+      "source": "Maitraka copper plate inscriptions"
+    },
+    {
+      "id": 2091,
+      "source": "Copper Plate Grant of Maitraka King Dharasena II ↗"
+    },
+    {
+      "id": 2094,
+      "source": "A.K. Majumdar - Chaulukyas of Gujarat"
+    },
+    {
+      "id": 2096,
+      "source": "Rani Ki Vav (a massive, intricately sculpted stepwell), Sahastralinga Talav (artificial lake), and Jain texts detailing its urban layout and prosperity."
+    },
+    {
+      "id": 2103,
+      "source": "Al-Biruni's Tarikh al-Hind"
+    },
+    {
+      "id": 2105,
+      "source": "Mentioned extensively in the Periplus of the Erythraean Sea, Roman coins found in the hinterland, and deep continuous habitation layers in local mounds."
+    },
+    {
+      "id": 2111,
+      "source": "Modern Ahmedabad district, spanning both banks of the Sabarmati river; founded near the older settlements of Ashaval and Karnavati."
+    },
+    {
+      "id": 2118,
+      "source": "Surat Castle (built in 1540), European cemeteries (Dutch and English), factory ruins, and extensive records of the East India Company."
+    },
+    {
+      "id": 2125,
+      "source": "Ibn Battuta's Rihla"
+    },
+    {
+      "id": 2126,
+      "source": "Marco Polo's Travels"
+    },
+    {
+      "id": 2128,
+      "source": "The carved structure draws on traditions often described as Indo-Islamic, but those labels should lead to closer observation rather than replace it. Look at how geometry, floral ornament and figurative carving coexist. Inscriptions provide firmer evidence about patronage and chronology than later popular legends."
+    },
+    {
+      "id": 2133,
+      "source": "whc.unesco.org ↗"
+    },
+    {
+      "id": 2134,
+      "source": "The march was one part of the larger Civil Disobedience Movement. Its significance lies not only in a leader reaching the coast, but in preparation, local reception, volunteers, reporting and the actions that followed. Documents, photographs and contemporary accounts help distinguish the event from later visual commemoration."
+    },
+    {
+      "id": 2139,
+      "source": "porbandar.nic.in ↗"
+    },
+    {
+      "id": 2140,
+      "source": "A palace is more than a decorated facade. Its construction required artisans, engineering, imported and local materials, service spaces and ongoing maintenance. The surrounding city, educational institutions and public buildings help place court patronage within a wider urban history."
+    },
+    {
+      "id": 2145,
+      "source": "junagadh.nic.in ↗"
+    },
+    {
+      "id": 2146,
+      "source": "Lothal Maritime Trade"
+    },
+    {
+      "id": 2147,
+      "source": "A major port city of the Indus Valley Civilization featuring a highly engineered dockyard and warehouse."
+    },
+    {
+      "id": 2158,
+      "source": "A massive dairy cooperative model (Operation Flood) that made India the world's largest milk producer."
+    },
+    {
+      "id": 2165,
+      "source": "Khambhat’s bead-making tradition connects mineral materials with specialised craft knowledge and trading networks. The transformation from rough stone to a small polished object requires several distinct skills; the finished bead conceals much of that labour."
+    },
+    {
+      "id": 2171,
+      "source": "The hills of south Gujarat connect forest ecosystems with farming, seasonal labour, water and Adivasi cultural life. Forests are lived landscapes, and their history includes changing rules about access and use as well as changes in vegetation."
+    },
+    {
+      "id": 2186,
+      "source": "Started in the early 20th century, booming in the 1970s with the export of small diamonds."
+    },
+    {
+      "id": 2191,
+      "source": "Pastoral and nomadic communities, primarily women artisans."
+    },
+    {
+      "id": 2194,
+      "source": "Preserves nomadic heritage and provides critical livelihood to rural women."
+    },
+    {
+      "id": 2198,
+      "source": "Linked to global shipping routes, Punjab/Haryana steel mills."
+    },
+    {
+      "id": 2200,
+      "source": "Exploitation of local farmers by middlemen led to a rural mobilization in the fertile Charotar region."
+    },
+    {
+      "id": 2205,
+      "source": "The value chain requires testing, chilling, veterinary support, feed, accounting and consumer trust. A brand is the visible end of a less visible network of services. Producer ownership matters only when members can participate meaningfully and understand the decisions made in their name."
+    },
+    {
+      "id": 2210,
+      "source": "morbi.nic.in ↗"
+    },
+    {
+      "id": 2211,
+      "source": "Historical and archaeological evidence connects western India with long-distance exchange in agate and carnelian. Continuity should be examined carefully: similar materials across centuries do not prove that every technique or community remained unchanged. Workshop knowledge and excavated objects provide different kinds of evidence."
+    },
+    {
+      "id": 2218,
+      "source": "Look beyond individual masterpieces to the conditions of artistic work: archives, galleries, access to training, freedom of expression and sustainable livelihoods. This approach helps explain why a place can become a significant centre of cultural production."
+    },
+    {
+      "id": 2222,
+      "source": "dangs.nic.in ↗"
+    },
+    {
+      "id": 2224,
+      "source": "Etched Carnelian Beads of Lothal"
+    },
+    {
+      "id": 2229,
+      "source": "Rock Inscription"
+    },
+    {
+      "id": 2231,
+      "source": "A large, uneven granite/basalt boulder inscribed with deeply cut Brahmi script, currently protected by a modern pavilion."
+    },
+    {
+      "id": 2238,
+      "source": "Copper Plate Inscription"
+    },
+    {
+      "id": 2240,
+      "source": "Two rectangular copper plates held together by a copper ring bearing a royal seal (bull emblem), covered in finely engraved Brahmi script."
+    },
+    {
+      "id": 2247,
+      "source": "Patan Patola: a planned pattern"
+    },
+    {
+      "id": 2249,
+      "source": "Both warp and weft are resist-dyed before weaving in double ikat. The pattern therefore requires planning before the cloth exists, and careful alignment during weaving."
+    },
+    {
+      "id": 2256,
+      "source": "Pithora painting: ritual, community and image"
+    },
+    {
+      "id": 2257,
+      "source": "Pithora paintings in eastern Gujarat belong to ritual and community settings, especially among Rathwa communities. They should not be understood only as decorative wall images."
+    },
+    {
+      "id": 2271,
+      "source": "Served as status symbols; believed to possess amuletic or protective properties in ancient times."
+    },
+    {
+      "id": 2273,
+      "source": "Highlights the extreme technical sophistication of Harappan pyrotechnology and extensive maritime trade networks reaching the Persian Gulf. It doesn't reveal the exact identities or language of the traders."
+    },
+    {
+      "id": 2282,
+      "source": "R.S. Bisht, ASI Excavation Reports on Dholavira."
+    },
+    {
+      "id": 2287,
+      "source": "Commissioned by Emperor Ashoka; executed by regional scribes and stonemasons; intended for the local populace, passing pilgrims, and traders."
+    },
+    {
+      "id": 2291,
+      "source": "Inscriptions of Asoka by E. Hultzsch; Epigraphia Indica."
+    },
+    {
+      "id": 2296,
+      "source": "Minted by the Western Kshatrapa administration; used by merchants, soldiers, and citizens in the thriving maritime economy of ancient Gujarat."
+    },
+    {
+      "id": 2299,
+      "source": "Demonstrates the synthesis of Indo-Greek numismatic traditions with indigenous Indian scripts and symbols, reflecting the cosmopolitan nature of Gujarat's ancient ports. It doesn't reveal much about the daily lives of the peasantry who likely used lesser metal currencies or barter."
+    },
+    {
+      "id": 2310,
+      "source": "c. 571 CE"
+    },
+    {
+      "id": 2312,
+      "source": "Copper sheets hammered flat and engraved with sharp styluses. A wax-cast copper ring with the royal seal binds the plates."
+    },
+    {
+      "id": 2315,
+      "source": "Valabhi (Bhavnagar district), Saurashtra region."
+    },
+    {
+      "id": 2317,
+      "source": "Corpus Inscriptionum Indicarum Vol. III; Epigraphia Indica."
+    },
+    {
+      "id": 2320,
+      "source": "Double Ikat. Silk yarns for both warp and weft are tied and resist-dyed multiple times according to a precise mathematical design before being woven together on a slanted loom."
+    },
+    {
+      "id": 2324,
+      "source": "Illustrates Gujarat's pivotal role in the Indian Ocean textile trade and the incredible specialized knowledge passed down through hereditary artisan guilds. It does not reveal the origin of the raw silk, which was often imported."
+    },
+    {
+      "id": 2333,
+      "source": "Reveals standard Harappan integration in the Kutch region, along with distinct regional burial practices (pot burials beneath stone cairns) not seen in the Indus Valley core. The motifs show deep reverence for nature."
+    },
+    {
+      "id": 2340,
+      "source": "Study the process rather than assuming that every decorative motif has one fixed meaning. Supporting the craft involves fair compensation and recognising the identity of the maker, not merely purchasing an anonymous souvenir."
+    },
+    {
+      "id": 2345,
+      "source": "Distinguish the physical object, the practice of spinning and the political meanings attached to it. The history raises questions about dignity of labour, technology, production and the relationship between personal action and collective change."
+    },
+    {
+      "id": 2351,
+      "source": "A photograph captures only one light condition and viewing angle. Consider material, tool work, patronage and conservation, and distinguish an original architectural element from later reproductions inspired by its design."
+    },
+    {
+      "id": 2359,
+      "source": "Bhikhaiji Rustom Cama"
+    },
+    {
+      "id": 2360,
+      "source": "24 September 1861 - 13 August 1936"
+    },
+    {
+      "id": 2361,
+      "source": "Bhikhaiji Cama, often called Madame Cama, was a pioneering figure in the Indian independence movement. Hailing from a prominent Gujarati Parsi family, she co-designed and hoisted the first precursor to the Indian national flag in Germany in 1907."
+    },
+    {
+      "id": 2382,
+      "source": "The Wandering Folklorist of Saurashtra"
+    },
+    {
+      "id": 2388,
+      "source": "His works remain the definitive collection of Kathiawari folklore. Meghani Mahotsav is celebrated to honor his contribution to literature and journalism."
+    },
+    {
+      "id": 2406,
+      "source": "Follow the full profile to explore related people and sources."
+    },
+    {
+      "id": 2421,
+      "source": "Saurashtra Coast"
+    },
+    {
+      "id": 2427,
+      "source": "Seasonal wetlands like Chari-Dhand host migratory birds; water scarcity in interior parts."
+    },
+    {
+      "id": 2433,
+      "source": "Coastal estuaries and mangroves provide stable marine habitats. Inland reservoirs hold post-monsoon water."
+    },
+    {
+      "id": 2439,
+      "source": "Leopards and sloth bears highly active. Rich avian diversity in Dangs and Vansda."
+    },
+    {
+      "id": 2442,
+      "source": "Extensive Rabi cultivation (wheat, castor, mustard) using canal/ground water. Dairy cooperatives active."
+    },
+    {
+      "id": 2450,
+      "source": "Intertidal habitats alternate between exposure and submergence. Corals, mangroves, mudflats and shallow-water environments support different communities of organisms under changing conditions."
+    },
+    {
+      "id": 2456,
+      "source": "Open grassland and scrub support specialised plants and animals. A landscape with few trees is not automatically degraded land, and tree planting is not always an appropriate conservation response."
+    },
+    {
+      "id": 2462,
+      "source": "Dry seasons change access to water and forage. Livestock, farming and settlements also shape human–wildlife interactions. Coexistence depends on practical institutions and local participation, not only on admiration for a charismatic species."
+    },
+    {
+      "id": 2466,
+      "source": "Forests influence local water and habitat conditions, while settlements depend on farming, forest products and wider employment. Adivasi communities have diverse histories and should not be reduced to a single ecological stereotype."
+    },
+    {
+      "id": 2470,
+      "source": "Grazing, rainfall, soils and fire can influence vegetation in different ways. Pastoral knowledge and scientific monitoring provide complementary perspectives when used carefully and with attention to local conditions."
+    },
+    {
+      "id": 2479,
+      "source": "Nesting of sea turtles on sandy beaches. Marine life moves to deeper, cooler waters."
+    },
+    {
+      "id": 2483,
+      "source": "Wildlife relies on specific perennial forest pools. Increased human-wildlife conflict for water."
+    },
+    {
+      "id": 2487,
+      "source": "Reduced diurnal activity; mammals seek shade in thorny scrublands."
+    },
+    {
+      "id": 2491,
+      "source": "Breeding season for flamingos in the Rann; amphibian and insect explosion."
+    },
+    {
+      "id": 2494,
+      "source": "Fishing ban in effect due to rough seas. Kharif crop (cotton, groundnut) sowing."
+    },
+    {
+      "id": 2498,
+      "source": "Paddy cultivation. Difficulty in forest access for non-timber produce gathering."
+    },
+    {
+      "id": 2502,
+      "source": "Major Kharif sowing (cotton, castor). Pastures rejuvenate supporting dairy."
+    },
+    {
+      "id": 2512,
+      "source": "S.R. Rao - Lothal and the Indus Civilization"
+    },
+    {
+      "id": 2517,
+      "source": "Periplus of the Erythraean Sea"
+    },
+    {
+      "id": 2521,
+      "source": "European traveler accounts (e.g., Jean-Baptiste Tavernier)"
+    },
+    {
+      "id": 2523,
+      "source": "c. 1750 CE onwards"
+    },
+    {
+      "id": 2524,
+      "source": "Examine princely states, colonial institutions, reform, public mobilisation and the ways independent India remembers its past."
+    },
+    {
+      "id": 2565,
+      "source": "saurashtra"
+    },
+    {
+      "id": 2568,
+      "source": "modhera"
+    },
+    {
+      "id": 2570,
+      "source": "south"
+    },
+    {
+      "id": 2572,
+      "source": "somnath"
+    },
+    {
+      "id": 2580,
+      "source": "s1"
+    },
+    {
+      "id": 2582,
+      "source": "s2"
+    },
+    {
+      "id": 2583,
+      "source": "Summer"
+    },
+    {
+      "id": 2586,
+      "source": "r1"
+    },
+    {
+      "id": 2587,
+      "source": "Arid and Semi-Arid"
+    },
+    {
+      "id": 2596,
+      "source": "Nov-Feb"
+    },
+    {
+      "id": 2599,
+      "source": "Climate models, state water data"
+    },
+    {
+      "id": 2604,
+      "source": "Jul-Oct"
+    },
+    {
+      "id": 2608,
+      "source": "Coastal fog data sometimes sparse"
+    },
+    {
+      "id": 2614,
+      "source": "Cyclonic disruptions affect data collection"
+    },
+    {
+      "id": 2622,
+      "source": "Rainfall gauges, IMD"
+    },
+    {
+      "id": 2625,
+      "source": "State agriculture stats"
+    },
+    {
+      "id": 2629,
+      "source": "Borewell data not fully digitized"
+    },
+    {
+      "id": 2652,
+      "source": "Vibrant Gujarat: summit history"
+    },
+    {
+      "id": 2657,
+      "source": "Biography: Narendra Modi"
+    },
+    {
+      "id": 2660,
+      "source": "Vallabhbhai Patel"
+    },
+    {
+      "id": 2664,
+      "source": "Biography: Morarji Desai"
+    },
+    {
+      "id": 2672,
+      "source": "Biography: Indulal Yagnik"
+    },
+    {
+      "id": 2677,
+      "source": "Navsari, Gujarat (Family roots)"
+    },
+    {
+      "id": 2686,
+      "source": "Ahmedabad, Gujarat"
+    },
+    {
+      "id": 2689,
+      "source": "Biography: Vikram Sarabhai"
+    },
+    {
+      "id": 2693,
+      "source": "Biography: Sudhir K. Jain"
+    },
+    {
+      "id": 2701,
+      "source": "Navsari, Gujarat"
+    },
+    {
+      "id": 2705,
+      "source": "Biography: Dhirubhai Ambani"
+    },
+    {
+      "id": 2714,
+      "source": "Biography: Gautam Adani"
+    },
+    {
+      "id": 2720,
+      "source": "Biography: Tribhuvandas Patel"
+    },
+    {
+      "id": 2727,
+      "source": "Biography: Manibhai Desai"
+    },
+    {
+      "id": 2733,
+      "source": "Surat, Gujarat"
+    },
+    {
+      "id": 2739,
+      "source": "Biography: Vidyagauri Nilkanth"
+    },
+    {
+      "id": 2746,
+      "source": "Biography: Jhaverchand Meghani"
+    },
+    {
+      "id": 2755,
+      "source": "Biography: Narmad"
+    },
+    {
+      "id": 2761,
+      "source": "Talaja, Gujarat"
+    },
+    {
+      "id": 2764,
+      "source": "Akha Bhagat"
+    },
+    {
+      "id": 2768,
+      "source": "swaminarayan"
+    },
+    {
+      "id": 2773,
+      "source": "Biography: Morari Bapu"
+    },
+    {
+      "id": 2780,
+      "source": "Biography: Sanjeev Kumar"
+    },
+    {
+      "id": 2789,
+      "source": "Biography: Pankaj Udhas"
+    },
+    {
+      "id": 2794,
+      "source": "Biography: Alka Yagnik"
+    },
+    {
+      "id": 2802,
+      "source": "Bhavnagar, Gujarat"
+    },
+    {
+      "id": 2807,
+      "source": "Biography: Atul Dodiya"
+    },
+    {
+      "id": 2814,
+      "source": "Junagadh / Bhavnagar"
+    },
+    {
+      "id": 2816,
+      "source": "Pronounce 'Harijan' and 'Nagar Brahmin' clearly. Ensure a firm, emotional tone reflecting his unwavering courage for social equality."
+    },
+    {
+      "id": 2822,
+      "source": "Pronounce 'Chotila', 'Saurashtra ni Rasdhar', and 'Sorathi Baharvatiya' with a robust, folksy warmth. Capture the nomadic essence of his work."
+    },
+    {
+      "id": 2826,
+      "source": "Speak of the 1896 plague with a solemn tone. 'Parsi' and 'Europe' should act as transitional anchors in the script."
+    },
+    {
+      "id": 2830,
+      "source": "Indus Valley Civilisation site in Gujarat, India"
+    },
+    {
+      "id": 2834,
+      "source": "UNESCO World Heritage Site in Patan, India"
+    },
+    {
+      "id": 2838,
+      "source": "Palace in Gujarat, India"
+    },
+    {
+      "id": 2842,
+      "source": "Hindu temple in Gujarat, India"
+    },
+    {
+      "id": 2846,
+      "source": "Stepwell in Gujarat, India"
+    },
+    {
+      "id": 2851,
+      "source": "Mausoleums in Junagadh, Gujarat, India"
+    },
+    {
+      "id": 2857,
+      "source": "No matching districts. Try another name or region."
+    },
+    {
+      "id": 2866,
+      "source": "s.id===regionId);if(story)return"
+    },
+    {
+      "id": 2867,
+      "source": "r.id===regionId);if(regionId&&!region)return"
+    },
+    {
+      "id": 2873,
+      "source": ":parsed.id?record?"
+    },
+    {
+      "id": 2874,
+      "source": "Explore Gujarat’s heritage, the\n            public journey of Narendra Modi, and the institutions and initiatives shaping the state."
+    }
+  ]
+}

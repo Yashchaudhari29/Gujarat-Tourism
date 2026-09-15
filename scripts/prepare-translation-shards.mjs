@@ -1,0 +1,11 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+const read=async p=>JSON.parse(await readFile(p,'utf8'));
+const strings=await read('scripts/translation-strings.json'),ui=await read('src/locale/ui-gu.json');
+const shards=Array.from({length:6},(_,i)=>({name:i<4?'gu-'+(i+1):'en-'+(i-3),target:i<4?'gu':'en',chars:0,records:[]}));
+const literals={};
+strings.forEach((source,id)=>{const target=/[\u0A80-\u0AFF]/.test(source)?'en':'gu';if(target==='gu'&&ui[source])return;if(/^(?:[a-z0-9]+[-_])+[a-z0-9]+$/.test(source)||/^\.[a-z]|^https?:|^\/|\.jpg$|\.png$|\.webp$|\.nic\.in$/.test(source)){literals[id]=source;return}const shard=shards.filter(s=>s.target===target).sort((a,b)=>a.chars-b.chars)[0];shard.records.push({id,source});shard.chars+=source.length;});
+await mkdir('scripts/translation-shards',{recursive:true});await mkdir('src/locale/shards',{recursive:true});
+for(const shard of shards)await writeFile('scripts/translation-shards/'+shard.name+'.json',JSON.stringify(shard,null,2));
+await writeFile('scripts/translation-shards/source-index.json',JSON.stringify(strings,null,2));
+await writeFile('src/locale/shards/literals.json',JSON.stringify(literals,null,2));
+console.log(shards.map(({name,chars,records})=>({name,chars,records:records.length})));

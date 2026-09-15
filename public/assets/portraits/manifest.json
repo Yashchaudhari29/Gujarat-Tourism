@@ -1,0 +1,466 @@
+{
+  "Narendra Modi": {
+    "description": "Prime Minister of India since 2014",
+    "source": "https://en.wikipedia.org/wiki/Narendra_Modi",
+    "src": "/assets/portraits/narendra-modi.jpg",
+    "caption": "Narendra Damodardas Modi is an Indian politician who has served as the prime minister of India since 26 May 2014. Modi was the chief minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi. He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindutva paramilitary volunteer organisation. He is India's third-longest-serving prime minister, and the longest-serving prime minister outside the Indian National Congress.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_official_portrait_of_Shri_Narendra_Modi%2C_the_Prime_Minister_of_the_Republic_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Narendra Modi"
+  },
+  "Mahatma Gandhi": {
+    "description": "Indian independence activist (1869–1948)",
+    "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+    "src": "/assets/portraits/mahatma-gandhi.jpg",
+    "caption": "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Mahatma Gandhi"
+  },
+  "Vallabhbhai Patel": {
+    "description": "Indian independence activist (1875–1950)",
+    "source": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel",
+    "src": "/assets/portraits/vallabhbhai-patel.jpg",
+    "caption": "Vallabhbhai Patel, commonly known as Sardar Patel, was a Gandhian Indian independence activist, lawyer and statesman who served as the first Deputy Prime Minister and Home Minister of India from 1947 to 1950. He was a senior leader of the Indian National Congress, who played a significant role in the Indian independence movement and India's political integration. In India and elsewhere, he was often called Sardar meaning \"chief\". He acted as the Home Minister during the political integration of India and the Indo-Pakistani War of 1947.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sardar_patel_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Vallabhbhai Patel"
+  },
+  "Vikram Sarabhai": {
+    "description": "Indian physicist and astronomer",
+    "source": "https://en.wikipedia.org/wiki/Vikram_Sarabhai",
+    "src": "/assets/portraits/vikram-sarabhai.webp",
+    "caption": "Vikram Ambalal Sarabhai was an Indian physicist and astronomer who initiated space research and helped to develop nuclear power in India. Often regarded as the \"Father of Indian space program\", Sarabhai was honored with Padma Bhushan in 1966 and the Padma Vibhushan (posthumously) in 1972.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dr_Vikram_Sarabhai_ISRO.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Vikram Sarabhai"
+  },
+  "Verghese Kurien": {
+    "description": "Indian entrepreneur (1921–2012)",
+    "source": "https://en.wikipedia.org/wiki/Verghese_Kurien",
+    "src": "/assets/portraits/verghese-kurien.jpg",
+    "caption": "Verghese Kurien was an Indian dairy engineer and social entrepreneur. He led initiatives that contributed to the extensive increase in milk production in India termed as the White Revolution.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Verghese_Kurien_in_2009_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Verghese Kurien"
+  },
+  "Jamsetji Tata": {
+    "description": "Indian industrialist (1839–1904)",
+    "source": "https://en.wikipedia.org/wiki/Jamsetji_Tata",
+    "src": "/assets/portraits/jamsetji-tata.jpg",
+    "caption": "Jamsetji Nusserwanji Tata was an Indian industrialist, philanthropist and patriarch of the Tata family who founded the Tata Group, India's largest conglomerate. He established the city of Jamshedpur.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sir_J._N._Tata_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Jamsetji Tata"
+  },
+  "Jhaverchand Meghani": {
+    "description": "Indian poet, writer, social reformer and freedom fighter",
+    "source": "https://en.wikipedia.org/wiki/Jhaverchand_Meghani",
+    "src": "/assets/portraits/jhaverchand-meghani.jpg",
+    "caption": "Jhaverchand or Zaverchand Kalidas Meghani was an Indian poet, writer, social reformer and freedom fighter. He is a well-known name in the field of Gujarati literature. He was born in a Jain family in Chotila where the Government College has been renamed for this literary figure as Raashtreeya Shaayar Zaverchand Meghani College, Chotila. Mahatma Gandhi spontaneously gave him the title of Raashtreeya Shaayar.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Jhaverchand_Meghani_2013-12-02_00-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Jhaverchand Meghani"
+  },
+  "Narsinh Mehta": {
+    "description": "Indian poet and saint (1414–1488)",
+    "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+    "src": "/assets/portraits/narsinh-mehta.jpeg",
+    "caption": "Narsinh Mehta (1414–1488), also known as Narsinh Bhagat, was a 15th-century poet-saint of Gujarat, India, honored as the first poet, or Adi Kavi, of the Gujarati language. Narsinh became a devotee of Krishna, and dedicated his life to composing poetic works expressing his bhakti towards Krishna. His bhajans have remained popular in Gujarat and Rajasthan for over five centuries. Most notably, his composition \"Vaishnava Jana To\" was Mahatma Gandhi's favorite and became popular with freedom fighters across India.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Stamp_of_India_-_1967_-_Colnect_239713_-_Commemoration_Narsinha_Mehta_-_Poet.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Narsinh Mehta"
+  },
+  "Dhirubhai Ambani": {
+    "description": "Indian businessman (1932–2002)",
+    "source": "https://en.wikipedia.org/wiki/Dhirubhai_Ambani",
+    "src": "/assets/portraits/dhirubhai-ambani.jpg",
+    "caption": "Dhirajlal Hirachand \"Dhirubhai\" Ambani was an Indian businessman who founded Reliance Industries in 1958. Ambani took Reliance public in 1977. In 2016, he was honoured posthumously with the Padma Vibhushan, India's second-highest civilian honour for his contributions to trade and industry.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dhirubhai_Ambani_2002_stamp_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Dhirubhai Ambani"
+  },
+  "Bhikaiji Cama": {
+    "description": "Indian independence activist (1861–1936)",
+    "source": "https://en.wikipedia.org/wiki/Bhikaiji_Cama",
+    "src": "/assets/portraits/bhikaiji-cama.jpg",
+    "caption": "Bhikhaiji Rustom Cama, also known as Madam Cama, was one of the prominent figures in the Indian independence movement. She unfurled one of the earliest versions of the flag of independent India on August 22, 1907, and she was the first person to hoist an Indian flag in a foreign nation, at the International Socialist Conference at Stuttgart.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/Madam_Bhikaiji_Cama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Bhikaiji Cama"
+  },
+  "Morarji Desai": {
+    "description": "Prime Minister of India from 1977 to 1979",
+    "source": "https://en.wikipedia.org/wiki/Morarji_Desai",
+    "src": "/assets/portraits/morarji-desai.jpg",
+    "caption": "Morarji Ranchhodji Desai was an Indian politician and independence activist who served as the prime minister of India between 1977 and 1979 leading the government formed by the Janata Party. During his long career in politics, he held many important posts in government such as the chief minister of Bombay State, the home minister, the finance minister, and the deputy prime minister.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Morarji_Desai_During_his_visit_to_the_United_States_of_America_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Morarji Desai"
+  },
+  "Ela Bhatt": {
+    "description": "Indian cooperative organiser (1933–2022)",
+    "source": "https://en.wikipedia.org/wiki/Ela_Bhatt",
+    "src": "/assets/portraits/ela-bhatt.jpg",
+    "caption": "Ela Ramesh Bhatt was an Indian cooperative organiser, activist and Gandhian, who founded the Self-Employed Women's Association of India (SEWA) in 1972, and served as its general secretary from 1972 to 1996. She was the chancellor of the Gujarat Vidyapith from 7 March 2015 to 19 October 2022. A lawyer by training, Bhatt was a part of the international labour, cooperative, women, and micro-finance movements and won several national and international awards, including the Ramon Magsaysay Award (1977), Right Livelihood Award (1984) for \"helping home-based producers to organise for their welfare and self-respect\" and the Padma Bhushan (1986).",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/MJ-Ela-Bhatt-October-2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Ela Bhatt"
+  },
+  "Mallika Sarabhai": {
+    "description": "Indian politician",
+    "source": "https://en.wikipedia.org/wiki/Mallika_Sarabhai",
+    "src": "/assets/portraits/mallika-sarabhai.jpg",
+    "caption": "Mallika Sarabhai is an Indian classical dancer, activist and actress from Ahmedabad, Gujarat, India. Daughter of a classical dancer Mrinalini Sarabhai and space scientist Vikram Sarabhai, Mallika is an accomplished Kuchipudi and Bharatanatyam dancer and performer who specializes in using the arts for social change and transformation.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mallika_Sarabhai_in_play_AKABR_directed_by_Arvind_Gaur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Mallika Sarabhai"
+  },
+  "Asha Parekh": {
+    "description": "Indian actress (born 1942)",
+    "source": "https://en.wikipedia.org/wiki/Asha_Parekh",
+    "src": "/assets/portraits/asha-parekh.jpg",
+    "caption": "Asha Parekh is an Indian actress, film director and producer who has worked in more than 85 films in a career that has spanned over 40 years. In 1992, she was honoured with the Padma Shri by the Government of India for her contribution to the field of cinema and was honoured with Dadasaheb Phalke Award in 2020.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Asha_Parekh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Asha Parekh"
+  },
+  "Paresh Rawal": {
+    "description": "Indian actor and film producer (born 1955)",
+    "source": "https://en.wikipedia.org/wiki/Paresh_Rawal",
+    "src": "/assets/portraits/paresh-rawal.jpg",
+    "caption": "Paresh Rawal is an Indian actor film producer and former politician, known for his works primarily in Hindi films. Considered as one of the finest actors of Hindi cinema, he has appeared in over 240 films and is the recipient of various accolades including a National Film Awards and three Filmfare Awards. He was honoured with Padma Shri from the Government of India in 2014.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Paresh_Rawal_February_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Paresh Rawal"
+  },
+  "Pankaj Udhas": {
+    "description": "Indian singer (1951–2024)",
+    "source": "https://en.wikipedia.org/wiki/Pankaj_Udhas",
+    "src": "/assets/portraits/pankaj-udhas.jpg",
+    "caption": "Pankaj Udhas was an Indian ghazal and playback singer known for his works in Hindi cinema, and Indian pop. He started his career with the release of a ghazal album titled Aahat in 1980 and subsequently recorded many hits like Mukarar in 1981, Tarrannum in 1982, Mehfil in 1983, Pankaj Udhas Live at Royal Albert Hall in 1984, Nayaab in 1985 and Aafreen in 1986. After his success as a ghazal singer, he was invited to appear and sing for a film by Mahesh Bhatt, Naam, in which his song \"Chitthi Aayee Hai\" became an instant hit. He did playback singing for many Hindi films after that. Albums and live concerts around the globe brought him fame as a singer. In 2006, Pankaj Udhas was awarded Padma Shri, India's fourth highest civilian award. His brothers Nirmal Udhas and Manhar Udhas are also singers. Udhas was posthumously awarded the Padma Bhushan, India's third-highest civilian award, by the Government of India in 2025.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pankaj_Udhas_in_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Pankaj Udhas"
+  },
+  "Falguni Pathak": {
+    "description": "Indian singer",
+    "source": "https://en.wikipedia.org/wiki/Falguni_Pathak",
+    "src": "/assets/portraits/falguni-pathak.jpg",
+    "caption": "Falguni Pathak is an Indian singer, performing artist and composer based in Mumbai. Her music is based on traditional musical forms from the Indian state of Gujarat. Since her professional debut in 1987, she has developed into an artist with a large fan base across India. Once asked how she decided to take up singing as a career, she replied that it happened by default.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Falguni_Pathak_at_her_dandiya_show_in_Goregaon_Sports.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Falguni Pathak"
+  },
+  "Umashankar Joshi": {
+    "description": "Indian poet, scholar and writer (1911–1988)",
+    "source": "https://en.wikipedia.org/wiki/Umashankar_Joshi",
+    "src": "/assets/portraits/umashankar-joshi.jpg",
+    "caption": "Umashankar Jethalal Joshi was an Indian poet, scholar and writer known for his contributions to Gujarati literature. He wrote most of his works in Gujarati.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Umashankar_Joshi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Umashankar Joshi"
+  },
+  "Har Gobind Khorana": {
+    "description": "Indian-American molecular biologist (1922–2011)",
+    "source": "https://en.wikipedia.org/wiki/Har_Gobind_Khorana",
+    "src": "/assets/portraits/har-gobind-khorana.jpg",
+    "caption": "Har Gobind Khorana was an Indian-American biochemist. While on the faculty of the University of Wisconsin–Madison, he shared the 1968 Nobel Prize for Physiology or Medicine with Marshall W. Nirenberg and Robert W. Holley for research that showed the order of nucleotides in nucleic acids, which carry the genetic code of the cell and control the cell's synthesis of proteins. Khorana and Nirenberg were also awarded the Louisa Gross Horwitz Prize from Columbia University in the same year.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Har_Gobind_Khorana_nobel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Har Gobind Khorana"
+  },
+  "Kanaiyalal Maneklal Munshi": {
+    "description": "Indian independence movement activist (1887–1971)",
+    "source": "https://en.wikipedia.org/wiki/Kanaiyalal_Maneklal_Munshi",
+    "src": "/assets/portraits/kanaiyalal-maneklal-munshi.jpg",
+    "caption": "Kanaiyalal Maneklal Munshi, popularly known by his pen name Ghanshyam Vyas, was an Indian independence movement activist, politician, writer from Gujarat state. A lawyer by profession, he later turned to author and politician. He is a well-known name in Gujarati literature. He founded Bharatiya Vidya Bhavan, an educational trust, in 1938.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/K_M_Munshi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Kanaiyalal Maneklal Munshi"
+  },
+  "Hansa Jivraj Mehta": {
+    "description": "Indian activist, educator, and writer (1897–1995)",
+    "source": "https://en.wikipedia.org/wiki/Hansa_Mehta",
+    "src": "/assets/portraits/hansa-jivraj-mehta.jpg",
+    "caption": "Hansa Jivraj Mehta was an Indian reformist, social activist, educator, independence activist, feminist and writer. She was one of only two women delegates working alongside Eleanor Roosevelt in the UN Human Rights Commission 1946-48 ensuring the wording \"all human beings\" instead of \"all men\" in the Universal Declaration of Human Rights.",
+    "original": "https://upload.wikimedia.org/wikipedia/en/5/52/HansaJivrajMehtaPic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Hansa Mehta"
+  },
+  "Prafulla Chandra Ray": {
+    "description": "Bengali chemist, educationist, nationalist, industrialist and philanthropist",
+    "source": "https://en.wikipedia.org/wiki/Prafulla_Chandra_Ray",
+    "src": "/assets/portraits/prafulla-chandra-ray.jpg",
+    "caption": "Sir Prafulla Chandra Ray CIE FNI FRASB FIAS FCS was an Indian chemist, educationist, historian, industrialist and philanthropist from Bengal. He established the first modern Indian research school in chemistry and is regarded as the father of Indian chemistry.",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4_%28%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%29_005.tif/lossy-page1-1920px-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4_%28%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%9A%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%29_005.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Prafulla Chandra Ray"
+  },
+  "Tribhuvandas Kishibhai Patel": {
+    "description": "Indian independence activist, lawyer and politician",
+    "source": "https://en.wikipedia.org/wiki/Tribhuvandas_Kishibhai_Patel",
+    "src": "/assets/portraits/tribhuvandas-kishibhai-patel.jpg",
+    "caption": "Tribhuvandas Kishibhai Patel was an Indian independence activist, lawyer, and politician. A follower of Mahatma Gandhi, he is regarded as the father of the cooperative movement in India, most notably in the Kaira District Co-operative Milk Producers' Union in 1946, and the Anand Co-operative movement.",
+    "original": "https://upload.wikimedia.org/wikipedia/en/5/56/Tribhuvandas_Kishibhai_Patel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Tribhuvandas Kishibhai Patel"
+  },
+  "Manilal Gandhi": {
+    "description": "Son of Mahatma Gandhi",
+    "source": "https://en.wikipedia.org/wiki/Manilal_Gandhi",
+    "src": "/assets/portraits/manilal-gandhi.jpg",
+    "caption": "Manilal Mohandas Gandhi was the second son of Mahatma Gandhi and Kasturba Gandhi.",
+    "original": "https://upload.wikimedia.org/wikipedia/en/1/12/ManilalGandhiImage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Manilal Gandhi"
+  },
+  "Ravishankar Raval": {
+    "description": "Indian painter and art critic (1892–1977)",
+    "source": "https://en.wikipedia.org/wiki/Ravishankar_Raval",
+    "src": "/assets/portraits/ravishankar-raval.jpg",
+    "caption": "Ravishankar Raval (1892–1977) was a painter, art teacher, art critic, journalist and essayist from Gujarat, India. He worked for the magazine Vismi Sadi until it closed in 1921, and then founded the cultural magazine Kumar.",
+    "original": "https://upload.wikimedia.org/wikipedia/en/c/cc/RavishankarRaval_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "title": "Ravishankar Raval"
+  },
+  "Karsanbhai Patel": {
+    "title": "Karsanbhai Patel",
+    "original": "https://nirmawebsite.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/03/President-Karsan-Patel.jpg",
+    "source": "https://nirmauni.ac.in/about/leadership/president/",
+    "src": "/assets/portraits/karsanbhai-patel.jpg"
+  },
+  "Dhumketu (writer)": {
+    "title": "Dhumketu (writer)",
+    "original": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/Dhumketu%28writer%29Pic.jpg/250px-Dhumketu%28writer%29Pic.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dhumketu_(writer)",
+    "src": "/assets/portraits/dhumketu-writer.jpg"
+  },
+  "Gulabdas Broker": {
+    "title": "Gulabdas Broker",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gulabdas_Harjivandas_Broker.png/250px-Gulabdas_Harjivandas_Broker.png",
+    "source": "https://en.wikipedia.org/wiki/Gulabdas_Broker",
+    "src": "/assets/portraits/gulabdas-broker.png"
+  },
+  "Jivraj Narayan Mehta": {
+    "src": "/assets/portraits/jivraj-narayan-mehta.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jivraj_Narayan_Mehta",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jivraj_Mehta.jpg",
+    "title": "Jivraj Narayan Mehta"
+  },
+  "Indulal Yagnik": {
+    "src": "/assets/portraits/indulal-yagnik.jpg",
+    "source": "https://en.wikipedia.org/wiki/Indulal_Yagnik",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Indulal_Yagnik_1999_stamp_of_India.jpg",
+    "title": "Indulal Yagnik"
+  },
+  "Shyamji Krishna Varma": {
+    "src": "/assets/portraits/shyamji-krishna-varma.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shyamji_Krishna_Varma",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Shyamji_Krishna_Verma.jpg",
+    "title": "Shyamji Krishna Varma"
+  },
+  "Homi J. Bhabha": {
+    "src": "/assets/portraits/homi-j-bhabha.jpg",
+    "source": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Homi_Jehangir_Bhabha_1960s.jpg",
+    "title": "Homi J. Bhabha"
+  },
+  "U. R. Rao": {
+    "src": "/assets/portraits/u-r-rao.webp",
+    "source": "https://en.wikipedia.org/wiki/Udupi_Ramachandra_Rao",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_R_Rao_ISRO.webp",
+    "title": "Udupi Ramachandra Rao"
+  },
+  "Yash Pal": {
+    "src": "/assets/portraits/yash-pal.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yash_Pal",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Prof._Yash_Pal.jpg",
+    "title": "Yash Pal"
+  },
+  "A. S. Kiran Kumar": {
+    "src": "/assets/portraits/a-s-kiran-kumar.jpg",
+    "source": "https://en.wikipedia.org/wiki/A._S._Kiran_Kumar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Askiran.jpg",
+    "title": "A. S. Kiran Kumar"
+  },
+  "Kasturbhai Lalbhai": {
+    "src": "/assets/portraits/kasturbhai-lalbhai.JPG",
+    "source": "https://en.wikipedia.org/wiki/Kasturbhai_Lalbhai",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Kasturbhai_Lalbhai_1940.JPG",
+    "title": "Kasturbhai Lalbhai"
+  },
+  "Ambalal Sarabhai": {
+    "src": "/assets/portraits/ambalal-sarabhai.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ambalal_Sarabhai",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gita_and_Ambalal%2C_Ahmedabad%2C_1952.jpg",
+    "title": "Ambalal Sarabhai"
+  },
+  "Gautam Adani": {
+    "src": "/assets/portraits/gautam-adani.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gautam_Adani",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gautam_Adani.jpg",
+    "title": "Gautam Adani"
+  },
+  "Motibhai Chaudhary": {
+    "src": "/assets/portraits/motibhai-chaudhary.jpg",
+    "source": "https://en.wikipedia.org/wiki/Motibhai_Chaudhary",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%E0%AA%AE%E0%AB%8B%E0%AA%A4%E0%AB%80%E0%AA%AD%E0%AA%BE%E0%AA%88_%E0%AA%9A%E0%AB%8C%E0%AA%A7%E0%AA%B0%E0%AB%80.jpg",
+    "title": "Motibhai Chaudhary"
+  },
+  "Manibhai Desai": {
+    "src": "/assets/portraits/manibhai-desai.png",
+    "source": "https://en.wikipedia.org/wiki/Manibhai_Desai",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dr._Manibhai_Desai_in_December_1990_at_Uruli_Kanchan.png",
+    "title": "Manibhai Desai"
+  },
+  "Anasuya Sarabhai": {
+    "src": "/assets/portraits/anasuya-sarabhai.jpg",
+    "source": "https://en.wikipedia.org/wiki/Anasuya_Sarabhai",
+    "original": "https://upload.wikimedia.org/wikipedia/en/7/77/Anasuya_Sarabhai_in_England.jpg",
+    "title": "Anasuya Sarabhai"
+  },
+  "Vidyagauri Nilkanth": {
+    "src": "/assets/portraits/vidyagauri-nilkanth.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vidyagauri_Nilkanth",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Vidyaben_Nilkanth_1895.jpg/330px-Vidyaben_Nilkanth_1895.jpg",
+    "title": "Vidyagauri Nilkanth"
+  },
+  "Sharda Mehta": {
+    "src": "/assets/portraits/sharda-mehta.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sharda_Mehta",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sharda_Sumant_Mehta.jpg",
+    "title": "Sharda Mehta"
+  },
+  "Pushpaben Mehta": {
+    "src": "/assets/portraits/pushpaben-mehta.jpeg",
+    "source": "https://en.wikipedia.org/wiki/Pushpaben_Mehta",
+    "original": "https://upload.wikimedia.org/wikipedia/en/9/92/Pushpaben_Mehta_receiving_award_Probable_free_to_use_if_India_gov_pic.jpeg",
+    "title": "Pushpaben Mehta"
+  },
+  "Narmad": {
+    "src": "/assets/portraits/narmad.jpg",
+    "source": "https://en.wikipedia.org/wiki/Narmad",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Narmadashankar_Dave_%28cropped%29.jpg",
+    "title": "Narmad"
+  },
+  "Govardhanram Tripathi": {
+    "src": "/assets/portraits/govardhanram-tripathi.JPG",
+    "source": "https://en.wikipedia.org/wiki/Govardhanram_Tripathi",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Govardhanram_Tripathi_2013-11-14_23-12.JPG",
+    "title": "Govardhanram Tripathi"
+  },
+  "Shrimad Rajchandra": {
+    "src": "/assets/portraits/shrimad-rajchandra.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shrimad_Rajchandra",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Srimad_Rajcandra.jpg",
+    "title": "Shrimad Rajchandra"
+  },
+  "Dayananda Saraswati": {
+    "src": "/assets/portraits/dayananda-saraswati.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dayananda_Saraswati",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dayananda_Saraswati.jpg",
+    "title": "Dayananda Saraswati"
+  },
+  "Boman Irani": {
+    "src": "/assets/portraits/boman-irani.jpg",
+    "source": "https://en.wikipedia.org/wiki/Boman_Irani",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/IIFA_2017_Green_Carpet_%2836349841166%29_%28cropped%29.jpg",
+    "title": "Boman Irani"
+  },
+  "Hemant Chauhan": {
+    "src": "/assets/portraits/hemant-chauhan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hemant_Chauhan",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hemant_Chauhan_Gujrat_%282%29.jpg",
+    "title": "Hemant Chauhan"
+  },
+  "Bhupen Khakhar": {
+    "src": "/assets/portraits/bhupen-khakhar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bhupen_Khakhar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bhupen_Khakhar.jpg",
+    "title": "Bhupen Khakhar"
+  },
+  "Pannalal Patel": {
+    "src": "/assets/portraits/pannalal-patel.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pannalal_Patel",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pannalal_Patel_-_Konkani_Vishwakosh.jpg",
+    "title": "Pannalal Patel"
+  },
+  "Akha Bhagat": {
+    "src": "/assets/portraits/akha-bhagat.jpg",
+    "source": "https://en.wikipedia.org/wiki/Akha_Bhagat",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Akha_Bhagat_statue_in_Akha_Bhagat_Chowk%2C_Ahmedabad.jpg",
+    "title": "Akha Bhagat"
+  },
+  "Swaminarayan": {
+    "src": "/assets/portraits/swaminarayan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Swaminarayan",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lord_Swaminarayan_writing_the_Shikshapatri.jpg",
+    "title": "Swaminarayan"
+  },
+  "Morari Bapu": {
+    "src": "/assets/portraits/morari-bapu.png",
+    "source": "https://en.wikipedia.org/wiki/Morari_Bapu",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Morari_Bapu.png/3840px-Morari_Bapu.png",
+    "title": "Morari Bapu"
+  },
+  "Sanjeev Kumar": {
+    "src": "/assets/portraits/sanjeev-kumar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sanjeev_Kumar",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sanjeev_Kumar%2C_Best_Actor_for_Koshish.jpg",
+    "title": "Sanjeev Kumar"
+  },
+  "Supriya Pathak": {
+    "src": "/assets/portraits/supriya-pathak.jpg",
+    "source": "https://en.wikipedia.org/wiki/Supriya_Pathak",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Supriya_Pathak_in_2015.jpg",
+    "title": "Supriya Pathak"
+  },
+  "Ratna Pathak Shah": {
+    "src": "/assets/portraits/ratna-pathak-shah.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ratna_Pathak_Shah",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ratna_Pathak_Shah_at_DIFF_2016.jpg",
+    "title": "Ratna Pathak Shah"
+  },
+  "S. R. Rana": {
+    "src": "/assets/portraits/s-r-rana.jpg",
+    "source": "https://en.wikipedia.org/wiki/S._R._Rana",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/S._R._Rana_with_his_German_wife.jpg",
+    "title": "S. R. Rana"
+  },
+  "Sudhir K. Jain": {
+    "src": "/assets/portraits/sudhir-k-jain.png",
+    "source": "https://en.wikipedia.org/wiki/Sudhir_K._Jain",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sudhir_K_Jain_Potrait.png",
+    "title": "Sudhir K. Jain"
+  },
+  "Shankar Chaudhary": {
+    "src": "/assets/portraits/shankar-chaudhary.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shankar_Chaudhary",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/SC_Pro_Pic_10-04-2016.jpg",
+    "title": "Shankar Chaudhary"
+  },
+  "H. M. Patel": {
+    "src": "/assets/portraits/h-m-patel.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hirubhai_M._Patel",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hirubhai_M._Patel_Lok_Sabha_photo.jpg",
+    "title": "Hirubhai M. Patel"
+  },
+  "Aditya Gadhvi": {
+    "src": "/assets/portraits/aditya-gadhvi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aditya_Gadhvi",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Aditya_Gadhvi_At_An_Event_In_Ahmedabad_2020.jpg",
+    "title": "Aditya Gadhvi"
+  },
+  "Atul Dodiya": {
+    "src": "/assets/portraits/atul-dodiya.jpg",
+    "source": "https://en.wikipedia.org/wiki/Atul_Dodiya",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Atul_Dodiya.jpg",
+    "title": "Atul Dodiya"
+  },
+  "Nilima Sheikh": {
+    "src": "/assets/portraits/nilima-sheikh.png",
+    "source": "https://en.wikipedia.org/wiki/Nilima_Sheikh",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nilima_Sheikh.png",
+    "title": "Nilima Sheikh"
+  },
+  "Gulam Mohammed Sheikh": {
+    "src": "/assets/portraits/gulam-mohammed-sheikh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gulam_Mohammed_Sheikh",
+    "original": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/G_M_Sheikh.jpg/3840px-G_M_Sheikh.jpg",
+    "title": "Gulam Mohammed Sheikh"
+  },
+  "Alka Yagnik": {
+    "src": "/assets/portraits/alka-yagnik.jpg",
+    "source": "https://en.wikipedia.org/wiki/Alka_Yagnik",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alka_Yagnik_in_2023_%28cropped%29.jpg",
+    "title": "Alka Yagnik"
+  },
+  "Manhar Udhas": {
+    "src": "/assets/portraits/manhar-udhas.jpg",
+    "source": "https://en.wikipedia.org/wiki/Manhar_Udhas",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/ManharUdhas.jpg",
+    "title": "Manhar Udhas"
+  },
+  "K. G. Subramanyan": {
+    "src": "/assets/portraits/k-g-subramanyan.jpg",
+    "source": "https://en.wikipedia.org/wiki/K._G._Subramanyan",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/K.G._Subramanyan_2008.jpg",
+    "title": "K. G. Subramanyan"
+  }
+}

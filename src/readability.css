@@ -1,0 +1,53 @@
+/* Pair text with its actual surface, independently of the reading language. */
+.global-language{position:sticky;top:0;z-index:15;display:flex;justify-content:flex-end;padding:6px 5%;background:#102b30;border-bottom:1px solid #ffffff22}
+.global-language .language-switch{margin:0}.global-language .language-switch button{min-height:38px}
+.global-language-home{position:absolute;top:92px;left:0;right:0;background:transparent;border:0}
+.district-photo{margin:24px 0 36px;max-width:1100px}
+.district-photo img{width:100%;height:clamp(220px,40vw,480px);object-fit:cover;border-radius:20px}
+.district-photo figcaption{font-size:.85rem;color:#365249;line-height:1.8;margin-top:8px}
+.district-card-photo{width:100%;height:180px;object-fit:cover;border-radius:12px;margin-bottom:18px}
+.story-figure{margin:0 0 20px}.story-figure figcaption{font-size:.8rem;line-height:1.6;color:#4b6258;padding:8px 0}
+.story-figure .explorer-story-image{margin-bottom:0}
+.translation-status{font-size:.8rem;max-width:65ch;color:#f2e5cb;align-self:center;margin-right:auto;padding-right:18px}
+.translation-notice{margin:0;padding:10px 5%;font-size:.85rem;line-height:1.7;background:#eee4d0;color:#36473c;border-bottom:1px solid #cfc2a5}
+.route-page [lang="gu"]{font-family:'Gujarati Local','Noto Sans Gujarati',sans-serif}
+.route-page {
+  --text: #172f30;
+  --secondary: #465d56;
+  --surface: #fffdf8;
+  --border: #c4cec5;
+  color: var(--text);
+}
+.route-page h1[tabindex="-1"]:focus{outline:none}
+.reading-language-controls{margin:20px 0 28px;clear:both}
+.reading-language-controls .language-switch{display:flex;justify-content:flex-end;gap:6px;margin:0;padding:5px;border-radius:30px;background:#173d35;width:max-content;max-width:100%;margin-left:auto}
+.reading-language-controls .language-switch button{background:transparent!important;color:#fffdf5!important;border:1px solid transparent!important;min-width:86px;min-height:44px}
+.reading-language-controls .language-switch button[aria-pressed="true"]{background:#fffdf5!important;color:#173d35!important;border-color:#fffdf5!important;box-shadow:0 2px 7px #0002;font-weight:700}
+.reading-language-controls .language-switch button:focus-visible{outline:3px solid #b67b26;outline-offset:3px}
+.reading-language-controls .translation-notice{margin:12px 0 0;padding:10px 14px;border-radius:10px}
+.home-reading-controls{padding-top:22px;padding-bottom:0}
+img[src="/assets/districts/amreli.jpg"]{object-fit:contain!important;object-position:center!important;background:#dbe2d8}
+img[src="/assets/districts/narmada.jpg"]{object-position:center top!important}
+.route-page :is(.gujarati-text,.reading-body,.explorer-facts,.explorer-chapter,.object-detail,.era-info,.personality-copy) {
+  color: #172f30;
+}
+.route-page :is(.profile-meta,.pronunciation,.page-intro,.explorer-kicker,.explorer-count) {
+  color: #465d56;
+}
+.route-page .reading-body :is(p,li,dd),
+.route-page .explorer-chapter :is(p,li),
+.route-page .personality-copy p { color: #243e39; }
+.route-page .gujarati-text {font-family:'Gujarati Local','Noto Sans Gujarati',sans-serif!important;line-height:2!important}
+.route-page :is(.explorer-card,.related-card,.personality-card) {background:#fffdf8;color:#172f30}
+.route-page .portrait-placeholder {color:#f2e5cb}
+.route-page .portrait-placeholder small {color:#f2e5cb}
+.personality-image {position:relative;background:#dde4db}
+.personality-image img {position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center}
+.profile-portrait img {width:100%;height:100%;object-fit:contain;object-position:center}
+.portrait-credit {font-size:.8rem;line-height:1.6;text-decoration:underline;text-underline-offset:3px;color:#38594d;display:inline-block;margin:10px 0}
+.route-page .chapter-nav {max-height:calc(100vh - 48px);overflow-y:auto;padding-right:12px}
+.district-section .district-item {background:#f8f8f0;color:#172f30}
+.district-section .district-item>span:last-child,.district-section #district-count {color:#465d42}
+.district-hover .district-read-btn {display:block;padding:10px;background:#e6c28c;color:#17382e;border-radius:8px;line-height:1.5}
+.detail-body :is(.gujarati-text,.knowledge-section p,.knowledge-section dd) {color:#243e39}
+@media(max-width:780px){.route-page .chapter-nav{max-height:none;overflow:visible}}
