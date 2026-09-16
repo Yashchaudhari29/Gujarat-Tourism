@@ -1,14 +1,42 @@
 {
   "seasons": [
-    {"id": "s1", "name": "Shiyalo", "description": "Winter"},
-    {"id": "s2", "name": "Unalo", "description": "Summer"},
-    {"id": "s3", "name": "Chomasu", "description": "Monsoon"}
+    {
+      "id": "s1",
+      "name": "Shiyalo — Winter",
+      "description": "Winter"
+    },
+    {
+      "id": "s2",
+      "name": "Unalo — Summer",
+      "description": "Summer"
+    },
+    {
+      "id": "s3",
+      "name": "Chomasu — Monsoon",
+      "description": "Monsoon"
+    }
   ],
   "regions": [
-    {"id": "r1", "name": "Kutch", "type": "Arid and Semi-Arid"},
-    {"id": "r2", "name": "Saurashtra Coast", "type": "Coastal"},
-    {"id": "r3", "name": "South Gujarat Forests", "type": "Forest/Humid"},
-    {"id": "r4", "name": "North Gujarat Plains", "type": "Semi-Arid Plains"}
+    {
+      "id": "r1",
+      "name": "Kutch",
+      "type": "Arid and Semi-Arid"
+    },
+    {
+      "id": "r2",
+      "name": "Saurashtra Coast",
+      "type": "Coastal"
+    },
+    {
+      "id": "r3",
+      "name": "South Gujarat Forests",
+      "type": "Forest/Humid"
+    },
+    {
+      "id": "r4",
+      "name": "North Gujarat Plains",
+      "type": "Semi-Arid Plains"
+    }
   ],
   "observations": [
     {
@@ -19,7 +47,11 @@
       "water_wetlands": "Seasonal wetlands like Chari-Dhand host migratory birds; water scarcity in interior parts.",
       "agriculture_livelihoods": "Cultivation of winter crops (Rabi) like cumin, mustard; pastoralism (Maldharis) relies on dry fodder.",
       "wildlife_activity": "High migratory bird activity in Banni grasslands and Rann. Wild Ass mating season concludes.",
-      "data_integrity": {"source": "Ecological surveys, IMD", "reference_period": "Nov-Feb", "limitations": "Variability in winter night temperatures"}
+      "data_integrity": {
+        "source": "Ecological surveys, IMD",
+        "reference_period": "Nov-Feb",
+        "limitations": "Variability in winter night temperatures"
+      }
     },
     {
       "id": "obs_s2_r1",
@@ -29,7 +61,11 @@
       "water_wetlands": "Severe water stress; wetlands dry up completely leaving salt crusts in the Rann.",
       "agriculture_livelihoods": "Minimal agriculture; reliance on drought-resistant livestock breeds. Migration of pastoralists towards wetter regions.",
       "wildlife_activity": "Wildlife concentrates around artificial waterholes. Heat stress for native fauna.",
-      "data_integrity": {"source": "Climate models, state water data", "reference_period": "Mar-Jun", "limitations": "Microclimate variations under-reported"}
+      "data_integrity": {
+        "source": "Climate models, state water data",
+        "reference_period": "Mar-Jun",
+        "limitations": "Microclimate variations under-reported"
+      }
     },
     {
       "id": "obs_s3_r1",
@@ -39,7 +75,11 @@
       "water_wetlands": "Inundation of the Great and Little Rann; ephemeral rivers flow briefly.",
       "agriculture_livelihoods": "Kharif sowing dependent on rain (bajra, pulses); resurgence of grass in Banni for grazing.",
       "wildlife_activity": "Breeding season for flamingos in the Rann; amphibian and insect explosion.",
-      "data_integrity": {"source": "IMD, ISRO satellite data", "reference_period": "Jul-Oct", "limitations": "Highly variable inter-annual rainfall"}
+      "data_integrity": {
+        "source": "IMD, ISRO satellite data",
+        "reference_period": "Jul-Oct",
+        "limitations": "Highly variable inter-annual rainfall"
+      }
     },
     {
       "id": "obs_s1_r2",
@@ -49,7 +89,11 @@
       "water_wetlands": "Coastal estuaries and mangroves provide stable marine habitats. Inland reservoirs hold post-monsoon water.",
       "agriculture_livelihoods": "Thriving Rabi season (wheat, groundnut). Fishing season at its peak along the coast.",
       "wildlife_activity": "Whale sharks arrive in the coastal waters of Sutrapada/Veraval. Migratory waterfowl in coastal wetlands.",
-      "data_integrity": {"source": "Marine biology institutes, IMD", "reference_period": "Nov-Feb", "limitations": "Coastal fog data sometimes sparse"}
+      "data_integrity": {
+        "source": "Marine biology institutes, IMD",
+        "reference_period": "Nov-Feb",
+        "limitations": "Coastal fog data sometimes sparse"
+      }
     },
     {
       "id": "obs_s2_r2",
@@ -59,7 +103,11 @@
       "water_wetlands": "Reduction in freshwater inflow to estuaries; increased salinity in coastal groundwater.",
       "agriculture_livelihoods": "Fishing continues but faces heat challenges. Pre-monsoon agricultural preparations.",
       "wildlife_activity": "Nesting of sea turtles on sandy beaches. Marine life moves to deeper, cooler waters.",
-      "data_integrity": {"source": "Fisheries department", "reference_period": "Mar-Jun", "limitations": "Localized sea surface temp data needed"}
+      "data_integrity": {
+        "source": "Fisheries department",
+        "reference_period": "Mar-Jun",
+        "limitations": "Localized sea surface temp data needed"
+      }
     },
     {
       "id": "obs_s3_r2",
@@ -69,7 +117,11 @@
       "water_wetlands": "Rivers like Bhadar flood; coastal erosion and mangrove inundation.",
       "agriculture_livelihoods": "Fishing ban in effect due to rough seas. Kharif crop (cotton, groundnut) sowing.",
       "wildlife_activity": "Fish breeding season in estuaries; dispersal of coastal bird populations.",
-      "data_integrity": {"source": "Coastal regulation zone reports", "reference_period": "Jul-Oct", "limitations": "Cyclonic disruptions affect data collection"}
+      "data_integrity": {
+        "source": "Coastal regulation zone reports",
+        "reference_period": "Jul-Oct",
+        "limitations": "Cyclonic disruptions affect data collection"
+      }
     },
     {
       "id": "obs_s1_r3",
@@ -79,7 +131,11 @@
       "water_wetlands": "Perennial rivers (Tapi, Narmada, Dangs region streams) flow steadily; rich forest moisture.",
       "agriculture_livelihoods": "Sugarcane and horticulture (mango orchards) thrive. Forest produce collection by tribal communities.",
       "wildlife_activity": "Leopards and sloth bears highly active. Rich avian diversity in Dangs and Vansda.",
-      "data_integrity": {"source": "Forest department surveys", "reference_period": "Nov-Feb", "limitations": "Dense canopy obscures satellite sensing"}
+      "data_integrity": {
+        "source": "Forest department surveys",
+        "reference_period": "Nov-Feb",
+        "limitations": "Dense canopy obscures satellite sensing"
+      }
     },
     {
       "id": "obs_s2_r3",
@@ -89,7 +145,11 @@
       "water_wetlands": "Minor streams dry up; major rivers rely on dam releases. Reduced forest humidity.",
       "agriculture_livelihoods": "Mango harvesting peaks. Water-intensive sugarcane faces stress in non-canal areas.",
       "wildlife_activity": "Wildlife relies on specific perennial forest pools. Increased human-wildlife conflict for water.",
-      "data_integrity": {"source": "Agriculture department", "reference_period": "Mar-Jun", "limitations": "Groundwater depletion rates estimated"}
+      "data_integrity": {
+        "source": "Agriculture department",
+        "reference_period": "Mar-Jun",
+        "limitations": "Groundwater depletion rates estimated"
+      }
     },
     {
       "id": "obs_s3_r3",
@@ -99,7 +159,11 @@
       "water_wetlands": "Rivers in spate; widespread flooding in plains. Abundant freshwater habitats.",
       "agriculture_livelihoods": "Paddy cultivation. Difficulty in forest access for non-timber produce gathering.",
       "wildlife_activity": "Breeding season for reptiles and amphibians; dense foliage provides high cover for predators.",
-      "data_integrity": {"source": "Rainfall gauges, IMD", "reference_period": "Jul-Oct", "limitations": "Flooding damages gauge stations occasionally"}
+      "data_integrity": {
+        "source": "Rainfall gauges, IMD",
+        "reference_period": "Jul-Oct",
+        "limitations": "Flooding damages gauge stations occasionally"
+      }
     },
     {
       "id": "obs_s1_r4",
@@ -109,7 +173,11 @@
       "water_wetlands": "Lakes and reservoirs hold water; rivers like Sabarmati sustain managed flows.",
       "agriculture_livelihoods": "Extensive Rabi cultivation (wheat, castor, mustard) using canal/ground water. Dairy cooperatives active.",
       "wildlife_activity": "Sloth bears in Jessore sanctuary active; migratory birds in Thol lake.",
-      "data_integrity": {"source": "State agriculture stats", "reference_period": "Nov-Feb", "limitations": "Irrigation vs rainfall impacts overlapping"}
+      "data_integrity": {
+        "source": "State agriculture stats",
+        "reference_period": "Nov-Feb",
+        "limitations": "Irrigation vs rainfall impacts overlapping"
+      }
     },
     {
       "id": "obs_s2_r4",
@@ -119,7 +187,11 @@
       "water_wetlands": "Severe evaporation; many village ponds dry up. High reliance on deep borewells.",
       "agriculture_livelihoods": "Summer crops limited to irrigated areas. Dairy faces heat stress challenges.",
       "wildlife_activity": "Reduced diurnal activity; mammals seek shade in thorny scrublands.",
-      "data_integrity": {"source": "Groundwater boards", "reference_period": "Mar-Jun", "limitations": "Borewell data not fully digitized"}
+      "data_integrity": {
+        "source": "Groundwater boards",
+        "reference_period": "Mar-Jun",
+        "limitations": "Borewell data not fully digitized"
+      }
     },
     {
       "id": "obs_s3_r4",
@@ -129,7 +201,11 @@
       "water_wetlands": "Recharge of groundwater and surface water bodies. Sabarmati and Banas rivers swell.",
       "agriculture_livelihoods": "Major Kharif sowing (cotton, castor). Pastures rejuvenate supporting dairy.",
       "wildlife_activity": "Aravalli foothills turn green supporting herbivores; bird nesting in scrub forests.",
-      "data_integrity": {"source": "IMD, local agronomy stations", "reference_period": "Jul-Oct", "limitations": "Inconsistent temporal distribution of rain"}
+      "data_integrity": {
+        "source": "IMD, local agronomy stations",
+        "reference_period": "Jul-Oct",
+        "limitations": "Inconsistent temporal distribution of rain"
+      }
     }
   ]
 }

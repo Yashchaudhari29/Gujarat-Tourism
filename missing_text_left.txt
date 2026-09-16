@@ -1,0 +1,86 @@
+2445: The Rann: a seasonal landscape
+2446: The Rann’s white surface is the result of seasonal water and salt processes. Treating it as a permanently dry desert misses the importance of inundation, evaporation and changing access.
+2453: Wetlands and migratory journeys
+2454: Wetlands provide feeding, resting and breeding habitats, but their value depends on water depth, vegetation, food and disturbance. Bird movement connects Gujarat with places far beyond state and national boundaries.
+2461: forests.gujarat.gov.in ↗
+2463: Population counts are one indicator, but habitat connections, disease risk, prey and community experience also matter. Keep wildlife viewing separate from assumptions about conservation success and follow local rules designed to limit disturbance.
+2467: A useful approach joins soil conservation, dependable public services and participation in local decisions. Seasonal beauty is only one part of a landscape whose residents experience changing opportunities throughout the year.
+2471: Conservation should begin with identifying the ecosystem and the species and livelihoods it supports. Policies based only on increasing tree cover can overlook the ecological and cultural value of open habitats.
+2478: Fishing continues but faces heat challenges. Pre-monsoon agricultural preparations.
+2481: Minor streams dry up; major rivers rely on dam releases. Reduced forest humidity.
+2485: Severe evaporation; many village ponds dry up. High reliance on deep borewells.
+2490: Kharif sowing dependent on rain (bajra, pulses); resurgence of grass in Banni for grazing.
+2495: Fish breeding season in estuaries; dispersal of coastal bird populations.
+2499: Breeding season for reptiles and amphibians; dense foliage provides high cover for predators.
+2504: Context
+2505: Reading
+2509: c. 3300 BCE – 1300 BCE
+2510: The earliest known urban culture of the Indian subcontinent. In Gujarat, this era is characterized by maritime trade, advanced town planning, sophisticated drainage systems, and specialized craft production like bead-making and shell-working.
+2547: Documented
+2558: kutch
+2559: rann
+2560: dholavira
+2561: central
+2562: ahmedabad
+2563: lothal
+2564: sabarmati
+2566: gir
+2567: north
+2569: stepwell
+2571: marine
+2573: patola
+2581: Winter
+2584: s3
+2585: Monsoon
+2588: r2
+2589: Coastal
+2593: Semi-Arid Plains
+2600: Mar-Jun
+2601: Microclimate variations under-reported
+2610: Fisheries department
+2613: Coastal regulation zone reports
+2619: Agriculture department
+2623: Flooding damages gauge stations occasionally
+2632: Inconsistent temporal distribution of rain
+2655: Ministry of New and Renewable Energy: International Solar Alliance
+2667: Biography: K. M. Munshi
+2674: Porbandar, Gujarat
+2678: Bhikaiji Cama
+2681: Biography: Shyamji Krishna Varma
+2688: Physical Research Laboratory: founder biography
+2699: Biography: A. S. Kiran Kumar
+2708: Biography: Karsanbhai Patel
+2716: Kozhikode, Kerala (Worked in Anand, Gujarat)
+2725: Biography: Shankar Chaudhary
+2734: Biography: Hansa Mehta
+2741: Biography: Sharda Mehta
+2748: Virpur, Gujarat
+2752: Bamuna, Gujarat
+2759: Biography: Pannalal Patel
+2763: akho
+2765: Biography: Akho
+2771: Biography: Dayananda Saraswati
+2782: Biography: Boman Irani
+2788: Jetpur, Gujarat
+2791: Vadodara, Gujarat
+2798: Biography: Manhar Udhas
+2805: Biography: K. G. Subramanyan
+2813: Biography: Bhupen Khakhar
+2817: The poem title 'Vaishnava Jana To' must be pronounced with utmost respect and cultural pride, as it's a globally recognized hymn.
+2821: Surendranagar / Botad
+2823: Inject a deeply patriotic and slightly defiant tone during the mention of 'Sindhudo'. Ensure 'Raashtriya Shaayar' stands out prominently.
+2828: The quote 'Aa Bhartiya swatantrata no dhwaj chhe...' should be delivered with fiery passion and authority. End on a high, triumphant note for 'Mother of Indian Revolution'.
+2836: Lake in Surat, Gujarat, India
+2839: Human settlement in India
+2843: Town in Gujarat, India
+2847: Somnath Temple
+2848: Hindu temple and Shakti piths in Gujarat, India
+2856: ;
+ return
+2859: p.id===slug);const sections=parseDistrictChapters(texts[slug]||'');
+ if(!slug)return
+2871: r.id===parsed.id);return
+2872: :parsed.kind==='environment'?
+2875: setExpanded(false),[path]);
+ const links=[['/#explore','Explore'],['/leadership','Leadership'],['/explore-deeper','Explore deeper'],['/development','Development'],['/districts','Districts'],['/#stories','Stories']];
+ return

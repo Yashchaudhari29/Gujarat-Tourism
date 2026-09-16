@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import {atlasViewport,nearestNorth} from '../src/runtime/atlas.js';
+import photos from '../src/data/district-photos.json' with { type: 'json' };
 for(const [w,h] of [[0,0],[100,0],[0,100],[NaN,20],[20,Infinity],[-1,20]]){
  const size=atlasViewport(w,h);assert.equal(size.visible,false);assert.equal(size.aspect,1);assert.ok(size.width>0&&size.height>0);
 }

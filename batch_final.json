@@ -1,0 +1,194 @@
+[
+  {
+    "id": 2519,
+    "source": "1304 CE – 1758 CE"
+  },
+  {
+    "id": 2520,
+    "source": "Beginning with the conquest by the Delhi Sultanate, followed by the independent and prosperous Gujarat Sultanate, and subsequently incorporation into the Mughal Empire. Characterized by Indo-Islamic architecture, bustling international ports, and textile exports."
+  },
+  {
+    "id": 2590,
+    "source": "r3"
+  },
+  {
+    "id": 2591,
+    "source": "Forest/Humid"
+  },
+  {
+    "id": 2597,
+    "source": "Variability in winter night temperatures"
+  },
+  {
+    "id": 2607,
+    "source": "Marine biology institutes, IMD"
+  },
+  {
+    "id": 2611,
+    "source": "Localized sea surface temp data needed"
+  },
+  {
+    "id": 2620,
+    "source": "Groundwater depletion rates estimated"
+  },
+  {
+    "id": 2628,
+    "source": "Groundwater boards"
+  },
+  {
+    "id": 2631,
+    "source": "IMD, local agronomy stations"
+  },
+  {
+    "id": 2650,
+    "source": "Prime Minister’s Office: biography and offices"
+  },
+  {
+    "id": 2659,
+    "source": "Nadiad, Gujarat"
+  },
+  {
+    "id": 2661,
+    "source": "Biography: Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 2668,
+    "source": "Kanaiyalal Maneklal Munshi"
+  },
+  {
+    "id": 2675,
+    "source": "Biography: Mahatma Gandhi"
+  },
+  {
+    "id": 2683,
+    "source": "S. R. Rana"
+  },
+  {
+    "id": 2687,
+    "source": "Physical Research Laboratory: institutional history"
+  },
+  {
+    "id": 2697,
+    "source": "Biography: Yash Pal"
+  },
+  {
+    "id": 2704,
+    "source": "Chorwad, Gujarat"
+  },
+  {
+    "id": 2707,
+    "source": "Mehsana, Gujarat"
+  },
+  {
+    "id": 2712,
+    "source": "Biography: Ambalal Sarabhai"
+  },
+  {
+    "id": 2719,
+    "source": "Anand, Gujarat"
+  },
+  {
+    "id": 2721,
+    "source": "Tribhuvandas Kishibhai Patel"
+  },
+  {
+    "id": 2729,
+    "source": "Biography: H. M. Patel"
+  },
+  {
+    "id": 2735,
+    "source": "Hansa Jivraj Mehta"
+  },
+  {
+    "id": 2743,
+    "source": "Biography: Pushpaben Mehta"
+  },
+  {
+    "id": 2749,
+    "source": "Biography: Dhumketu"
+  },
+  {
+    "id": 2754,
+    "source": "narmad"
+  },
+  {
+    "id": 2757,
+    "source": "Biography: Govardhanram Tripathi"
+  },
+  {
+    "id": 2767,
+    "source": "Biography: Shrimad Rajchandra"
+  },
+  {
+    "id": 2775,
+    "source": "Mumbai, India"
+  },
+  {
+    "id": 2778,
+    "source": "Biography: Paresh Rawal"
+  },
+  {
+    "id": 2786,
+    "source": "Biography: Ratna Pathak Shah"
+  },
+  {
+    "id": 2796,
+    "source": "Biography: Hemant Chauhan"
+  },
+  {
+    "id": 2803,
+    "source": "Biography: Ravishankar Raval"
+  },
+  {
+    "id": 2811,
+    "source": "Biography: Gulam Mohammed Sheikh"
+  },
+  {
+    "id": 2818,
+    "source": "Pace the reading evenly when listing historical figures. Stress 'Retreat' (the family home) and 'Cosmic Rays' clearly."
+  },
+  {
+    "id": 2820,
+    "source": "Pronounce 'Thumba' and 'ISRO' sharply. The tone should rise to an inspiring crescendo when mentioning the journey from bicycles to Mars."
+  },
+  {
+    "id": 2825,
+    "source": "Navsari / Mumbai"
+  },
+  {
+    "id": 2827,
+    "source": "Ensure names like 'Shyamji Krishna Varma' and 'Dadabhai Naoroji' are pronounced clearly. Give 'Vande Mataram' and 'Madan Talwar' a tone of secretive rebellion."
+  },
+  {
+    "id": 2833,
+    "source": "UNESCO World Heritage Site in Gujarat, India"
+  },
+  {
+    "id": 2837,
+    "source": "Dam in Tapi district"
+  },
+  {
+    "id": 2841,
+    "source": "Mosque in Ahmedabad, Gujarat, India"
+  },
+  {
+    "id": 2845,
+    "source": "Temple in Gujarat, India"
+  },
+  {
+    "id": 2850,
+    "source": "Artificial lake in Jamnagar, Gujarat"
+  },
+  {
+    "id": 2853,
+    "source": "Colossal statue of Vallabhbhai Patel in Gujarat, India"
+  },
+  {
+    "id": 2865,
+    "source": "(kind!=='history'||eraId==='all'||r.era_id===eraId)&&[r.name||r.title,r.description||r.overview||'',translateText(r.name||r.title,language)].join(' ').toLowerCase().includes(query.toLowerCase()));return"
+  },
+  {
+    "id": 2882,
+    "source": "translateText(t,language))].join(' ').toLowerCase().includes(query.toLowerCase()));\n return"
+  }
+]

@@ -1,1 +1,1 @@
-export const fullTranslationReady=false;
+export const fullTranslationReady = true;

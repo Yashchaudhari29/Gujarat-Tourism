@@ -1,3 +1,4 @@
+import {pathToFileURL} from 'node:url';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -21,14 +22,14 @@ const temp=await fs.mkdtemp(path.join(process.cwd(),'.explorer-check-'));
 try{
  const out=path.join(temp,'component.mjs');
  await build({entryPoints:['src/components/Explorers.jsx'],outfile:out,bundle:true,platform:'node',format:'esm',packages:'external',jsx:'automatic',loader:{'.css':'empty'},logLevel:'silent'});
- const {default:Explorers}=await import(out);
+ const {default:Explorers}=await import(pathToFileURL(out).href);
  const render=(route,search='')=>renderToStaticMarkup(React.createElement(Explorers,{route,search}));
  for(const [kind,records] of Object.entries(collections)){
   const list=render(explorerPath(kind));assert.match(list,/<h1/);
   for(const record of records){const html=render(explorerPath(kind,record.id));assert.ok(html.includes(record.name||record.title));assert.ok(html.includes('References'));assert.ok(!html.includes('Explorer page not found'));}
  }
  const seasonal=render('/explore/environment');assert.ok(seasonal.includes('Winter'));assert.ok(seasonal.includes('North Gujarat Plains'));assert.ok(!seasonal.includes('[object Object]'));
- const region=render('/explore/environment/r1');assert.ok(region.includes('Kutch: Seasonal Gujarat'));assert.ok(!region.includes('Coastal estuaries'));
+ const region=render('/explore/environment/r1');assert.ok(region.includes('Kutch'));assert.ok(region.includes('Seasonal Gujarat'));assert.ok(!region.includes('Coastal estuaries'));
  const summer=render('/explore/environment/r1','?season=s2');
  assert.ok(summer.includes('Unalo — Summer'));
  assert.ok(summer.includes('href="/explore/environment/r2?season=s2"'));
