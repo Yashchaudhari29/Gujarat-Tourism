@@ -11,6 +11,7 @@ import Wildlife from './components/Wildlife.jsx';
 import Stories from './components/Stories.jsx';
 import Footer from './components/Footer.jsx';
 import DetailDialog from './components/DetailDialog.jsx';
+import ScrollToTop from './components/ScrollToTop.jsx';
 import PersonalitiesPage from './components/PersonalitiesPage.jsx';
 import ExploreDeeperHub from './components/ExploreDeeperHub.jsx';
 import Explorers from './components/Explorers.jsx';
@@ -84,6 +85,6 @@ function AppContent({initialPath = '/', initialSearch = ''}) {
     {route.type === 'districts' && <DistrictPage key={path} slug={route.id}/>}
     {route.type === 'development' && <DevelopmentPage key={path} id={route.id}/>}
     {route.type === 'not-found' && <main id="page-content" className="route-page"><h1 tabIndex={-1}>Page not found</h1><p>This address does not match a page in the atlas.</p><a className="primary" href="/">Return to Gujarat</a></main>}
-    <Footer/><DetailDialog/>
+    <Footer/><ScrollToTop/><DetailDialog/>
   </>;
 }

@@ -639,3 +639,89 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}.route-page *,.gaurav-section *{animation:none!important;transition:none!important}.personality-card:hover{transform:none}}
 .reduce-motion .route-page *,.reduce-motion .gaurav-section *{animation:none!important;transition:none!important}.reduce-motion .personality-card:hover{transform:none}
 @media print{.header,footer,.skip,.chapter-nav,.directory-controls,.tag-list,button,.related-section{display:none!important}.route-page{background:white!important;padding:0;color:black}.reading-layout{display:block}.profile-hero{display:block}.profile-portrait{width:140px;height:160px;float:left;margin-right:20px}.reading-body section{break-inside:avoid}.route-page a{text-decoration:underline}}
+
+/* === Deep Dive Content Expansion System === */
+.district-intro-deep{max-width:760px;margin:0 0 20px;color:#3b5851;line-height:1.85}
+.district-intro-deep p{font-size:1.05rem}
+
+/* Progressive disclosure toggle */
+.expandable-section{margin:16px 0}
+.expand-toggle{display:inline-flex;align-items:center;gap:8px;padding:10px 18px;background:transparent;border:1px solid #b9c8bf;border-radius:8px;color:#244e43;font-size:.9rem;cursor:pointer;transition:background .25s,border-color .25s}
+.expand-toggle:hover{background:#eaf0e9;border-color:#9c824e}
+.expand-toggle:focus-visible{outline:3px solid #8d5d15;outline-offset:3px}
+.expand-toggle span{font-size:.7em;transition:transform .25s}
+.expand-content{margin-top:18px;padding:20px 0;border-top:1px solid rgba(23,47,48,.1);animation:fadeSlideIn .3s ease}
+@keyframes fadeSlideIn{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.expand-content{animation:none}}
+
+/* Timeline */
+.district-timeline{position:relative;padding-left:28px;margin:12px 0}
+.district-timeline::before{content:'';position:absolute;left:8px;top:0;bottom:0;width:2px;background:#ccb887}
+.timeline-entry{position:relative;margin-bottom:24px;padding-left:12px}
+.timeline-entry::before{content:'';position:absolute;left:-24px;top:6px;width:10px;height:10px;border-radius:50%;background:#9c824e;border:2px solid #f3f0e7}
+.timeline-period{display:inline-block;font-size:.78rem;font-weight:600;letter-spacing:.5px;color:#755529;text-transform:uppercase;margin-bottom:4px}
+.timeline-content strong{display:block;margin-bottom:6px;color:#172f30}
+.timeline-content p{margin:0;color:#4b605c;line-height:1.75;font-size:.95rem}
+
+/* Heritage site entries */
+.heritage-sites-list{display:grid;gap:18px;margin:8px 0}
+.heritage-site-entry{padding:20px;background:rgba(255,255,255,.6);border:1px solid rgba(23,47,48,.12);border-radius:12px}
+.heritage-site-entry h3{font-size:1.1rem;margin:0 0 8px;color:#172f30}
+.heritage-site-entry h3 span{font-size:.95rem;color:#4b605c;font-weight:400}
+.heritage-site-entry .eyebrow{display:inline-block;margin-bottom:8px}
+.heritage-site-entry p{margin:0;line-height:1.75;color:#3b5851}
+
+/* Documentary story chapter blocks */
+.story-chapter-block{margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid rgba(23,47,48,.08)}
+.story-chapter-block:last-child{border-bottom:none;padding-bottom:0}
+.story-chapter-block h4{font:600 1.05rem Georgia,serif;color:#172f30;margin:0 0 12px}
+.story-chapter-block p{line-height:1.85;color:#3b5851}
+.scene-note{font-size:.85rem!important;color:#79613c!important;line-height:1.6!important;margin-top:8px!important}
+
+/* Deep sources */
+.deep-sources{margin:8px 0}
+.deep-sources h3{font-size:1rem;margin:20px 0 8px;color:#172f30}
+
+/* District photo figure */
+.district-photo{margin:0 0 24px;border-radius:12px;overflow:hidden}
+.district-photo img{width:100%;max-height:400px;object-fit:cover;display:block}
+.district-photo figcaption{font-size:.85rem;color:#53665e;padding:10px 0;line-height:1.6}
+
+@media(max-width:780px){
+ .district-timeline{padding-left:22px}
+ .timeline-entry{padding-left:8px}
+ .heritage-site-entry{padding:16px}
+}
+.scroll-to-top {
+  position: fixed;
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  right: clamp(16px, 3vw, 40px);
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background: #102b30;
+  color: #dfc187;
+  border: 1px solid #dfc18766;
+  font-size: 20px;
+  cursor: pointer;
+  z-index: 100;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.3s, transform 0.3s;
+}
+.scroll-to-top:hover {
+  background: #dfc187;
+  color: #102b30;
+  transform: translateY(-3px);
+}
+@media(max-width: 780px) {
+  .scroll-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+  }
+}
+
